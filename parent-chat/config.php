@@ -22,7 +22,7 @@ define('GROQ_API_KEY', 'YOUR_GROQ_API_KEY_HERE');
 define('GROQ_API_ENDPOINT', 'https://api.groq.com/openai/v1/chat/completions');
 
 // Model Configuration
-define('GROQ_MODEL', 'llama-3.1-70b-versatile');  // Fast and powerful model
+define('GROQ_MODEL', 'llama-3.3-70b-versatile');  // Latest LLaMA model - Fast and powerful
 define('GROQ_TEMPERATURE', 0.7);                    // Creativity level (0.0 - 1.0)
 define('GROQ_MAX_TOKENS', 1024);                    // Maximum response length
 
