@@ -1,0 +1,10 @@
+Place your SmartHub logo file here:
+
+Filename: logo.png
+Format: PNG (with transparent background recommended)
+Recommended size: 500-1000px width
+Max file size: 500KB
+
+The system will work without a logo, but adding one improves branding.
+
+If logo is not available, the logo areas will simply not display.

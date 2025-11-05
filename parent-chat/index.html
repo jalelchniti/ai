@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SmartHub Educational Consultation - AI-powered guidance for parents and learners">
+    <title>Educational Consultation - SmartHub</title>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <img src="../assets/images/logo.png" alt="SmartHub Logo" class="header-logo" onerror="this.style.display='none'">
+                    <h1>SmartHub Educational Consultation</h1>
+                </div>
+                <p class="header-subtitle">Personalized guidance for learners and families</p>
+            </div>
+        </header>
+
+        <!-- Chat Messages Area -->
+        <main class="chat-messages" id="chatMessages" role="log" aria-live="polite" aria-label="Chat messages">
+            <!-- Welcome message -->
+            <div class="message ai-message">
+                <div class="message-content">
+                    <p>Bonjour! Welcome to SmartHub Educational Consultation! 🎓</p>
+                    <p>I'm here to help guide your educational journey. Feel free to ask about:</p>
+                    <ul>
+                        <li>Educational consultation services</li>
+                        <li>Learning pathways and subject options</li>
+                        <li>Qualified teachers and course offerings</li>
+                        <li>Scheduling and consultation process</li>
+                        <li>Educational guidance and support</li>
+                    </ul>
+                    <p>How can I help you today?</p>
+                </div>
+                <span class="message-time" id="welcomeTime"></span>
+            </div>
+        </main>
+
+        <!-- Typing Indicator -->
+        <div class="typing-indicator" id="typingIndicator" style="display: none;">
+            <div class="typing-dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <span class="typing-text">SmartHub is typing...</span>
+        </div>
+
+        <!-- Error Message -->
+        <div class="error-message" id="errorMessage" style="display: none;" role="alert">
+            <span class="error-icon">⚠️</span>
+            <span class="error-text" id="errorText"></span>
+            <button class="error-close" onclick="closeError()" aria-label="Close error message">&times;</button>
+        </div>
+
+        <!-- Input Area -->
+        <footer class="chat-input-container">
+            <div class="input-wrapper">
+                <textarea
+                    id="userInput"
+                    class="chat-input"
+                    placeholder="Tapez votre message ici... / Type your message here..."
+                    rows="1"
+                    aria-label="Message input"
+                    maxlength="2000"
+                ></textarea>
+                <button
+                    id="sendButton"
+                    class="send-button"
+                    aria-label="Send message"
+                    title="Send message"
+                >
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+                        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="input-hint">
+                <small>Press Enter to send, Shift+Enter for new line</small>
+            </div>
+        </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="../assets/js/chat.js"></script>
+    <script>
+        // Initialize chat with parent configuration
+        const chatConfig = {
+            apiEndpoint: 'chat.php',
+            chatType: 'parent'
+        };
+
+        // Set welcome message timestamp
+        document.getElementById('welcomeTime').textContent = new Date().toLocaleTimeString('en-US', {
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+
+        // Initialize chat
+        initializeChat(chatConfig);
+    </script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+# SmartHub AI Chat System - Git Ignore File
+
+# ========================================
+# SENSITIVE FILES - NEVER COMMIT
+# ========================================
+
+# Config files with API keys (after they are configured)
+# NOTE: We commit template config files, but once you add your real API key,
+# you should avoid committing updates to these files
+
+# Error logs
+teacher-chat/error.log
+parent-chat/error.log
+*.log
+
+# ========================================
+# DEVELOPMENT FILES
+# ========================================
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# ========================================
+# OPTIONAL: ACTUAL LOGO FILES
+# ========================================
+
+# If you want to keep your actual logo private, uncomment:
+# assets/images/logo.png
+# assets/images/logo.svg
+
+# ========================================
+# DOCUMENTATION ARTIFACTS
+# ========================================
+
+# Testing files
+test.php
+phpinfo.php
+debug.html
+
+# Phase 1 individual completion files (optional)
+# smarthub-information-brief-COMPLETED.md
