@@ -88,20 +88,17 @@
     <!-- JavaScript -->
     <script src="../assets/js/chat.js"></script>
     <script>
-        // Initialize chat with parent configuration
-        const chatConfig = {
-            apiEndpoint: 'chat.php',
-            chatType: 'parent'
-        };
-
         // Set welcome message timestamp
         document.getElementById('welcomeTime').textContent = new Date().toLocaleTimeString('en-US', {
             hour: '2-digit',
             minute: '2-digit'
         });
 
-        // Initialize chat
-        initializeChat(chatConfig);
+        // Initialize chat with parent configuration (pass config directly)
+        initializeChat({
+            apiEndpoint: 'chat.php',
+            chatType: 'parent'
+        });
     </script>
 </body>
 </html>

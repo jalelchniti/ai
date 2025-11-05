@@ -87,20 +87,17 @@
     <!-- JavaScript -->
     <script src="../assets/js/chat.js"></script>
     <script>
-        // Initialize chat with teacher configuration
-        const chatConfig = {
-            apiEndpoint: 'chat.php',
-            chatType: 'teacher'
-        };
-
         // Set welcome message timestamp
         document.getElementById('welcomeTime').textContent = new Date().toLocaleTimeString('en-US', {
             hour: '2-digit',
             minute: '2-digit'
         });
 
-        // Initialize chat
-        initializeChat(chatConfig);
+        // Initialize chat with teacher configuration (pass config directly)
+        initializeChat({
+            apiEndpoint: 'chat.php',
+            chatType: 'teacher'
+        });
     </script>
 </body>
 </html>
