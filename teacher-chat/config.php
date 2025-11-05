@@ -16,7 +16,7 @@
 
 // Groq API Key - REPLACE WITH YOUR ACTUAL API KEY
 // Get your API key from: https://console.groq.com
-define('GROQ_API_KEY', 'YOUR_GROQ_API_KEY_HERE');
+define('GROQ_API_KEY', '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');
 
 // Groq API Endpoint
 define('GROQ_API_ENDPOINT', 'https://api.groq.com/openai/v1/chat/completions');
