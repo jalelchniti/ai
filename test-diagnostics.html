@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartHub Chat Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .test-section {
+            background: #f5f5f5;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .success { color: green; }
+        .error { color: red; }
+        button {
+            background: #0066CC;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0052A3;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            background: white;
+            border-radius: 5px;
+            min-height: 50px;
+        }
+        pre {
+            background: #333;
+            color: #0f0;
+            padding: 10px;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔧 SmartHub Chat Diagnostic Test</h1>
+
+    <div class="test-section">
+        <h2>Test 1: JavaScript Check</h2>
+        <p id="js-test" class="error">❌ JavaScript not loaded</p>
+    </div>
+
+    <div class="test-section">
+        <h2>Test 2: Chat PHP Endpoint Test</h2>
+        <button onclick="testTeacherAPI()">Test Teacher Chat API</button>
+        <button onclick="testParentAPI()">Test Parent Chat API</button>
+        <div id="result"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>Test 3: File Structure Check</h2>
+        <p>Expected files:</p>
+        <ul>
+            <li>/teacher-chat/chat.php</li>
+            <li>/parent-chat/chat.php</li>
+            <li>/assets/js/chat.js</li>
+        </ul>
+        <button onclick="checkFiles()">Check Files Exist</button>
+        <div id="file-result"></div>
+    </div>
+
+    <script>
+        // Test 1: JavaScript is working
+        document.getElementById('js-test').innerHTML = '✅ JavaScript is working!';
+        document.getElementById('js-test').className = 'success';
+
+        // Test 2: API endpoint test
+        async function testTeacherAPI() {
+            const result = document.getElementById('result');
+            result.innerHTML = '⏳ Testing teacher chat API...';
+
+            try {
+                const response = await fetch('teacher-chat/chat.php', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: 'Hello, this is a test',
+                        chatType: 'teacher'
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    result.innerHTML = `
+                        <p class="success">✅ Teacher Chat API Working!</p>
+                        <p><strong>AI Response:</strong></p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                } else {
+                    result.innerHTML = `
+                        <p class="error">❌ API Error:</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                }
+            } catch (error) {
+                result.innerHTML = `
+                    <p class="error">❌ Connection Error:</p>
+                    <pre>${error.message}</pre>
+                    <p>Possible issues:</p>
+                    <ul>
+                        <li>chat.php file not found (404)</li>
+                        <li>PHP error in chat.php</li>
+                        <li>CORS issue</li>
+                        <li>Server configuration problem</li>
+                    </ul>
+                `;
+            }
+        }
+
+        async function testParentAPI() {
+            const result = document.getElementById('result');
+            result.innerHTML = '⏳ Testing parent chat API...';
+
+            try {
+                const response = await fetch('parent-chat/chat.php', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: 'Bonjour, ceci est un test',
+                        chatType: 'parent'
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    result.innerHTML = `
+                        <p class="success">✅ Parent Chat API Working!</p>
+                        <p><strong>AI Response:</strong></p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                } else {
+                    result.innerHTML = `
+                        <p class="error">❌ API Error:</p>
+                        <pre>${JSON.stringify(data, null, 2)}</pre>
+                    `;
+                }
+            } catch (error) {
+                result.innerHTML = `
+                    <p class="error">❌ Connection Error:</p>
+                    <pre>${error.message}</pre>
+                `;
+            }
+        }
+
+        async function checkFiles() {
+            const result = document.getElementById('file-result');
+            result.innerHTML = '⏳ Checking files...';
+
+            const files = [
+                'teacher-chat/chat.php',
+                'parent-chat/chat.php',
+                'assets/js/chat.js',
+                'assets/css/styles.css'
+            ];
+
+            let html = '<ul>';
+
+            for (const file of files) {
+                try {
+                    const response = await fetch(file, { method: 'HEAD' });
+                    if (response.ok) {
+                        html += `<li class="success">✅ ${file} - Found</li>`;
+                    } else {
+                        html += `<li class="error">❌ ${file} - Not found (${response.status})</li>`;
+                    }
+                } catch (error) {
+                    html += `<li class="error">❌ ${file} - Error checking</li>`;
+                }
+            }
+
+            html += '</ul>';
+            result.innerHTML = html;
+        }
+    </script>
+</body>
+</html>
