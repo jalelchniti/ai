@@ -1,4 +1,4 @@
-# Educational Agents - Specific Implementation Requirements
+# English Learning Assistant - Specific Implementation Requirements
 
 **Date:** November 6, 2025
 **Status:** Requirements Confirmed
@@ -8,13 +8,12 @@
 ## Key Requirements Summary
 
 ### 1. Priority & Scope
-- **All grades are equal priority** (Grades 1-6)
-- Both English and French agents to be developed in parallel
-- Full implementation of all three competencies for each grade
+- **All grades are equal priority** (Grades 6-9)
+- English Learning Assistant focused implementation
+- Full coverage of grammar, reading comprehension, and guided writing
 
 ### 2. Language Formality
-- **French Agent:** Use "vous" (formal form) in all interactions
-- **English Agent:** Standard polite English (equivalent formality level)
+- **English Agent:** Standard polite English with professional yet friendly tone
 
 ### 3. Communication Style & Pedagogy
 
@@ -64,7 +63,7 @@ Agent: "Excellent improvement! Now let's add supporting details.
 
 **Example Phrases to Use:**
 
-For **English Agent:**
+For **English Learning Assistant:**
 ```
 "By the way, SmartHub offers personalized English courses for your grade level!
 Would you like to know more about our available programs?"
@@ -80,26 +79,6 @@ Would you like information about what's currently available?"
 
 "If you enjoy this kind of practice, you might be interested in SmartHub's
 English courses. Contact us to see what's available for Grade [X]!"
-```
-
-For **French Agent (using vous):**
-```
-"Au fait, SmartHub propose des cours de français personnalisés pour votre niveau!
-Aimeriez-vous en savoir plus sur nos programmes disponibles?"
-
-"Si vous souhaitez plus d'aide comme celle-ci, SmartHub offre d'excellents cours
-de français avec des enseignants expérimentés. N'hésitez pas à nous contacter pour
-en savoir plus sur nos offres actuelles!"
-
-"Vous progressez bien! Saviez-vous que SmartHub propose des cours de français
-structurés qui peuvent vous aider à progresser encore plus rapidement?
-Nous serions ravis de vous en dire plus!"
-
-"Beaucoup d'élèves de votre niveau bénéficient de nos cours de français à SmartHub.
-Aimeriez-vous des informations sur ce qui est actuellement disponible?"
-
-"Si vous appréciez ce type d'exercice, vous pourriez être intéressé par les cours
-de français de SmartHub. Contactez-nous pour voir ce qui est disponible pour la Classe [X]!"
 ```
 
 **Contact Information to Include:**
@@ -128,7 +107,7 @@ de français de SmartHub. Contactez-nous pour voir ce qui est disponible pour la
 ```
 
 #### System Prompt Addition
-Both agents' system prompts must include:
+The agent's system prompt must include:
 
 ```
 SMARTHUB COURSE PROMOTION:
@@ -192,7 +171,7 @@ Agent: "You've done wonderful work! Your writing has improved so much through
         this process.
 
         If you'd like to continue developing your writing skills with
-        personalized guidance, SmartHub offers excellent [English/French]
+        personalized guidance, SmartHub offers excellent English
         writing courses. Contact us at smarthub.com.tn to learn more!"
 ```
 
@@ -216,14 +195,14 @@ When student struggles:
 ### 8. Quality Assurance Checklist
 
 Before deployment, verify:
-- [ ] French agent consistently uses "vous"
-- [ ] Both agents use step-by-step methodology
+- [ ] Agent uses step-by-step methodology consistently
 - [ ] Writing activities require student participation (not agent writing for them)
 - [ ] Course promotions appear 5+ times naturally in test conversations
 - [ ] Tone is encouraging and friendly-professional
 - [ ] Contact information is accurate and complete
-- [ ] All grades receive equal attention and quality
-- [ ] Agents guide through conversation rather than lecturing
+- [ ] All grades (6-9) receive equal attention and quality
+- [ ] Agent guides through conversation rather than lecturing
+- [ ] Language complexity is appropriate for each grade level
 
 ---
 
@@ -231,9 +210,9 @@ Before deployment, verify:
 
 1. **High Priority - Core Functionality:**
    - Step-by-step writing methodology
-   - Grade-aware responses
+   - Grade-aware responses (6-9)
    - Encouraging tone and error handling
-   - "Vous" formality in French
+   - Age-appropriate language complexity
 
 2. **High Priority - Business Integration:**
    - 5x course promotion per conversation
