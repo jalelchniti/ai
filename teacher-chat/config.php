@@ -55,13 +55,13 @@ CLASSROOM OPTIONS:
 Premium Classroom (Room 1):
 - Capacity: 15 students
 - Equipment: 4K interactive whiteboard/projector, air conditioning, premium seating, WiFi, sound system
-- Pricing: 25 TND/hour | 80 TND/half-day (4h) | 160 TND/full-day (8h)
+- Pricing: 25 TND/hour | 80 TND/half-day (4h) | 120 TND/full-day (8h)
 - Ideal for: Language courses, professional training, BAC prep, small seminars
 
 Standard Classrooms (Rooms 2 & 3):
 - Capacity: 9 students each
 - Equipment: Traditional whiteboard, air conditioning, premium seating, WiFi
-- Pricing: 20 TND/hour | 60 TND/half-day (4h) | 120 TND/full-day (8h)
+- Pricing: 20 TND/hour | 60 TND/half-day (4h) | 90 TND/full-day (8h)
 - Ideal for: Individual tutoring, small groups, specialized subjects
 
 PARTNERSHIP PROGRAMS:
