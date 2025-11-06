@@ -7,6 +7,9 @@
 // Global variables
 let chatConfig = {};
 let isProcessing = false;
+let languageSelectionMode = true;
+let waitingForLanguageChoice = false;
+let selectedLanguage = null;
 
 /**
  * Initialize the chat application
@@ -86,6 +89,73 @@ async function sendMessage() {
     // Hide any existing errors
     hideError();
 
+    // Handle language selection mode
+    if (languageSelectionMode && !waitingForLanguageChoice) {
+        // User is responding to initial Arabic message (1 or 0)
+        if (message === '1') {
+            selectedLanguage = 'Arabic';
+            languageSelectionMode = false;
+            displayMessage('شكراً! سأواصل التحدث معك بالعربية. كيف يمكنني مساعدتك اليوم؟', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        } else if (message === '0') {
+            waitingForLanguageChoice = true;
+            displayMessage('من فضلك اختر اللغة التي تفضلها:\n- Français (اكتب: Français)\n- English (اكتب: English)\n- Español (اكتب: Español)', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        } else {
+            // User didn't follow instructions, remind them
+            displayMessage('من فضلك اكتب 1 للاستمرار بالعربية أو 0 لاختيار لغة أخرى.', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        }
+    }
+
+    // Handle language choice selection
+    if (waitingForLanguageChoice) {
+        const lowerMessage = message.toLowerCase().trim();
+        if (lowerMessage === 'français' || lowerMessage === 'francais' || lowerMessage === 'french') {
+            selectedLanguage = 'French';
+            languageSelectionMode = false;
+            waitingForLanguageChoice = false;
+            displayMessage('Parfait! Je vais continuer en français. Comment puis-je vous aider aujourd\'hui?', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        } else if (lowerMessage === 'english' || lowerMessage === 'anglais') {
+            selectedLanguage = 'English';
+            languageSelectionMode = false;
+            waitingForLanguageChoice = false;
+            displayMessage('Great! I\'ll continue in English. How can I help you today?', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        } else if (lowerMessage === 'español' || lowerMessage === 'spanish' || lowerMessage === 'espanol') {
+            selectedLanguage = 'Spanish';
+            languageSelectionMode = false;
+            waitingForLanguageChoice = false;
+            displayMessage('¡Perfecto! Continuaré en español. ¿Cómo puedo ayudarte hoy?', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        } else {
+            displayMessage('من فضلك اختر لغة صحيحة: Français، English أو Español', 'ai');
+            isProcessing = false;
+            updateSendButtonState(false);
+            userInput.focus();
+            return;
+        }
+    }
+
     // Show typing indicator
     showTypingIndicator();
 
@@ -98,7 +168,8 @@ async function sendMessage() {
             },
             body: JSON.stringify({
                 message: message,
-                chatType: chatConfig.chatType
+                chatType: chatConfig.chatType,
+                language: selectedLanguage
             })
         });
 

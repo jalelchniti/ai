@@ -44,9 +44,10 @@ try {
     // Get and validate input
     $input = getRequestInput();
     $userMessage = validateMessage($input['message'] ?? '');
+    $language = $input['language'] ?? 'Arabic'; // Default to Arabic
 
     // Prepare API request
-    $apiRequest = prepareApiRequest($userMessage);
+    $apiRequest = prepareApiRequest($userMessage, $language);
 
     // Send request to Groq API
     $apiResponse = sendGroqRequest($apiRequest);
@@ -109,13 +110,16 @@ function validateMessage($message) {
 /**
  * Prepare API request payload
  */
-function prepareApiRequest($userMessage) {
+function prepareApiRequest($userMessage, $language = 'Arabic') {
+    // Get language-specific system prompt
+    $systemPrompt = getLanguageSpecificPrompt($language);
+
     return [
         'model' => GROQ_MODEL,
         'messages' => [
             [
                 'role' => 'system',
-                'content' => SYSTEM_PROMPT
+                'content' => $systemPrompt
             ],
             [
                 'role' => 'user',
@@ -127,6 +131,35 @@ function prepareApiRequest($userMessage) {
         'top_p' => 1,
         'stream' => false
     ];
+}
+
+/**
+ * Get system prompt based on selected language
+ */
+function getLanguageSpecificPrompt($language) {
+    $basePrompt = SYSTEM_PROMPT;
+
+    // Add language instruction to the prompt
+    $languageInstruction = "\n\nIMPORTANT: The user has selected to communicate in $language. ";
+
+    switch($language) {
+        case 'Arabic':
+            $languageInstruction .= "You MUST respond ONLY in Arabic (العربية). Use clear, professional Arabic suitable for educational contexts in Tunisia.";
+            break;
+        case 'French':
+            $languageInstruction .= "You MUST respond ONLY in French (Français). Use clear, professional French suitable for educational contexts in Tunisia.";
+            break;
+        case 'English':
+            $languageInstruction .= "You MUST respond ONLY in English. Use clear, professional English suitable for international educational contexts.";
+            break;
+        case 'Spanish':
+            $languageInstruction .= "You MUST respond ONLY in Spanish (Español). Use clear, professional Spanish suitable for educational contexts.";
+            break;
+        default:
+            $languageInstruction .= "You MUST respond ONLY in Arabic (العربية) as the default language.";
+    }
+
+    return $basePrompt . $languageInstruction;
 }
 
 /**
