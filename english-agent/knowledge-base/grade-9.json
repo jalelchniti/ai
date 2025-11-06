@@ -1,0 +1,1454 @@
+{
+  "grade": 9,
+  "course_name": "Proceed with English - 9th Year Basic Education",
+  "source": "Ministry of Education - National Pedagogic Centre, Tunisia",
+  "document_type": "Teacher's Book",
+  "authors": [
+    "Slaheddine Kaabachi (Project Coordinator)",
+    "Raouf Mabrouk",
+    "Mohamed Salah Labidi"
+  ],
+  "pedagogical_principles": [
+    "Learner-Centered Approach: Student is an active user of English at the core of the learning process",
+    "Constructiveness: Teaching based on learner's active construction and higher-level knowledge structures",
+    "Cooperativeness: Collaborative learning in groups, sharing knowledge",
+    "Contextuality: Language as communication, not decontextualized grammar"
+  ],
+  "modules": [
+    {
+      "module_number": 1,
+      "module_name": "Family Life",
+      "theme": "Family relationships, responsibilities, generation gap, pocket money, safety at home",
+      "project": "Multi-step project about school problems (fashion through generations)",
+      "duration": "Approximately 2-3 weeks",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Family Relationships",
+          "main_skills": ["Reading", "Writing", "Speaking"],
+          "objectives": ["Enable students to talk about family relationships and realize family life is not always happy"],
+          "vocabulary": [
+            "magic",
+            "supportive",
+            "severe",
+            "easy-going",
+            "wisdom",
+            "fighting",
+            "miserable",
+            "divorce",
+            "orphanage",
+            "to afford"
+          ],
+          "grammar_points": [
+            "Question words (asking questions)",
+            "Long/short adjectives (describing)"
+          ],
+          "key_structures": [
+            "Asking questions using question words",
+            "Describing using long and short adjectives"
+          ],
+          "subskills": [
+            "Read for gist",
+            "Scan for specific information",
+            "Transfer information onto tables",
+            "Produce written descriptions from prompts",
+            "Listing and writing notes"
+          ],
+          "activities": [
+            "Discuss family patterns (now and before)",
+            "Read three texts about different family relationships",
+            "Compare different family situations",
+            "Project Work: Step 1"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Sharing Family Responsibilities",
+          "main_skills": ["Listening", "Reading", "Writing"],
+          "objectives": ["Listen to passage to compare different types of family roles and share opinions"],
+          "vocabulary": [
+            "to cook",
+            "to feed",
+            "to rock",
+            "role",
+            "close",
+            "to bring up",
+            "exciting",
+            "demanding",
+            "to look after"
+          ],
+          "grammar_points": [
+            "Comparatives (comparing)",
+            "The superlative (describing)"
+          ],
+          "key_structures": [
+            "Using comparatives to compare",
+            "Using superlatives to describe"
+          ],
+          "subskills": [
+            "Distinguish between fact and opinion",
+            "Draw on background knowledge to understand text",
+            "Listen to infer emotional state"
+          ],
+          "activities": [
+            "Listen to passage about modern father (Mark) sharing family responsibilities",
+            "Compare family patterns",
+            "Discuss roles in own families",
+            "Writing One"
+          ],
+          "pronunciation": "Spelling 1 - short comparatives / ə / / a: /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "The Generation Gap",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Enable students to read about and react to family issues"],
+          "vocabulary": [
+            "to agree",
+            "to argue",
+            "embarrassed",
+            "to break (rules)",
+            "dog-headed",
+            "to sneak (out)"
+          ],
+          "grammar_points": [
+            "Compound adjectives (comparing)"
+          ],
+          "key_structures": [
+            "Using compound adjectives for comparing"
+          ],
+          "subskills": [
+            "Infer relationships between interlocutors",
+            "Predict possible outcomes",
+            "Produce text from various sources of information"
+          ],
+          "activities": [
+            "Discuss relationships with parents",
+            "Read about Jane's problems with parents",
+            "Discuss fashion as source of conflict",
+            "Project Work: Step 2"
+          ],
+          "pronunciation": "Mute 'b' and 'w'",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Pocket Money",
+          "main_skills": ["Speaking", "Writing"],
+          "objectives": ["Read passage about pocket money to discuss its importance and write paragraph"],
+          "vocabulary": [
+            "stationeries",
+            "savings",
+            "extras",
+            "to purchase",
+            "overspending",
+            "an addiction",
+            "hard-earned"
+          ],
+          "grammar_points": [
+            "As + Adjective + As (comparing)"
+          ],
+          "key_structures": [
+            "Using 'as...as' for making comparisons"
+          ],
+          "subskills": [
+            "Write to recycle structures covered in class",
+            "Free writing leading to fluency"
+          ],
+          "activities": [
+            "Assess amount of money spent",
+            "Read parents' opinions on pocket money",
+            "Discuss overspending",
+            "Writing Two"
+          ],
+          "pronunciation": "Word stress 1",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Safety at Home",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Read about and discuss safety at home, write using appropriate language"],
+          "vocabulary": [
+            "to bite",
+            "owner",
+            "chained",
+            "isolation",
+            "to occur",
+            "hazard",
+            "infected",
+            "to supervise"
+          ],
+          "grammar_points": [
+            "While, Whereas (contrasting)"
+          ],
+          "key_structures": [
+            "Using 'while' and 'whereas' for contrasting"
+          ],
+          "subskills": [
+            "Information transfer",
+            "Scan for specific information",
+            "Reinvest previously acquired language"
+          ],
+          "activities": [
+            "Discuss safety risks at home",
+            "Read about risks pets might represent",
+            "Compare and contrast different pets",
+            "Writing Three",
+            "Project Work: Step 3 - Presentation"
+          ],
+          "pronunciation": "Spelling 1 - Noun plurals (Y → ies)",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 2,
+      "module_name": "Education",
+      "theme": "School memories, rules, first day, violence, school life",
+      "project": "Multi-step project about school problems",
+      "duration": "Approximately 2-3 weeks",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "School Memories",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Recycle language about school life, prepare for reading passage, start project about school problems"],
+          "vocabulary": [
+            "memory",
+            "preparatory",
+            "mark",
+            "grade",
+            "to notice",
+            "to erase",
+            "test",
+            "instead",
+            "proud"
+          ],
+          "grammar_points": [
+            "The genitive (expressing possession)",
+            "Possessive pronouns (expressing possession)"
+          ],
+          "key_structures": [
+            "Using the genitive to express possession",
+            "Using possessive pronouns"
+          ],
+          "subskills": [
+            "Read for gist",
+            "Scan for specific information",
+            "Make lists"
+          ],
+          "activities": [
+            "Discuss school life vocabulary",
+            "Read about three types of family relationships and cheating",
+            "Discuss cheating at school",
+            "Project Work: Step 1"
+          ],
+          "pronunciation": "/ u / / u: /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "School Rules",
+          "main_skills": ["Listening", "Reading", "Writing"],
+          "objectives": ["Listen to, complete, and comprehend poem about school rules"],
+          "vocabulary": [
+            "to dream",
+            "to fall",
+            "awake",
+            "unless",
+            "earthquake",
+            "cool",
+            "loud"
+          ],
+          "grammar_points": [
+            "Going to (expressing intention)",
+            "Reflexive pronouns",
+            "Present progressive + future word = planned action"
+          ],
+          "key_structures": [
+            "Using 'going to' for expressing intention",
+            "Using reflexive pronouns",
+            "Using present progressive for planned future actions"
+          ],
+          "subskills": [
+            "Identify communicative functions of utterances",
+            "Use cohesive devices",
+            "Reorder words to make sentences"
+          ],
+          "activities": [
+            "Listen to poem about daydreaming student (Mike)",
+            "Complete poem through listening",
+            "Discuss school rules",
+            "Practice different ways of talking about future events",
+            "Writing One"
+          ],
+          "pronunciation": "/ ai / / aiə /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "First Day at School",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Revise simple past by reading about girl's school memories"],
+          "vocabulary": [
+            "fun",
+            "to pretend",
+            "shake hands",
+            "to forget",
+            "to meet"
+          ],
+          "grammar_points": [
+            "Simple past (express completed action in the past)",
+            "Irregular verbs",
+            "Past participles"
+          ],
+          "key_structures": [
+            "Using simple past for completed actions",
+            "Forming irregular verbs",
+            "Using past participles"
+          ],
+          "subskills": [
+            "Recognize basic syntactic patterns and devices",
+            "Reinvest acquired language in writing"
+          ],
+          "activities": [
+            "Perform pre-reading tasks",
+            "Read about first day at school",
+            "Practice simple past",
+            "Project Work: Step 2"
+          ],
+          "pronunciation": "Word stress 3 - Nouns & adjectives / e / / æ /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Violence at School",
+          "main_skills": ["Speaking", "Writing"],
+          "objectives": ["Enable pupils to speak about violence in schools"],
+          "vocabulary": [
+            "to believe",
+            "used to",
+            "to move",
+            "accent",
+            "to taunt",
+            "mad",
+            "to participate"
+          ],
+          "grammar_points": [
+            "Have to / must (obligation)",
+            "Has to, will have to",
+            "Prepositions: Location (over, next to), Movement (along, across)"
+          ],
+          "key_structures": [
+            "Using 'have to' and 'must' for obligation",
+            "Using prepositions of location and movement"
+          ],
+          "subskills": [
+            "Work in groups and share information to perform oral task",
+            "Guided writing"
+          ],
+          "activities": [
+            "Talk about prohibited and desired activities at school",
+            "Read conversation between Jill and Kelly about verbal and physical violence",
+            "Discuss violence at school",
+            "Practice 'have to'",
+            "Writing Two"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "School Life",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Read about aspect of school life and react to it"],
+          "vocabulary": [
+            "to get on",
+            "to expect",
+            "expenses",
+            "to send",
+            "to realise",
+            "indeed",
+            "sensitive",
+            "to rent"
+          ],
+          "grammar_points": [
+            "The future tense (expressing intention)",
+            "I intend to...",
+            "In ten years time, I'll..."
+          ],
+          "key_structures": [
+            "Using future tense for expressing intention",
+            "Using 'I intend to' structure",
+            "Talking about distant future"
+          ],
+          "subskills": [
+            "Skim and scan for information",
+            "Share information to perform oral task and solve problem"
+          ],
+          "activities": [
+            "Brainstorm vocabulary related to school life",
+            "Read Kate's letter and discuss her problems",
+            "Suggest solutions",
+            "Writing Three",
+            "Project Work: Step 3 - Presentation"
+          ],
+          "pronunciation": "Spelling 2 - Double consonants",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 3,
+      "module_name": "Health and Environment",
+      "theme": "Pollution, smoking, environmental threats, conservation, Earth Day",
+      "project": "Multi-step project creating environmental awareness materials",
+      "duration": "Approximately 2-3 weeks",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Air and Land Pollution",
+          "main_skills": ["Reading", "Writing", "Speaking"],
+          "objectives": ["Enable students to talk about pollution and its effects on people and environment"],
+          "vocabulary": [
+            "skin rash",
+            "ozone layer",
+            "to release",
+            "fumes",
+            "acid",
+            "smog",
+            "inflammable",
+            "solvents",
+            "glues"
+          ],
+          "grammar_points": [
+            "Linkers: so, therefore, because (sequencing events)"
+          ],
+          "key_structures": [
+            "Using linkers to sequence events and show cause and effect"
+          ],
+          "subskills": [
+            "Read for gist",
+            "Scan for specific information",
+            "Work in pairs/small groups to understand text"
+          ],
+          "activities": [
+            "Discuss types of pollution and effects on people",
+            "Read four short texts about pollution",
+            "Focus on linkers while reading",
+            "Project Work: Step 1"
+          ],
+          "pronunciation": "The letter 'u'",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Smoking and Health",
+          "main_skills": ["Listening", "Reading", "Writing"],
+          "objectives": ["Listen and read about harmful effects of smoking on health"],
+          "vocabulary": [
+            "to give up",
+            "dump",
+            "to damage",
+            "harmful",
+            "addicted",
+            "pesticides",
+            "prohibited",
+            "contaminated",
+            "to disapprove (of)"
+          ],
+          "grammar_points": [
+            "May, Might (expressing possibility/probability)"
+          ],
+          "key_structures": [
+            "Using 'may' and 'might' to express possibility"
+          ],
+          "subskills": [
+            "Draw on background knowledge to understand text",
+            "Listen to infer emotional state"
+          ],
+          "activities": [
+            "Use pictures to talk about smoking topic",
+            "Listen to Susan's father talking about smoking",
+            "Discuss harmful effects",
+            "Practice 'may' and 'might'",
+            "Writing"
+          ],
+          "pronunciation": "/ i / / i: / / ai /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Pollution, A Threat to Our Environment",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Enable pupils to talk about effects of pollution and suggest solutions"],
+          "vocabulary": [
+            "waste",
+            "landfill",
+            "threat",
+            "to spill",
+            "impact",
+            "to ruin",
+            "particles",
+            "discharge",
+            "to inhale"
+          ],
+          "grammar_points": [
+            "Who, Which, That (defining people and objects)"
+          ],
+          "key_structures": [
+            "Using relative pronouns to define people and objects"
+          ],
+          "subskills": [
+            "Skim text to get gist",
+            "Predict possible outcomes",
+            "Use free writing to develop fluency"
+          ],
+          "activities": [
+            "Think of ways to take active part in improving environment",
+            "Read text about environmental threats",
+            "Revise relative pronouns",
+            "Project Work: Step 2 - Make leaflet"
+          ],
+          "pronunciation": "The letter 'ch'",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Save the Earth!",
+          "main_skills": ["Reading", "Writing", "Speaking"],
+          "objectives": ["Enable pupils to talk about measures to prevent environmental damage"],
+          "vocabulary": [
+            "logging",
+            "to prevent",
+            "offenders",
+            "creatures",
+            "hunter",
+            "safe",
+            "regret",
+            "jet",
+            "diet"
+          ],
+          "grammar_points": [
+            "Should, Ought to, Must, Don't... (giving advice, obligation, prohibition)"
+          ],
+          "key_structures": [
+            "Using modal verbs for advice, obligation, and prohibition"
+          ],
+          "subskills": [
+            "Identify/select main idea, supporting details, facts",
+            "Write to recycle structures covered in class"
+          ],
+          "activities": [
+            "Build sentences about preventing environmental damage",
+            "Read poem (elephant complaining about man's wickedness)",
+            "Discuss endangered species",
+            "Practice advice, prohibition, obligation",
+            "Writing"
+          ],
+          "pronunciation": "/ a /, / a: / / ɔ / / ɔ: /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Let Everyday Be an Earth Day",
+          "main_skills": ["Reading", "Writing", "Speaking"],
+          "objectives": ["Have pupils speak, read and write about health and environment"],
+          "vocabulary": [
+            "species",
+            "campaign",
+            "bins",
+            "recycling",
+            "organic",
+            "legumes",
+            "fatty",
+            "sugary",
+            "salty",
+            "crunchy"
+          ],
+          "grammar_points": [
+            "Compound nouns: Noun + Noun, Gerund + Noun, Noun + Gerund (noun formation 2)"
+          ],
+          "key_structures": [
+            "Forming compound nouns using different patterns"
+          ],
+          "subskills": [
+            "Scan for specific information",
+            "Reinvest previously acquired language"
+          ],
+          "activities": [
+            "Suggest solutions for damage to environment and health",
+            "Read non-linear material (food pyramid)",
+            "Link food items to health effects",
+            "Write short paragraph about importance of healthy environment",
+            "Writing",
+            "Project Work: Step 3 - Presentation"
+          ],
+          "pronunciation": "/ z / / dʒ /",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 4,
+      "module_name": "Services",
+      "theme": "Airport services, internet shopping, tourism, transport, communication",
+      "project": "Create blog about services (digital or paper version)",
+      "duration": "Approximately 2-3 weeks",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "At the Airport",
+          "main_skills": ["Reading", "Writing", "Speaking"],
+          "objectives": ["Enable students to talk and read about services, particularly at airports"],
+          "vocabulary": [
+            "service",
+            "customs",
+            "aisle",
+            "boarding pass",
+            "seat",
+            "flight",
+            "railway",
+            "fasten",
+            "belt",
+            "take off"
+          ],
+          "grammar_points": [
+            "Would you mind + v + ing (making polite requests)",
+            "Could you + VP (requesting others to do something)"
+          ],
+          "key_structures": [
+            "Making polite requests using 'would you mind'",
+            "Requesting help using 'could you'"
+          ],
+          "subskills": [
+            "Infer emotional state of speaker (from intonation, speech rate)",
+            "Infer communicative functions of utterances",
+            "Process writing"
+          ],
+          "activities": [
+            "Identify places where services are provided",
+            "Speak about services provided by post-office",
+            "Read conversation between flight attendant and passenger",
+            "Practice polite requests",
+            "Project Work: Step 1 - Create blog (with computer teacher's help)"
+          ],
+          "pronunciation": "/ ə /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Internet Shopping",
+          "main_skills": ["Listening", "Reading", "Writing"],
+          "objectives": ["Enable students to listen to and understand passage about internet shopping"],
+          "vocabulary": [
+            "to exchange",
+            "to chat",
+            "online",
+            "website",
+            "hackers",
+            "means",
+            "huge",
+            "benefits",
+            "secure",
+            "to order"
+          ],
+          "grammar_points": [
+            "Mind + NP, Look out! (warning)"
+          ],
+          "key_structures": [
+            "Using warning expressions"
+          ],
+          "subskills": [
+            "Draw on background knowledge",
+            "Listen to infer meaning of new words/expressions",
+            "Information transfer",
+            "Process writing"
+          ],
+          "activities": [
+            "Complete spidergram about internet services",
+            "Listen to passage about internet shopping",
+            "Discuss benefits and risks",
+            "Practice warning expressions",
+            "Writing about tourism (paves way for Lesson 3)"
+          ],
+          "pronunciation": "/ ei / / ou / / au /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Tourism",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Have pupils read and discuss importance of tourism in Tunisia"],
+          "vocabulary": [
+            "boom",
+            "amount",
+            "progress",
+            "to experience",
+            "to achieve",
+            "comfort"
+          ],
+          "grammar_points": [
+            "Present perfect tense (thanking)",
+            "Past participles",
+            "That will be / It's very nice / kind of you"
+          ],
+          "key_structures": [
+            "Using present perfect tense",
+            "Expressing thanks",
+            "Using past participles"
+          ],
+          "subskills": [
+            "Distinguish facts from opinion",
+            "Predict possible outcomes",
+            "Use free writing to develop fluency"
+          ],
+          "activities": [
+            "Listen to song 'Hotel California'",
+            "Use visuals to discuss Tunisia as tourist country",
+            "Read passage about tourism",
+            "Contrast present perfect with simple past",
+            "Project Work: Step 2 - Work on mobile phone uses for blog"
+          ],
+          "pronunciation": "Word stress - verb & noun",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Transport",
+          "main_skills": ["Speaking", "Writing"],
+          "objectives": ["Enable students to speak and write about different means of transport"],
+          "vocabulary": [
+            "convenient",
+            "frequent",
+            "available",
+            "throughout",
+            "enquiry",
+            "to give a hand"
+          ],
+          "grammar_points": [
+            "If + present → Future (first conditional)"
+          ],
+          "key_structures": [
+            "Using first conditional for real future conditions"
+          ],
+          "subskills": [
+            "Predict gist and type of text from illustrations",
+            "Infer possible meanings of word/expression",
+            "Reinvest covered language in project work"
+          ],
+          "activities": [
+            "Talk about different means of transport",
+            "Read about buses in London",
+            "Practice conditional (type 1)",
+            "Write paragraph about differences between means of transport using linkers",
+            "Writing"
+          ],
+          "pronunciation": "/ ei / / e /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Communication",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Enable pupils to read and write about telephone and its uses in everyday life"],
+          "vocabulary": [
+            "seller",
+            "come round",
+            "reception desk",
+            "to join",
+            "to look forward to"
+          ],
+          "grammar_points": [
+            "Gerund + Noun, Noun + Gerund (noun formation 3)"
+          ],
+          "key_structures": [
+            "Forming nouns using gerunds"
+          ],
+          "subskills": [
+            "Infer relationships between interlocutors",
+            "Work in pairs and share information to perform oral task"
+          ],
+          "activities": [
+            "Discuss different shapes of phone and uses",
+            "Read telephone conversation (business)",
+            "Practice appropriate tone",
+            "Present blog",
+            "Writing",
+            "Project Work: Step 3 - Presentation"
+          ],
+          "pronunciation": "Spelling 3 - 'ing' forms",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 5,
+      "module_name": "Entertainment",
+      "theme": "Means of entertainment, eating out, tourism activities, films, stars' pastimes",
+      "project": "Create wall display about favorite song and singer",
+      "duration": "Approximately 2-3 weeks",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Means of Entertainment",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Introduce topic of entertainment, enable pupils to read and express themselves about it"],
+          "vocabulary": [
+            "disc-based",
+            "e-books",
+            "to take over",
+            "a walk-in cinema",
+            "to interrupt",
+            "giant",
+            "dolby system"
+          ],
+          "grammar_points": [
+            "Maybe / Perhaps (expressing uncertainty)",
+            "I'm sure + that clause / No doubt + declarative sentence (expressing certainty)"
+          ],
+          "key_structures": [
+            "Expressing uncertainty with 'maybe' and 'perhaps'",
+            "Expressing certainty with 'I'm sure'"
+          ],
+          "subskills": [
+            "Interpret pictures",
+            "Scan text for specific information",
+            "Information transfer",
+            "Complete interview",
+            "Identify different sounds"
+          ],
+          "activities": [
+            "Identify different means of entertainment",
+            "Distinguish indoor/outdoor activities",
+            "Read what five people say about entertainment likes/dislikes",
+            "Practice 'maybe' and 'perhaps'",
+            "Project Work: Step 1 - Collect information about favorite song and singer"
+          ],
+          "pronunciation": "/ ɔ: i / / i: ə /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Eating Out",
+          "main_skills": ["Listening", "Reading", "Writing"],
+          "objectives": ["Provide pupils with language to understand listening passage about ordering food"],
+          "vocabulary": [
+            "make up one's mind",
+            "diet coke",
+            "garlic",
+            "starter",
+            "dressing",
+            "vegetarian",
+            "barbecue",
+            "charge"
+          ],
+          "grammar_points": [
+            "It's a surprise, What a..., How nice + to (exclamations)",
+            "This is just what I wanted / needed / meant (expressing satisfaction)"
+          ],
+          "key_structures": [
+            "Making exclamations",
+            "Expressing satisfaction"
+          ],
+          "subskills": [
+            "Identify vocabulary related to food",
+            "Match words with definitions",
+            "Listen for gist",
+            "Reinvest in writing"
+          ],
+          "activities": [
+            "Complete spidergram about eating out vocabulary",
+            "Listen to conversation about ordering in restaurant",
+            "Practice exclamations and expressing satisfaction",
+            "Express surprise and dissatisfaction in writing",
+            "Writing"
+          ],
+          "pronunciation": "/ au∂ / / ai∂ /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Where Shall We Go?",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Teach pupils to speak about places they like to go to and make suggestions"],
+          "vocabulary": [
+            "wild",
+            "acrobats",
+            "to windsurf",
+            "water slides",
+            "rides",
+            "flavour",
+            "exotics"
+          ],
+          "grammar_points": [
+            "Shall we + Verb (making suggestions)",
+            "I suggest that + clause",
+            "Why don't we..?, What about..?"
+          ],
+          "key_structures": [
+            "Making suggestions using various structures"
+          ],
+          "subskills": [
+            "Draw on prior knowledge",
+            "Identify activities from pictures",
+            "Read for gist",
+            "Make suggestions",
+            "Identify stress at word level"
+          ],
+          "activities": [
+            "Read conversation with suggestion expressions",
+            "Look at pictures of entertainment activities",
+            "Practice 'as well as'",
+            "Focus on verb form in suggestions",
+            "Project Work: Step 2"
+          ],
+          "pronunciation": "Word stress 5 - verb & noun / au / /ai/",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Let's Watch a Film!",
+          "main_skills": ["Speaking", "Writing"],
+          "objectives": ["Enable students to talk about films, read and speak about cartoon star"],
+          "vocabulary": [
+            "take away",
+            "fish tank",
+            "to come across",
+            "creatures",
+            "a shark",
+            "to run away"
+          ],
+          "grammar_points": [
+            "I'm so / very sorry + that clause (expressing regret)",
+            "I regret + (noun / ving)"
+          ],
+          "key_structures": [
+            "Expressing regret using various structures"
+          ],
+          "subskills": [
+            "Describe people",
+            "Read for specific information",
+            "Predict possible outcomes",
+            "Write biography"
+          ],
+          "activities": [
+            "Discuss vocabulary about cinema",
+            "Read story of Nemo's adventures",
+            "Focus on Nemo regretting disobeying father",
+            "Complete gapped poem/song written by Nemo",
+            "Writing"
+          ],
+          "pronunciation": "/ ou/ /ei /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Stars Pastimes",
+          "main_skills": ["Reading", "Writing", "Speaking"],
+          "objectives": ["Enable students to speak and write about stars and their pastimes"],
+          "vocabulary": [
+            "lyrics",
+            "to sound",
+            "award",
+            "skateboarding",
+            "a single",
+            "a yacht"
+          ],
+          "grammar_points": [
+            "I'd like to know more about... (showing interest)",
+            "It sounds interesting, I'm interested in...",
+            "I don't mind / care... (showing indifference)"
+          ],
+          "key_structures": [
+            "Showing interest and indifference"
+          ],
+          "subskills": [
+            "Show interest",
+            "Show indifference",
+            "Match words to make expressions",
+            "Match parts of sentences"
+          ],
+          "activities": [
+            "Read and speak about stars' pastimes",
+            "Read interview of Beyoncé Knowles",
+            "Practice showing interest/indifference",
+            "Write expressing interest or indifference about events",
+            "Writing",
+            "Project Work: Step 3 - Presentation"
+          ],
+          "pronunciation": "Spelling 4 - Mute consonants (k,l,gh,g,h)",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 6,
+      "module_name": "Civility",
+      "theme": "Voluntary work, volunteering kids, cooperation, clubs/associations, tolerance",
+      "project": "Multi-step project about helping elderly people",
+      "duration": "Approximately 2-3 weeks",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Voluntary Work",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Raise pupils' awareness about voluntary work, enable them to read, talk and write about it"],
+          "vocabulary": [
+            "to take part in",
+            "needy",
+            "homeless",
+            "cruel",
+            "volunteer",
+            "donate",
+            "disabled",
+            "stand by",
+            "survive",
+            "chores",
+            "lack of",
+            "to give a hand"
+          ],
+          "grammar_points": [
+            "Can / cannot (expressing ability/inability)"
+          ],
+          "key_structures": [
+            "Using 'can' and 'cannot' to express ability"
+          ],
+          "subskills": [
+            "Read for gist",
+            "Scan for specific information",
+            "Match sentence parts",
+            "Produce oral descriptions from pictures",
+            "Classify words"
+          ],
+          "activities": [
+            "Speak about voluntary work through visuals",
+            "Read four short texts where people describe helping others",
+            "Revise 'ability' as grammar point",
+            "Project Work: Step 1 - Suggest visit to elderly house"
+          ],
+          "pronunciation": "The sound / u /",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Volunteering Kids",
+          "main_skills": ["Listening", "Reading", "Writing"],
+          "objectives": ["Help pupils learn about volunteering kids and active participation in civil society"],
+          "vocabulary": [
+            "join",
+            "get started",
+            "come forward",
+            "to establish",
+            "membership",
+            "to involve",
+            "across",
+            "foreign"
+          ],
+          "grammar_points": [
+            "Can I help you? (offering help)",
+            "What can I do for you?"
+          ],
+          "key_structures": [
+            "Offering help using polite expressions"
+          ],
+          "subskills": [
+            "Infer meaning from pictures",
+            "Express opinion about issues",
+            "Listen to identify, understand and react to social issues"
+          ],
+          "activities": [
+            "Label pictures showing what kids can do",
+            "Provide more volunteering examples",
+            "Listen to Melissa explain F.A.C.E organisation",
+            "Discuss how kids can help environment",
+            "Practice 'offering help'",
+            "Explain how poor people can be helped by kids",
+            "Writing"
+          ],
+          "pronunciation": "The letter 'k'",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "How to Be Cooperative",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Teach pupils about benefits of cooperation and collaborative work"],
+          "vocabulary": [
+            "hard time",
+            "trust",
+            "perform",
+            "figure out",
+            "share",
+            "carry out",
+            "peers"
+          ],
+          "grammar_points": [
+            "The past progressive (describing past actions)"
+          ],
+          "key_structures": [
+            "Using past progressive for ongoing past actions"
+          ],
+          "subskills": [
+            "Predict gist and type of text from format, illustrations, title",
+            "Infer speaker's age, occupation",
+            "Infer possible meanings of grammar structure"
+          ],
+          "activities": [
+            "Brainstorm about activities requiring cooperation",
+            "Read text about cooperation at school",
+            "Learn past progressive used with simple past",
+            "Illustrate difference between two tenses",
+            "Focus on tenses and their use",
+            "Project Work: Step 2"
+          ],
+          "pronunciation": "Stress in compounds",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Clubs, Associations and Charities",
+          "main_skills": ["Speaking", "Writing"],
+          "objectives": ["Enable students to speak and write about associations/charities and their role in society"],
+          "vocabulary": [
+            "opportunity",
+            "first-hand",
+            "mission",
+            "homeless",
+            "income",
+            "shovel",
+            "driveway",
+            "stair lift",
+            "walking stick"
+          ],
+          "grammar_points": [
+            "I think that..., I believe that... (expressing opinion)",
+            "In my opinion..., I think so..."
+          ],
+          "key_structures": [
+            "Expressing opinions using various structures"
+          ],
+          "subskills": [
+            "Predict topic from illustrations",
+            "Reinvest prior knowledge in writing",
+            "Write biography"
+          ],
+          "activities": [
+            "Look at pictures and speak about activities to help others",
+            "Think of other possible ways to help people",
+            "Read texts where teenagers express opinions about clubs/organisations",
+            "Express opinion about different activities",
+            "Write about Lady Diana's biography (focus on charity work)",
+            "Writing"
+          ],
+          "pronunciation": "Spelling 5 - Spelling of verbs ending in 'o'",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Tolerance and Respect for Others",
+          "main_skills": ["Reading", "Writing"],
+          "objectives": ["Enable pupils to read and write about tolerance and respect for others"],
+          "vocabulary": [
+            "immigrants",
+            "refugees",
+            "peacemaker",
+            "conflicts",
+            "tortured",
+            "reconciliation"
+          ],
+          "grammar_points": [
+            "I hope that + clause (expressing hope)"
+          ],
+          "key_structures": [
+            "Expressing hope for the future"
+          ],
+          "subskills": [
+            "React to illustrations",
+            "Scan for specific information",
+            "Reinvest previously acquired language"
+          ],
+          "activities": [
+            "Speak about issues related to topic",
+            "Discuss differences between people and resulting problems (racism, loneliness, exclusion)",
+            "Introduce 'expressing hope'",
+            "Read about Nicole Evans and Ibrahim (young people promoting peace)",
+            "Discuss fair play in sports",
+            "Write codes of fair play",
+            "Writing",
+            "Project Work: Step 3 - Presentation"
+          ],
+          "pronunciation": "Spelling 6 - Mute consonants (t,p,w,s)",
+          "common_errors": []
+        }
+      ]
+    }
+  ],
+  "grammar_overview": [
+    "Question words",
+    "Long/short adjectives",
+    "Comparatives and superlatives",
+    "Compound adjectives",
+    "As + Adjective + As",
+    "While, Whereas",
+    "The genitive",
+    "Possessive pronouns",
+    "Going to",
+    "Reflexive pronouns",
+    "Present progressive (future)",
+    "Simple past",
+    "Irregular verbs",
+    "Past participles",
+    "Have to / must",
+    "Prepositions (location, movement)",
+    "Future tense (will)",
+    "I intend to...",
+    "Linkers (so, therefore, because)",
+    "May, Might",
+    "Relative pronouns (who, which, that)",
+    "Should, Ought to, Must, Don't",
+    "Compound nouns",
+    "Would you mind + v + ing",
+    "Could you + VP",
+    "Mind + NP, Look out!",
+    "Present perfect tense",
+    "First conditional (If + present → Future)",
+    "Gerund + Noun, Noun + Gerund",
+    "Maybe / Perhaps",
+    "I'm sure + that clause",
+    "Exclamations (What a..., How nice...)",
+    "Shall we + Verb",
+    "I suggest that + clause",
+    "Why don't we..?, What about..?",
+    "I'm sorry + that clause",
+    "I regret + (noun / ving)",
+    "Can / cannot",
+    "Can I help you?, What can I do for you?",
+    "Past progressive",
+    "I think that..., I believe that..., In my opinion...",
+    "I hope that + clause"
+  ],
+  "vocabulary_themes": [
+    "Family relationships and emotions",
+    "Family responsibilities",
+    "Generation gap and conflicts",
+    "Money management",
+    "Home safety",
+    "School life and memories",
+    "School rules and regulations",
+    "Violence at school",
+    "Academic vocabulary",
+    "Pollution and environment",
+    "Health and smoking",
+    "Conservation and recycling",
+    "Transportation and travel",
+    "Internet and technology",
+    "Tourism",
+    "Communication",
+    "Entertainment and leisure",
+    "Food and dining",
+    "Cinema and films",
+    "Music and celebrities",
+    "Voluntary work and charity",
+    "Cooperation and teamwork",
+    "Tolerance and peace-making",
+    "Social issues and civic responsibility"
+  ],
+  "writing_types": [
+    "Descriptive writing",
+    "Comparative writing",
+    "Narrative writing",
+    "Opinion writing",
+    "Process writing",
+    "Biography writing",
+    "Letter writing",
+    "Paragraph writing with linkers",
+    "Free writing for fluency",
+    "Guided writing",
+    "Information transfer (tables, charts)",
+    "Note-taking and listing",
+    "Project reports",
+    "Leaflets and informational materials",
+    "Blog posts"
+  ],
+  "reading_strategies": [
+    "Read for gist (general understanding)",
+    "Scan for specific information",
+    "Predict outcomes and content from titles and illustrations",
+    "Infer relationships between interlocutors",
+    "Infer emotional states of speakers",
+    "Distinguish fact from opinion",
+    "Recognize syntactic patterns and devices",
+    "Use cohesive devices",
+    "Skim text to get main ideas",
+    "Draw on background knowledge",
+    "Work in pairs/small groups to understand texts",
+    "Transfer information between formats",
+    "Identify main ideas and supporting details",
+    "Read non-linear materials (charts, pyramids, diagrams)"
+  ],
+  "listening_strategies": [
+    "Listen for gist",
+    "Listen for specific information",
+    "Infer emotional state from intonation and speech rate",
+    "Infer meaning of new words/expressions from context",
+    "Distinguish fact from opinion",
+    "Identify communicative functions of utterances",
+    "Complete texts through listening (gap-filling)",
+    "Listen to poems and songs"
+  ],
+  "speaking_strategies": [
+    "Work in pairs and small groups",
+    "Share information to perform oral tasks",
+    "Make suggestions and recommendations",
+    "Express opinions and beliefs",
+    "Show interest and indifference",
+    "Describe people, places, and situations",
+    "Make polite requests",
+    "Offer help",
+    "Express regret and satisfaction",
+    "Give advice and warnings",
+    "Make exclamations",
+    "Express certainty and uncertainty"
+  ],
+  "pronunciation_focus": [
+    "Short comparatives: / ə / / a: /",
+    "Mute consonants: b, w, k, l, gh, g, h, t, p, s",
+    "Word stress in nouns, verbs, adjectives, compounds",
+    "Vowel sounds: / u / / u: /, / i / / i: / / ai /, / ei / / ou / / au /, / ɔ: i / / i: ə /",
+    "Consonant sounds: / z / / dʒ /, / ə /",
+    "Diphthongs: / ai / / aiə /, / au∂ / / ai∂ /, / ou/ /ei /",
+    "Spelling patterns: noun plurals (Y → ies), double consonants, 'ing' forms",
+    "The letters: u, ch, k"
+  ],
+  "assessment_skills": {
+    "reading": [
+      "Read for gist (general understanding)",
+      "Scan for specific information",
+      "Predict outcomes and content",
+      "Infer relationships and emotional states",
+      "Distinguish fact from opinion",
+      "Recognize syntactic patterns and devices",
+      "Work in groups to understand texts"
+    ],
+    "writing": [
+      "Process writing (drafting, revising)",
+      "Transfer information (tables, charts)",
+      "Produce descriptions from prompts",
+      "List and take notes",
+      "Reinvest acquired language",
+      "Free writing for fluency",
+      "Guided writing",
+      "Write biographies",
+      "Write paragraphs using linkers"
+    ],
+    "listening": [
+      "Listen for gist",
+      "Listen for specific information",
+      "Infer emotional state from intonation",
+      "Infer meaning of new words/expressions",
+      "Distinguish fact from opinion",
+      "Identify communicative functions"
+    ],
+    "speaking": [
+      "Work in pairs and small groups",
+      "Share information to perform tasks",
+      "Make suggestions",
+      "Express opinions",
+      "Show interest/indifference",
+      "Describe people and situations"
+    ]
+  },
+  "learning_outcomes": {
+    "communication_skills": [
+      "Express opinions, suggestions, regrets, hopes",
+      "Make polite requests and offer help",
+      "Describe past, present, and future actions",
+      "Show agreement, disagreement, interest, indifference",
+      "Give advice, warnings, obligations"
+    ],
+    "language_competence": [
+      "Use variety of verb tenses appropriately",
+      "Form comparisons and describe relationships",
+      "Use linking words effectively",
+      "Construct compound nouns",
+      "Apply relative pronouns correctly"
+    ],
+    "life_skills": [
+      "Cooperation and collaboration",
+      "Problem-solving",
+      "Critical thinking about social issues",
+      "Environmental awareness",
+      "Civic responsibility",
+      "Tolerance and respect"
+    ]
+  },
+  "project_examples": [
+    {
+      "module": 1,
+      "title": "Fashion through generations",
+      "steps": 3,
+      "description": "Multi-step project about school problems focusing on fashion changes"
+    },
+    {
+      "module": 2,
+      "title": "School problems",
+      "steps": 3,
+      "description": "Investigation and presentation about various school-related issues"
+    },
+    {
+      "module": 3,
+      "title": "Environmental awareness leaflet",
+      "steps": 3,
+      "description": "Creating materials to raise environmental awareness"
+    },
+    {
+      "module": 4,
+      "title": "Blog about services",
+      "steps": 3,
+      "description": "Digital or paper blog documenting various community services"
+    },
+    {
+      "module": 5,
+      "title": "Wall display about favorite song and singer",
+      "steps": 3,
+      "description": "Research and presentation about music and entertainment"
+    },
+    {
+      "module": 6,
+      "title": "Visit to elderly house",
+      "steps": 3,
+      "description": "Planning and executing voluntary work with elderly people"
+    }
+  ],
+  "materials_package": [
+    "Student's Book",
+    "Activity Book",
+    "Audio Cassette/CD",
+    "Teacher's Book"
+  ],
+  "lesson_structure": {
+    "students_book": [
+      "Get Ready: Topic introduction through pictures, brainstorming, background knowledge",
+      "Learn More About It: Reading/listening passages, poems, conversations with comprehension questions",
+      "The Grammar Point: Grammar structures from reading/listening material, contextualized learning"
+    ],
+    "activity_book": [
+      "Comprehension Check: Further comprehension and written expression",
+      "Language Work: Grammar and vocabulary practice through writing",
+      "Pronunciation: Sounds, spelling, stress exercises",
+      "Writing and/or Project Work: Multi-step tasks requiring cooperation",
+      "The Lighter Side/Grandma's Corner: Relaxation activities"
+    ]
+  },
+  "total_lessons": 30,
+  "total_modules": 6,
+  "lessons_per_module": 5,
+  "estimated_teaching_hours": "90-120 hours (30 lessons × 3-4 hours each)",
+  "target_audience": "9th year basic education students in Tunisian preparatory schools",
+  "curriculum_date": "September 2006"
+}

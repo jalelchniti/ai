@@ -1,0 +1,1282 @@
+{
+  "grade": 7,
+  "course_name": "Let's Learn English - 7th Year Basic Education",
+  "source": "Republic of Tunisia, Ministry of Education, National Pedagogic Centre",
+  "pedagogical_approach": "Principled eclecticism (learner-centered, communicative approach)",
+  "total_modules": 5,
+  "approximate_hours_per_module": 10,
+  "story_framework": "A British teenager (Peter) stays with a Tunisian family (Aly's family) for cultural exchange",
+  "modules": [
+    {
+      "module_number": 1,
+      "module_name": "Tell Me About Yourself",
+      "theme": "Self (Personal information, family, hobbies, daily routines)",
+      "approximate_time": "10 teaching hours",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Tell Me About Your Family",
+          "skills": ["Speaking", "Reading", "Listening"],
+          "objectives": [
+            "Greeting",
+            "Introducing self and others",
+            "Identifying people"
+          ],
+          "vocabulary": [
+            "pupil",
+            "teacher",
+            "farmer",
+            "brother",
+            "sister",
+            "friend",
+            "little",
+            "meet",
+            "hello",
+            "hi"
+          ],
+          "grammar_points": [
+            "Demonstratives: this/these",
+            "Subject pronouns (I, you, he, she, it, we, they)",
+            "Verb 'to be' (simple present - affirmative)",
+            "Question formation with 'to be'"
+          ],
+          "key_structures": [
+            "This is...",
+            "These are...",
+            "I am...",
+            "He/She is...",
+            "Are you...?"
+          ],
+          "pronunciation": "/ɑː/ (father, are), /ʌ/ (brother, mother), /i/ (sister, little)",
+          "key_activities": [
+            "Introducing main characters (Aly and his family)",
+            "Pair work: introducing oneself",
+            "Role-playing introductions"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Tell Me More About Your Family",
+          "skills": ["Speaking", "Writing", "Listening"],
+          "objectives": [
+            "Introducing self and others",
+            "Identifying people",
+            "Asking/Giving information about age and number",
+            "Expressing possession"
+          ],
+          "vocabulary": [
+            "parents",
+            "grandparents",
+            "children",
+            "daughter",
+            "son",
+            "family tree",
+            "move",
+            "How many",
+            "How old"
+          ],
+          "grammar_points": [
+            "Have/has got (affirmative, negative, interrogative)",
+            "Short answers (Yes/No questions)",
+            "WH-questions: How many, How old",
+            "Numbers (cardinal numbers)"
+          ],
+          "key_structures": [
+            "I have got...",
+            "She has got...",
+            "Have you got...?",
+            "How many...?",
+            "How old...?"
+          ],
+          "pronunciation": "/ɒ/ (got, on), /ɔː/ (daughter, four), /tʃ/ (children, teacher)",
+          "key_activities": [
+            "Reading family tree (non-linear text)",
+            "Completing paragraphs about family",
+            "Asking/answering questions about family members",
+            "Writing about one's own family"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "What Are Your Hobbies?",
+          "skills": ["Speaking", "Listening", "Writing", "Reading"],
+          "objectives": [
+            "Expressing likes and preferences",
+            "Asking/giving information about hobbies"
+          ],
+          "vocabulary": [
+            "swimming",
+            "cycling",
+            "hobby",
+            "pastime",
+            "playing",
+            "like",
+            "enjoy",
+            "play",
+            "favourite",
+            "chess",
+            "tennis"
+          ],
+          "grammar_points": [
+            "Like, love, enjoy + noun/-ing (simple present)",
+            "To be: simple present (all forms - affirmative, negative, interrogative)",
+            "WH-questions: What, How old"
+          ],
+          "key_structures": [
+            "I like/love/enjoy...",
+            "I like/love/enjoy + -ing",
+            "What is your favourite...?",
+            "What do you like?"
+          ],
+          "pronunciation": "/e/ (chess, tennis), /eɪ/ (play, favourite), /ɒ/ (hobby, got)",
+          "key_activities": [
+            "Discussing hobbies in pairs",
+            "Survey: interviewing classmates about hobbies",
+            "Writing about personal hobbies",
+            "Mime game (TPR activity)"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "How Do You Spend Your Day?",
+          "skills": ["Reading", "Speaking", "Listening", "Writing"],
+          "objectives": [
+            "Describing daily routines",
+            "Expressing approval ('That's great!')",
+            "Telling time"
+          ],
+          "vocabulary": [
+            "spend",
+            "get up",
+            "sleep",
+            "go to bed",
+            "have lunch",
+            "have dinner",
+            "have breakfast",
+            "wash",
+            "dress",
+            "eat",
+            "watch",
+            "early",
+            "late",
+            "o'clock",
+            "half-past",
+            "quarter",
+            "to",
+            "clock"
+          ],
+          "grammar_points": [
+            "Simple present (3 forms: affirmative, negative, interrogative)",
+            "Adverbs of frequency: always, usually, sometimes, never",
+            "Prepositions of time: at, in, on",
+            "Question: 'What time is it?'",
+            "Linkers: and, but (addition/contrast)"
+          ],
+          "key_structures": [
+            "I get up at...",
+            "I always/usually/sometimes/never...",
+            "What time do you...?",
+            "I... and then I...",
+            "I... but I..."
+          ],
+          "pronunciation": "/əʊ/ (go, home), /aɪ/ (time, night), /uː/ (school, noon), /ɜː/ (work, early)",
+          "key_activities": [
+            "Matching time with actions (visual activity)",
+            "Reading and evaluating information (true/false)",
+            "Writing about daily routines",
+            "Word puzzle game"
+          ]
+        }
+      ]
+    },
+    {
+      "module_number": 2,
+      "module_name": "My Immediate Environment",
+      "theme": "Friends, home, welcoming guests, food",
+      "approximate_time": "10 teaching hours",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Aly's Friend",
+          "skills": ["Speaking", "Reading", "Writing"],
+          "objectives": [
+            "Describing people and places",
+            "Inviting",
+            "Thanking",
+            "Greeting"
+          ],
+          "vocabulary": [
+            "friendly",
+            "helpful",
+            "intelligent",
+            "funny",
+            "wonderful",
+            "quiet",
+            "lovely",
+            "beautiful",
+            "river",
+            "island",
+            "house",
+            "street",
+            "invite",
+            "accept",
+            "weather"
+          ],
+          "grammar_points": [
+            "Prepositions: near, in, on, between, at",
+            "Adjectives (descriptive)",
+            "Possessive adjectives: my, your, his, her, its, our, their",
+            "Yes/No questions",
+            "WH-question: Where"
+          ],
+          "key_structures": [
+            "He/She is...",
+            "My friend is...",
+            "It is near/in/on/between...",
+            "Where is...?",
+            "Would you like to...?"
+          ],
+          "pronunciation": "/ʌ/ (funny, come), /aɪ/ (island, like), /z/ (his, please), /əʊ/ (home, don't), /eə/ (there, where)",
+          "key_activities": [
+            "Describing friends (speaking activity)",
+            "Reading invitation letter from Peter",
+            "Writing letter and drawing picture of hometown",
+            "Role-playing greetings and introductions"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "What's Happening?",
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Describing actions in progress",
+            "Locating people and things"
+          ],
+          "vocabulary": [
+            "clean",
+            "prepare",
+            "tidy up",
+            "cook",
+            "arrive",
+            "garage",
+            "room",
+            "garden",
+            "sitting room",
+            "kitchen",
+            "busy",
+            "car"
+          ],
+          "grammar_points": [
+            "Present progressive/continuous (affirmative, negative, interrogative)",
+            "WH-question: What",
+            "Yes/No questions with present progressive"
+          ],
+          "key_structures": [
+            "I am/He is/They are + -ing",
+            "What are you doing?",
+            "Is he/she...?",
+            "Are they...?"
+          ],
+          "pronunciation": "/əʊ/ (going, home), /aɪ/ (tidy, arrive), /eə/ (preparing, where), /iː/ (clean, read), /ə/ (prepare, brother), /ʃ/ (washing, she)",
+          "key_activities": [
+            "Describing what people are doing (pictures)",
+            "Practicing present continuous in context",
+            "Writing descriptions of ongoing activities",
+            "TPR activity: mime actions",
+            "Game activities"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Welcome to Tunisia",
+          "skills": ["Reading", "Listening", "Speaking", "Writing"],
+          "objectives": [
+            "Polite requests",
+            "Taking leave",
+            "Greeting",
+            "Thanking"
+          ],
+          "vocabulary": [
+            "plane",
+            "policeman",
+            "customs",
+            "trolley",
+            "luggage",
+            "lounge",
+            "airport",
+            "taxi",
+            "passport",
+            "stay",
+            "give",
+            "kids"
+          ],
+          "grammar_points": [
+            "Can (polite requests)",
+            "Imperative for instructions"
+          ],
+          "key_structures": [
+            "Can you...?",
+            "Can I...?",
+            "Please...",
+            "Give me...",
+            "Come here"
+          ],
+          "pronunciation": "/ʌ/ (come, customs), /eə/ (there, airport), /θ/ (thank, three), /j/ (you, yes), /ə/ (about, policeman)",
+          "key_activities": [
+            "Listening comprehension (arrival at airport)",
+            "Reading and understanding travel contexts",
+            "Role-playing airport conversations",
+            "Practicing polite requests in pairs"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Time for Lunch",
+          "skills": ["Reading", "Speaking", "Writing"],
+          "objectives": [
+            "Expressing appreciation",
+            "Inviting",
+            "Declining an invitation",
+            "Asking about likes/dislikes regarding food"
+          ],
+          "vocabulary": [
+            "fish",
+            "chips",
+            "fruit",
+            "vegetables",
+            "omelette",
+            "soup",
+            "rice",
+            "pizza",
+            "dates",
+            "roast chicken",
+            "banana",
+            "orange",
+            "delicious",
+            "traditional",
+            "sweet",
+            "savoury",
+            "popular",
+            "fresh",
+            "dish",
+            "fast food",
+            "smell"
+          ],
+          "grammar_points": [
+            "Would like + noun/to + verb",
+            "What about + noun/-ing",
+            "Yes/No questions"
+          ],
+          "key_structures": [
+            "I would like...",
+            "Would you like...?",
+            "What about...?",
+            "Do you like...?"
+          ],
+          "pronunciation": "/z/ (cheese, please), /eɪ/ (taste, ate), Silent 'b' (lamb, climb)",
+          "key_activities": [
+            "Discussing food preferences",
+            "Reading non-linear text (menu/food items)",
+            "Role-playing restaurant conversations",
+            "Writing about favorite foods",
+            "Game: food categories"
+          ]
+        }
+      ]
+    },
+    {
+      "module_number": 3,
+      "module_name": "My Home and City",
+      "theme": "House, farm, market, birthday",
+      "approximate_time": "10 teaching hours",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Aly's House",
+          "skills": ["Speaking", "Reading", "Listening"],
+          "objectives": [
+            "Describing the home",
+            "Naming rooms and furniture",
+            "Locating objects"
+          ],
+          "vocabulary": [
+            "kitchen",
+            "living room",
+            "dining room",
+            "bedroom",
+            "hall",
+            "bathroom",
+            "sofa",
+            "bed",
+            "carpets",
+            "wardrobe",
+            "desk",
+            "table",
+            "chair",
+            "tape recorder",
+            "map",
+            "globe",
+            "flag",
+            "lovely",
+            "traditional",
+            "view",
+            "floor",
+            "window",
+            "farm",
+            "garden",
+            "furniture"
+          ],
+          "grammar_points": [
+            "There is/There are",
+            "Prepositions of location: near, next to, in, on, between, on the right/left, in the middle",
+            "WH-question: What...like?"
+          ],
+          "key_structures": [
+            "There is a...",
+            "There are...",
+            "It is near/next to/between...",
+            "What is...like?",
+            "On the right/left"
+          ],
+          "pronunciation": "/ɪ/ (kitchen, living), /aʊ/ (house, about), /ɑː/ (bathroom, father), /dʒ/ (large, lounge), /z/ (rooms, his)",
+          "key_activities": [
+            "Labeling rooms and furniture",
+            "Reading letter describing house",
+            "Describing own house",
+            "Drawing house plan",
+            "Word puzzle game"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Uncle Hedy's Farm",
+          "skills": ["Speaking", "Reading", "Listening", "Writing"],
+          "objectives": [
+            "Asking/Giving information",
+            "Expressing like and dislike about food",
+            "Describing what people have/own"
+          ],
+          "vocabulary": [
+            "figs",
+            "strawberries",
+            "watermelon",
+            "almonds",
+            "apricot",
+            "dates",
+            "grapes",
+            "lemon",
+            "carrots",
+            "cucumber",
+            "lettuce",
+            "pepper",
+            "onion",
+            "tomato",
+            "potato",
+            "turkeys",
+            "hens",
+            "cows",
+            "goats",
+            "ducks",
+            "rabbits",
+            "grow",
+            "keep",
+            "milk",
+            "farm",
+            "market",
+            "proud"
+          ],
+          "grammar_points": [
+            "Subject pronouns/Object pronouns (I/me, you/you, he/him, she/her, it/it, we/us, they/them)",
+            "Simple present review"
+          ],
+          "key_structures": [
+            "He/She grows...",
+            "They keep...",
+            "I like it/them",
+            "Give me/him/her/us/them..."
+          ],
+          "pronunciation": "Stressed syllables in words, Sound discrimination activities",
+          "key_activities": [
+            "Reading about farm life",
+            "Distinguishing fruits and vegetables",
+            "Survey: classmates' food preferences",
+            "Writing about food likes/dislikes",
+            "Listening activity with song 'Old MacDonald's Farm'"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Market Day",
+          "skills": ["Speaking", "Reading", "Listening", "Writing"],
+          "objectives": [
+            "Naming clothes and shops",
+            "Asking/giving information",
+            "Describing shopping experiences"
+          ],
+          "vocabulary": [
+            "dress",
+            "socks",
+            "sandals",
+            "trousers",
+            "gloves",
+            "tie",
+            "tee-shirt",
+            "jacket",
+            "skirt",
+            "shoes",
+            "hat",
+            "greengrocer",
+            "butcher",
+            "antique shop",
+            "stalls",
+            "goods",
+            "pottery",
+            "flea market",
+            "grounds",
+            "square",
+            "hot"
+          ],
+          "grammar_points": [
+            "Articles: a/an/the",
+            "Prepositions: near, on, in, from, at",
+            "WH-questions: when, what (consolidation)"
+          ],
+          "key_structures": [
+            "A/An + singular noun",
+            "The + specific noun",
+            "At the market",
+            "In the shop",
+            "When do you...?"
+          ],
+          "pronunciation": "Stressed syllables, Sound discrimination",
+          "key_activities": [
+            "Identifying clothes (men's/women's)",
+            "Reading about market day",
+            "Matching shops with sellers",
+            "Writing about market experiences",
+            "Game: word snake"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Happy Birthday",
+          "skills": ["Speaking", "Reading", "Listening", "Writing"],
+          "objectives": [
+            "Talking about birthday parties",
+            "Asking about time, age, quantity",
+            "Naming colors"
+          ],
+          "vocabulary": [
+            "birthday",
+            "balloons",
+            "party",
+            "presents",
+            "cake",
+            "coke",
+            "candles",
+            "flowers",
+            "music",
+            "light",
+            "blow out",
+            "decorate",
+            "green",
+            "brown",
+            "white",
+            "yellow",
+            "red",
+            "pink",
+            "blue",
+            "orange",
+            "black",
+            "traditional"
+          ],
+          "grammar_points": [
+            "Regular and irregular plurals (child/children, man/men)",
+            "The genitive ('s for possession)",
+            "Linkers: but, because, and, then"
+          ],
+          "key_structures": [
+            "It's my birthday",
+            "Aly's party",
+            "Children/men/women",
+            "First... and then...",
+            "I like it because..."
+          ],
+          "pronunciation": "/e/ (present, red), /ʃ/ (wish, she), /tʃ/ (birthday, watch), Stressed syllables, Odd man out (sound discrimination)",
+          "key_activities": [
+            "Discussing birthday celebrations",
+            "Reading about party preparations",
+            "Using linkers correctly in writing",
+            "Writing paragraph about birthday party",
+            "TPR activity with colors",
+            "Class birthday calendar activity"
+          ]
+        }
+      ]
+    },
+    {
+      "module_number": 4,
+      "module_name": "Health and Safety",
+      "theme": "Safety, health, keeping fit, weather",
+      "approximate_time": "10 teaching hours",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "You Must Be Careful",
+          "skills": ["Listening", "Speaking", "Reading", "Writing"],
+          "objectives": [
+            "Warning",
+            "Expressing obligation",
+            "Expressing prohibition"
+          ],
+          "vocabulary": [
+            "careful",
+            "dangerous",
+            "safe",
+            "leaflet",
+            "brush",
+            "sharpener",
+            "matches",
+            "fall down",
+            "touch"
+          ],
+          "grammar_points": [
+            "Be + careful",
+            "Don't + verb (negative imperative)",
+            "Must/Mustn't (modal verbs for obligation/prohibition)"
+          ],
+          "key_structures": [
+            "Be careful!",
+            "Don't touch...",
+            "You must...",
+            "You mustn't..."
+          ],
+          "pronunciation": "Silent letters: t, l; /ɑː/ (can't, father), /əʊ/ (don't, home), /aɪ/ (knife, climb), /ʌ/ (touch, come)",
+          "key_activities": [
+            "Identifying dangerous situations",
+            "Making safety rules",
+            "Role-playing warnings",
+            "Creating safety leaflets (project work)",
+            "Game: crossword puzzle"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "What's the Matter?",
+          "skills": ["Listening", "Reading", "Speaking"],
+          "objectives": [
+            "Asking for information",
+            "Asking for permission",
+            "Thanking",
+            "Taking leave",
+            "Expressing obligation"
+          ],
+          "vocabulary": [
+            "mouth",
+            "eye",
+            "hand",
+            "ear",
+            "foot",
+            "head",
+            "arm",
+            "leg",
+            "ankle",
+            "hair",
+            "cut",
+            "plaster",
+            "medicine",
+            "burn",
+            "injection",
+            "injury",
+            "attack",
+            "slip",
+            "hurt",
+            "fall off",
+            "injure",
+            "prescribe",
+            "clean",
+            "serious"
+          ],
+          "grammar_points": [
+            "Simple past (regular and irregular verbs - introduction)",
+            "Modal: must (for advice)"
+          ],
+          "key_structures": [
+            "I hurt my...",
+            "He/She fell...",
+            "I slipped",
+            "You must see a doctor",
+            "What happened?"
+          ],
+          "pronunciation": "/ɜː/ (hurt, nurse), /t/ /d/ /ɪd/ endings for past tense, /θ/ (mouth, tooth), /eɪ/ (pain, ache)",
+          "key_activities": [
+            "Labeling body parts",
+            "Listening to doctor-patient dialogue",
+            "Role-playing medical situations",
+            "Writing about injuries/illnesses",
+            "Song: 'Head, Shoulders, Knees and Toes'"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Let's Keep Fit",
+          "skills": ["Reading", "Speaking", "Writing"],
+          "objectives": [
+            "Giving advice",
+            "Talking about quantity/numbers",
+            "Discussing health habits"
+          ],
+          "vocabulary": [
+            "fat",
+            "diet",
+            "health",
+            "healthy",
+            "balanced",
+            "vitamins",
+            "exercise",
+            "practise",
+            "jog",
+            "jogging",
+            "smoke",
+            "sit-ups",
+            "press-ups",
+            "keep fit",
+            "advise",
+            "follow",
+            "contain",
+            "bread",
+            "chef",
+            "regular"
+          ],
+          "grammar_points": [
+            "Much/many + noun",
+            "The imperative (for advice)",
+            "Simple past: regular and irregular verbs (consolidation)"
+          ],
+          "key_structures": [
+            "Eat healthy food",
+            "Don't eat too much...",
+            "You should...",
+            "How much/many...?"
+          ],
+          "pronunciation": "/e/ (healthy, bread), /ʃ/ (should, sugar), /s/ (exercise, practice), Stressed syllables",
+          "key_activities": [
+            "Discussing healthy/unhealthy habits",
+            "Reading advice text",
+            "Writing health tips",
+            "Identifying good and bad habits",
+            "Game: spinning wheel with health activities"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "What's the Weather Like?",
+          "skills": ["Reading", "Speaking"],
+          "objectives": [
+            "Making suggestions",
+            "Describing weather",
+            "Talking about seasons"
+          ],
+          "vocabulary": [
+            "sun",
+            "rain",
+            "wind",
+            "cloud",
+            "snow",
+            "warm",
+            "sky",
+            "rainbow",
+            "picnic",
+            "countryside",
+            "jogging",
+            "suggest",
+            "understand",
+            "environment",
+            "idea",
+            "regularly"
+          ],
+          "grammar_points": [
+            "Noun + y = adjective (sun/sunny, rain/rainy, etc.)",
+            "Let's + verb",
+            "What about + verb-ing/noun"
+          ],
+          "key_structures": [
+            "It's sunny/rainy/cloudy/windy/snowy",
+            "Let's go...",
+            "What about going...?",
+            "The weather is..."
+          ],
+          "pronunciation": "/eɪ/ (rain, grey), /ɑː/ (can't, father), /aʊ/ (cloud, now)",
+          "key_activities": [
+            "Describing weather conditions",
+            "Making weather-related suggestions",
+            "Reading about British weather",
+            "Identifying seasons",
+            "Map activity: weather in different regions"
+          ]
+        }
+      ]
+    },
+    {
+      "module_number": 5,
+      "module_name": "School Life",
+      "theme": "School, teachers, helping others, saying goodbye",
+      "approximate_time": "10 teaching hours",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Let's Visit Aly's School",
+          "skills": ["Speaking", "Reading", "Listening"],
+          "objectives": [
+            "Giving permission",
+            "Expressing desire",
+            "Locating people, things, places"
+          ],
+          "vocabulary": [
+            "headmaster's office",
+            "classroom",
+            "courtyard",
+            "hall",
+            "tape recorder",
+            "map",
+            "globe",
+            "computer",
+            "flag",
+            "bookcase",
+            "eraser",
+            "pencil-case",
+            "ruler",
+            "chalk",
+            "desk",
+            "register",
+            "board",
+            "headmaster",
+            "guest",
+            "attend",
+            "leave (behind)",
+            "ring (bell)",
+            "miss",
+            "sharpen",
+            "raise",
+            "bell",
+            "tricks",
+            "museum"
+          ],
+          "grammar_points": [
+            "You can + verb / Of course you can",
+            "Want + noun / Want + to + verb",
+            "Prepositions of place: in front, under, between, behind, near"
+          ],
+          "key_structures": [
+            "Can I...?",
+            "You can...",
+            "I want to...",
+            "I want a...",
+            "It's in front of/under/between/behind/near..."
+          ],
+          "pronunciation": "/æ/ (map, classroom), /ʃ/ (she, sharp), /s/ (school, class), /ɑː/ (classroom, ask), /ɔː/ (board, door), /əʊ/ (don't, go), /eɪ/ (raise, take), Stressed syllables",
+          "key_activities": [
+            "Labeling school objects",
+            "Reading about school visit",
+            "Role-playing school conversations",
+            "Describing own school",
+            "Word puzzle game"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Who Is Your Favourite Teacher?",
+          "skills": ["Reading", "Speaking"],
+          "objectives": [
+            "Expressing choice",
+            "Granting forgiveness",
+            "Apologizing",
+            "Describing teachers and subjects"
+          ],
+          "vocabulary": [
+            "Maths",
+            "Arabic",
+            "Technology",
+            "Biology",
+            "Physics",
+            "History",
+            "English",
+            "strict",
+            "good-looking",
+            "fluent",
+            "slow",
+            "attentive",
+            "nervous",
+            "boring",
+            "lazy",
+            "keyboard",
+            "mouse",
+            "printer",
+            "central unit",
+            "monitor",
+            "drop",
+            "reply",
+            "study",
+            "break",
+            "lab",
+            "diet",
+            "sorry",
+            "careful"
+          ],
+          "grammar_points": [
+            "Adjective + ly = adverb (slow/slowly, fluent/fluently, etc.)",
+            "-ER nouns (teacher, speaker, writer, etc.)"
+          ],
+          "key_structures": [
+            "My favourite teacher is...",
+            "He/She speaks slowly/fluently",
+            "I'm sorry",
+            "That's OK"
+          ],
+          "pronunciation": "/t/ - /d/ - /ɪd/ (ed in regular verbs), /ɑː/ (class, ask), /e/ (spelling, test)",
+          "key_activities": [
+            "Discussing favorite subjects and teachers",
+            "Reading dialogue in computer lab",
+            "Practicing adverbs of manner",
+            "Writing about favorite teacher",
+            "Game: verb-noun conversion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Let's Help Others",
+          "skills": ["Speaking", "Reading"],
+          "objectives": [
+            "Comparing",
+            "Encouraging civic responsibility"
+          ],
+          "vocabulary": [
+            "collect",
+            "throw",
+            "tidy",
+            "keep",
+            "stand",
+            "help",
+            "garbage",
+            "litter",
+            "plastic bags",
+            "garbage cans",
+            "waste paper",
+            "waste baskets",
+            "floor",
+            "voluntary",
+            "responsible",
+            "dirty",
+            "clean",
+            "proud",
+            "rarely",
+            "together",
+            "hate"
+          ],
+          "grammar_points": [
+            "Noun + be + like + noun (for comparison)"
+          ],
+          "key_structures": [
+            "It is like...",
+            "Let's help...",
+            "We should...",
+            "Don't throw..."
+          ],
+          "pronunciation": "/ɜː/ (dirty, work), /aɪ/ (tidy, like), /ɪ/ (litter, bin), /ʊ/ (put, good), /əʊ/ (throw, go), /ə/ (collect, about)",
+          "key_activities": [
+            "Discussing school cleanliness",
+            "Reading about voluntary work",
+            "Planning class cleanup project",
+            "Writing about helping others",
+            "Game: finding secret word"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Good-bye Peter",
+          "skills": ["Listening", "Speaking", "Reading"],
+          "objectives": [
+            "Expressing ability/inability",
+            "Asking about number/quantity/price",
+            "Taking leave",
+            "Asking for/Offering help"
+          ],
+          "vocabulary": [
+            "carry",
+            "suitcase",
+            "carpet",
+            "souvenirs",
+            "souk",
+            "trip",
+            "size",
+            "heavy",
+            "light",
+            "traditional",
+            "safe",
+            "hurry up",
+            "try out",
+            "feel sick",
+            "cost",
+            "customer",
+            "shopkeeper",
+            "countryside",
+            "toy",
+            "roses",
+            "street lamps",
+            "tomorrow"
+          ],
+          "grammar_points": [
+            "Can + verb (ability)",
+            "Cannot/Can't + verb (inability)",
+            "How much + uncountable noun",
+            "How many + countable noun"
+          ],
+          "key_structures": [
+            "I can/can't...",
+            "Can you help me?",
+            "How much is...?",
+            "How many...?",
+            "Goodbye",
+            "See you later"
+          ],
+          "pronunciation": "/æ/ (can, back), /eɪ/ (safe, plane), /iː/ (leave, piece), /əʊ/ (don't, home)",
+          "key_activities": [
+            "Discussing ability and inability",
+            "Listening to farewell dialogues",
+            "Shopping role-plays (souvenirs)",
+            "Talking about prices and quantities",
+            "Saying goodbye (farewell expressions)",
+            "Game activities"
+          ]
+        }
+      ]
+    }
+  ],
+  "grammar_overview": [
+    {
+      "category": "Verb Tenses",
+      "items": [
+        {
+          "name": "Simple Present",
+          "sub_items": [
+            "To be (affirmative, negative, interrogative)",
+            "Have/Has got",
+            "Action verbs (like, love, enjoy, etc.)",
+            "Third person -s",
+            "Adverbs of frequency"
+          ]
+        },
+        {
+          "name": "Present Progressive",
+          "sub_items": [
+            "Affirmative, negative, interrogative forms",
+            "Contrast with simple present"
+          ]
+        },
+        {
+          "name": "Simple Past (Introduction)",
+          "sub_items": [
+            "Regular verbs (-ed endings)",
+            "Irregular verbs (common ones)",
+            "Was/Were"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Modal Verbs",
+      "items": [
+        "Can/Can't (ability, permission, requests)",
+        "Must/Mustn't (obligation, prohibition)",
+        "Would like (polite requests)"
+      ]
+    },
+    {
+      "category": "Question Formation",
+      "items": [
+        "Yes/No questions",
+        "WH-questions: What, Where, When, How many, How much, How old",
+        "Question words with different tenses"
+      ]
+    },
+    {
+      "category": "Other Structures",
+      "items": [
+        "Demonstratives (this/these, that/those)",
+        "Possessive adjectives (my, your, his, her, etc.)",
+        "Object pronouns (me, you, him, her, us, them)",
+        "Articles (a, an, the)",
+        "Prepositions of time (at, in, on)",
+        "Prepositions of place (in, on, under, behind, between, next to, etc.)",
+        "There is/There are",
+        "Genitive 's (possession)",
+        "Imperatives",
+        "Linkers (and, but, because, then)"
+      ]
+    },
+    {
+      "category": "Word Formation",
+      "items": [
+        "Adjective + ly = Adverb (slow/slowly, quick/quickly)",
+        "Noun + y = Adjective (sun/sunny, rain/rainy)",
+        "Verb + er = Noun (teach/teacher, speak/speaker)",
+        "Regular and irregular plurals"
+      ]
+    }
+  ],
+  "vocabulary_themes": [
+    "Personal Information (family members, relationships, personal characteristics, personality traits, hobbies and interests, daily routines and activities, likes and dislikes)",
+    "Home and Living (house types and rooms, furniture and household objects, locations and directions, describing homes)",
+    "School Life (school places and facilities, school subjects, school objects and materials, school personnel, classroom language)",
+    "Food and Eating (types of food - fruits, vegetables, meat, etc., meals and eating times, restaurants and shopping, food preparation, expressing food preferences)",
+    "Shopping and Clothes (types of clothes, shops and shopkeepers, buying and selling, colors, prices and quantities)",
+    "Health and Body (body parts, illnesses and injuries, medical treatments, healthy habits, exercise and fitness)",
+    "Weather and Seasons (weather conditions, seasons, weather-related activities, describing climate)",
+    "Travel and Places (transportation, airport procedures, tourist activities, describing locations, giving and asking for directions)",
+    "Celebrations (birthday parties, special occasions, party activities, gifts and presents)",
+    "Civic Responsibility (environmental awareness, helping others, school community, cleanliness and tidiness)"
+  ],
+  "writing_types": [
+    "Personal descriptions",
+    "Family descriptions",
+    "Letters (personal, invitations)",
+    "Paragraphs about daily routines",
+    "Food preferences",
+    "Descriptions of places (home, school, town)",
+    "Shopping experiences",
+    "Health and safety advice",
+    "Weather descriptions",
+    "Dialogues"
+  ],
+  "reading_strategies": [
+    "Scan texts for specific information",
+    "Skim for gist/main idea",
+    "Understand explicitly stated information",
+    "Infer meanings from context",
+    "Identify reference relations (pronouns, demonstratives)",
+    "Relate illustrations to text (non-linear texts)",
+    "Read different text types (letters, emails, descriptions, dialogues)",
+    "Work in pairs/groups to construct meaning",
+    "Evaluate information (true/false activities)"
+  ],
+  "listening_strategies": [
+    "Discriminate between sounds",
+    "Decode sound-symbol correspondence",
+    "Distinguish word boundaries",
+    "Understand explicitly stated information",
+    "Identify speakers and relationships",
+    "Demonstrate understanding through nonverbal response",
+    "Listen for specific information",
+    "Follow instructions"
+  ],
+  "speaking_strategies": [
+    "Practise pronunciation at word and sentence level",
+    "Sustain exchanges on familiar topics",
+    "Use language appropriate to situations",
+    "Produce oral descriptions from prompts",
+    "Ask and give information",
+    "Role-play various situations",
+    "Work in pairs/groups for interaction",
+    "Use acquired vocabulary and structures appropriately"
+  ],
+  "pronunciation_focus": {
+    "vowel_sounds": [
+      "/ɑː/ (father, are, classroom)",
+      "/ʌ/ (brother, come, touch)",
+      "/i/ (sister, little)",
+      "/iː/ (see, read, clean)",
+      "/ɪ/ (sit, kitchen, living)",
+      "/e/ (bed, red, present)",
+      "/eɪ/ (play, rain, take)",
+      "/æ/ (cat, map, back)",
+      "/ɒ/ (hot, got, on)",
+      "/ɔː/ (door, four, daughter)",
+      "/əʊ/ (go, home, don't)",
+      "/ʊ/ (put, good)",
+      "/uː/ (school, noon, food)",
+      "/aɪ/ (time, like, tidy)",
+      "/aʊ/ (house, cloud, now)",
+      "/ɔɪ/ (boy, toy)",
+      "/eə/ (there, where, air)",
+      "/ɪə/ (here, hear)",
+      "/ʊə/ (tour, poor)",
+      "/ɜː/ (hurt, work, bird)",
+      "/ə/ (about, brother, sofa)"
+    ],
+    "consonant_sounds": [
+      "/θ/ (think, mouth, tooth)",
+      "/ð/ (this, there, mother)",
+      "/ʃ/ (she, wash, sharp)",
+      "/ʒ/ (pleasure, measure)",
+      "/tʃ/ (chair, teacher, watch)",
+      "/dʒ/ (large, lounge, age)",
+      "/s/ (class, school, practice)",
+      "/z/ (rooms, his, please)",
+      "/j/ (you, yes)"
+    ],
+    "pronunciation_features": [
+      "Silent letters (t in listen, l in walk, b in lamb)",
+      "Stressed syllables in multi-syllable words",
+      "Word stress patterns",
+      "Sentence stress and intonation",
+      "Minimal pairs (discrimination exercises)",
+      "Regular past tense endings: /t/, /d/, /ɪd/"
+    ]
+  },
+  "assessment_approaches": {
+    "formative_assessment": [
+      "Self-evaluation checklists (at end of each module)",
+      "Peer correction activities",
+      "Continuous monitoring during activities",
+      "Activity Book exercises (test-type questions)",
+      "Production activities at end of sections"
+    ],
+    "skills_assessment": {
+      "speaking": "Role-plays, pair work, oral presentations",
+      "listening": "Comprehension questions, following instructions",
+      "reading": "Comprehension questions (various types)",
+      "writing": "Guided writing, parallel texts, creative writing"
+    },
+    "test_preparation": [
+      "Multiple choice questions",
+      "True/False statements",
+      "Matching activities",
+      "Gap-filling exercises",
+      "Short answer questions",
+      "Reordering activities"
+    ]
+  },
+  "cultural_content": {
+    "intercultural_learning": {
+      "main_theme": "British teenager (Peter) visits Tunisian family",
+      "focus_areas": [
+        "Cultural exchange and understanding",
+        "Comparing lifestyles",
+        "Learning about different cultures",
+        "Promoting tolerance and respect"
+      ]
+    },
+    "tunisian_culture": [
+      "Family life and traditions",
+      "Tunisian food and meals",
+      "Markets and shopping",
+      "Farm life",
+      "School system"
+    ],
+    "british_culture": [
+      "Daily routines",
+      "Food preferences",
+      "Weather and climate",
+      "Social customs"
+    ]
+  },
+  "key_learning_outcomes": [
+    "Communicate about familiar topics",
+    "Understand simple texts and dialogues",
+    "Write simple paragraphs",
+    "Use basic grammar structures accurately",
+    "Pronounce English sounds correctly",
+    "Develop positive attitudes toward English learning",
+    "Appreciate cultural diversity"
+  ]
+}

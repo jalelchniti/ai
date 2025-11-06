@@ -1,0 +1,1403 @@
+{
+  "grade": 6,
+  "course_name": "Learn and Grow - Year 6 Basic Education",
+  "country": "Tunisia",
+  "publisher": "National Pedagogic Centre",
+  "modules": [
+    {
+      "module_number": 1,
+      "module_name": "Entertaining Myself",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Let's Have Fun",
+          "objectives": [
+            "Name leisure activities",
+            "Speak about favorite leisure activities"
+          ],
+          "vocabulary": [
+            "fishing",
+            "museum",
+            "go camping",
+            "riding a bike",
+            "gardening",
+            "swimming",
+            "listening to music",
+            "dancing",
+            "going to cinema",
+            "reading",
+            "drawing",
+            "visiting museums",
+            "playing sports",
+            "playing computer games"
+          ],
+          "grammar_points": [
+            "Because",
+            "Like + verb + ING",
+            "Enjoy + verb + ING",
+            "Hate + verb + ING"
+          ],
+          "key_structures": [
+            "I like riding bikes",
+            "I enjoy listening to music",
+            "I hate playing video games"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "My Free Time Activities",
+          "objectives": [
+            "Name leisure activities",
+            "Write about favorite leisure activities"
+          ],
+          "vocabulary": [
+            "drawing",
+            "gardening",
+            "shopping"
+          ],
+          "grammar_points": [
+            "Adverbs of frequency (Always, Sometimes, Usually, Never)",
+            "Prepositions: On / In"
+          ],
+          "key_structures": [
+            "I/You/We/They + always/sometimes/never + verb",
+            "He/She/It + always/sometimes/never + verb + s",
+            "On the weekend, on holidays, on Monday morning",
+            "In the morning, in the afternoon, in the evening"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "A Day Out",
+          "objectives": [
+            "Name outdoor free time activities",
+            "Make and respond to suggestions"
+          ],
+          "vocabulary": [
+            "bored",
+            "hide and seek",
+            "tired",
+            "zoo",
+            "far"
+          ],
+          "grammar_points": [
+            "Making Suggestions"
+          ],
+          "key_structures": [
+            "Let's + infinitive (Let's play!)",
+            "How about + verb + ing? (How about going to the cinema?)",
+            "What about + verb + ing? (What about going to the zoo?)"
+          ],
+          "pronunciation": "/s/ and /z/ sounds - cinema, restaurant, let's, hide and seek (s sound); zoo, museum, plays, present (z sound)",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Let's Go on a Picnic",
+          "objectives": [
+            "Name picnic items",
+            "Talk about picnic activities"
+          ],
+          "vocabulary": [
+            "get ready",
+            "river",
+            "wash",
+            "arrive",
+            "rope skipping",
+            "fly a kite"
+          ],
+          "grammar_points": [
+            "Linkers: and, but",
+            "Possessive adjectives"
+          ],
+          "key_structures": [
+            "I → my",
+            "You → your",
+            "He → his",
+            "She → her",
+            "It → its",
+            "We → our",
+            "They → their"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Pass the Ball",
+          "objectives": [
+            "Name leisure activities",
+            "Make offers and requests using 'Would you like…?'"
+          ],
+          "vocabulary": [
+            "lose",
+            "team",
+            "win",
+            "kick",
+            "run"
+          ],
+          "grammar_points": [
+            "Inviting: Would you like + to + verb?",
+            "Making a suggestion: Let's + verb"
+          ],
+          "key_structures": [
+            "Would you like to go to the restaurant?",
+            "Let's go to the beach!"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 2,
+      "module_name": "Keeping Fit",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "I'm Healthy, I'm Happy",
+          "objectives": [
+            "Classify food into healthy and unhealthy food",
+            "Give advice for staying healthy"
+          ],
+          "vocabulary": [
+            "fruits",
+            "vegetables",
+            "lots",
+            "healthy",
+            "unhealthy",
+            "fish",
+            "water",
+            "grapes",
+            "carrots",
+            "fries/chips",
+            "hamburger",
+            "sweets",
+            "sandwich"
+          ],
+          "grammar_points": [
+            "Giving Advice: Should + verb",
+            "Shouldn't/should not + verb"
+          ],
+          "key_structures": [
+            "You should eat fish",
+            "You shouldn't eat fast food"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Eat Well, Live Well",
+          "objectives": [
+            "Describe elements of healthy eating",
+            "Tell others to make healthy eating choices using must/mustn't"
+          ],
+          "vocabulary": [
+            "vegetables",
+            "teeth",
+            "egg",
+            "keep fit",
+            "bad for"
+          ],
+          "grammar_points": [
+            "Must + verb",
+            "Mustn't/must not + verb"
+          ],
+          "key_structures": [
+            "You must eat healthy food",
+            "You mustn't eat unhealthy food"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "Must is stronger than should - it expresses necessity/obligation"
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "I'm Healthy, I'm Fit",
+          "objectives": [
+            "Describe fit and unfit people",
+            "Distinguish between healthy and unhealthy habits"
+          ],
+          "vocabulary": [
+            "doughnuts",
+            "fit",
+            "fat",
+            "tired",
+            "excited",
+            "sad",
+            "unhappy"
+          ],
+          "grammar_points": [
+            "Should/Shouldn't (consolidation)",
+            "Must/Mustn't (consolidation)",
+            "Expressing ability: Can + verb",
+            "Expressing inability: Can't + verb"
+          ],
+          "key_structures": [],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "How Are You Feeling?",
+          "objectives": [
+            "Talk about three ailments",
+            "Give advice for staying healthy"
+          ],
+          "vocabulary": [
+            "toothache",
+            "stomachache",
+            "sick",
+            "tired",
+            "headache"
+          ],
+          "grammar_points": [
+            "Have a + ailment",
+            "To be + adjective"
+          ],
+          "key_structures": [
+            "I have a toothache",
+            "I have a headache",
+            "I have a stomachache",
+            "I am sick",
+            "I am tired"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "How to Stay Fit",
+          "objectives": [
+            "Identify activities to stay fit",
+            "Categorize food into healthy and unhealthy",
+            "Define a healthy menu"
+          ],
+          "vocabulary": [
+            "oil",
+            "sweets",
+            "egg",
+            "meat",
+            "pasta",
+            "yoghurt"
+          ],
+          "grammar_points": [
+            "How many + countable noun",
+            "How much + uncountable noun"
+          ],
+          "key_structures": [
+            "How many apples?",
+            "How much cheese?"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "Food Pyramid Concept Introduced"
+        }
+      ]
+    },
+    {
+      "module_number": 3,
+      "module_name": "Having Fun in the Seasons",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "The Four Seasons",
+          "objectives": [
+            "Name the four seasons",
+            "Speak about/Describe different seasons with weather conditions"
+          ],
+          "vocabulary": [
+            "autumn",
+            "spring",
+            "summer",
+            "winter",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+            "year",
+            "seasons"
+          ],
+          "grammar_points": [
+            "Adjective Formation: Noun + y = adjective"
+          ],
+          "key_structures": [
+            "cloud + y = cloudy",
+            "wind + y = windy",
+            "fog + y = foggy",
+            "sun + y = sunny",
+            "rain + y = rainy",
+            "snow + y = snowy",
+            "It's sunny",
+            "It's cloudy",
+            "It's snowy",
+            "It's windy",
+            "It's rainy",
+            "It's foggy"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "For words ending in consonant-vowel-consonant, double the last consonant (foggy, sunny)"
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Having Fun in Spring",
+          "objectives": [
+            "Identify characteristics of spring season",
+            "Speak about spring common activities"
+          ],
+          "vocabulary": [
+            "sky",
+            "clear",
+            "outside",
+            "air",
+            "butterfly",
+            "next",
+            "catch",
+            "collect"
+          ],
+          "grammar_points": [
+            "Future: I/You/He/She/It/We/They + will + verb",
+            "Future time expressions"
+          ],
+          "key_structures": [
+            "I will be happy",
+            "They will go to the park",
+            "Next spring will be beautiful",
+            "Tomorrow",
+            "Next year",
+            "Next spring",
+            "Next month",
+            "Next week"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Having Fun in Summer",
+          "objectives": [
+            "Identify characteristics of summer season",
+            "Speak about common summer activities"
+          ],
+          "vocabulary": [
+            "shorts",
+            "swimsuit",
+            "beach",
+            "sandcastle",
+            "dresses",
+            "skirts",
+            "t-shirts",
+            "swimming",
+            "flying kites",
+            "playing volleyball",
+            "beach ball",
+            "building sandcastles"
+          ],
+          "grammar_points": [
+            "To be on holidays",
+            "Will/Will not + verb (consolidation)"
+          ],
+          "key_structures": [],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Having Fun in Autumn",
+          "objectives": [
+            "Identify characteristics of autumn season",
+            "Speak about common autumn activities"
+          ],
+          "vocabulary": [
+            "warm",
+            "cold",
+            "windy",
+            "go back",
+            "meet"
+          ],
+          "grammar_points": [
+            "Comparative: (short) adjective + er + than"
+          ],
+          "key_structures": [
+            "cold + er = colder than",
+            "hot + er = hotter than",
+            "warm + er = warmer than",
+            "What's the weather like?",
+            "It's + adjective (It's cloudy and windy)"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Having Fun in Winter",
+          "objectives": [
+            "Identify characteristics of winter season",
+            "Speak about common winter activities"
+          ],
+          "vocabulary": [
+            "gloves",
+            "socks",
+            "fresh air",
+            "boots",
+            "between",
+            "sweater",
+            "jackets",
+            "hats",
+            "coats",
+            "skiing",
+            "playing with snowballs",
+            "watching TV",
+            "staying warm inside"
+          ],
+          "grammar_points": [
+            "Verb + ING = Activity"
+          ],
+          "key_structures": [
+            "ski + ing = skiing",
+            "skate + ing = skating",
+            "play + ing = playing with snow balls"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 4,
+      "module_name": "Caring",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Let's Help Each Other",
+          "objectives": [
+            "List examples of helping others",
+            "Identify ways of helping others"
+          ],
+          "vocabulary": [
+            "care",
+            "share",
+            "take care",
+            "wash the dishes",
+            "dirty",
+            "tidy",
+            "help",
+            "each other",
+            "washing dishes",
+            "watering plants",
+            "washing clothes",
+            "cleaning the living room",
+            "taking care of pets",
+            "helping with homework"
+          ],
+          "grammar_points": [
+            "Possessive Adjectives (Review)"
+          ],
+          "key_structures": [
+            "I → My",
+            "You → Your",
+            "He → His",
+            "She → Her",
+            "It → Its",
+            "We → Our",
+            "They → Their"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Sharing is Caring",
+          "objectives": [
+            "Compare places and people using the superlative",
+            "Write about activities one does in neighborhood"
+          ],
+          "vocabulary": [
+            "city",
+            "come together",
+            "neighbour",
+            "to clean up",
+            "alone",
+            "poor",
+            "old",
+            "young",
+            "cross"
+          ],
+          "grammar_points": [
+            "The Superlative: the + short adj + est"
+          ],
+          "key_structures": [
+            "the cleanest",
+            "the largest",
+            "the hottest",
+            "the coldest",
+            "the nicest",
+            "the tallest",
+            "the smartest",
+            "the shortest"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "We Are Stronger Together",
+          "objectives": [
+            "Describe five jobs",
+            "Speak about ways of helping others"
+          ],
+          "vocabulary": [
+            "village",
+            "job",
+            "agree",
+            "work",
+            "say",
+            "sick",
+            "learn",
+            "dice",
+            "builder",
+            "carpenter",
+            "farmer",
+            "gamer",
+            "participate",
+            "competition"
+          ],
+          "grammar_points": [
+            "Noun Formation: Verb + er = Noun"
+          ],
+          "key_structures": [
+            "farm + er = farmer",
+            "build + er = builder",
+            "teach + er = teacher",
+            "bake + er = baker",
+            "drive + er = driver",
+            "play + er = player",
+            "game + er = gamer"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "Not all jobs follow this pattern (doctor, butcher, etc.). Farmer grows fruits and vegetables. Carpenter makes furniture. Builder builds houses and schools. Teacher teaches pupils."
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Caring for My School",
+          "objectives": [
+            "Tell ways to care for school",
+            "Write a classroom charter"
+          ],
+          "vocabulary": [
+            "clean",
+            "collect",
+            "tidy-up",
+            "mop",
+            "blackboard",
+            "finish",
+            "walk in",
+            "floor"
+          ],
+          "grammar_points": [
+            "Future (affirmative/negative) - consolidation",
+            "The Imperative",
+            "Prohibition: Don't + verb"
+          ],
+          "key_structures": [
+            "Close the door",
+            "Don't play in the classroom",
+            "Collect waste",
+            "Wash classroom windows",
+            "Clean the blackboard",
+            "Arrange chairs and tables",
+            "Mop the floor",
+            "Make the garden clean and beautiful"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Caring for My Pet",
+          "objectives": [
+            "Name six pets",
+            "Talk about how to take care of pets"
+          ],
+          "vocabulary": [
+            "take care of",
+            "vet",
+            "sick",
+            "twice",
+            "give",
+            "hit",
+            "dog",
+            "rabbit",
+            "fish",
+            "tortoise",
+            "cat",
+            "bird"
+          ],
+          "grammar_points": [
+            "Imperative (commands/instructions)",
+            "Prohibition: Don't + verb"
+          ],
+          "key_structures": [
+            "Walk your dog twice a day",
+            "Give your pet food and water",
+            "Take your pet to the vet when sick",
+            "Don't hit your pet",
+            "Clean the doghouse/cage"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 5,
+      "module_name": "Celebrations",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Children's Day",
+          "objectives": [
+            "Speak about Children's Day",
+            "Identify five children's rights"
+          ],
+          "vocabulary": [
+            "right",
+            "education",
+            "life",
+            "clothing",
+            "health",
+            "celebrate"
+          ],
+          "grammar_points": [
+            "Have the right to + something"
+          ],
+          "key_structures": [
+            "I/You/We/They + have the right + to",
+            "He/She/It + has the right + to",
+            "Right to education",
+            "Right to life",
+            "Right to clothing and home",
+            "Right to health",
+            "Right to a name",
+            "Right to play",
+            "Right to love and care"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "Tunisia celebrates Children's Day on January 11"
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Mother's Day",
+          "objectives": [
+            "Speak about Mother's Day",
+            "Describe Mother's Day activities",
+            "Narrate past events"
+          ],
+          "vocabulary": [
+            "perfume",
+            "give",
+            "handbag",
+            "cute",
+            "necklace",
+            "surprised"
+          ],
+          "grammar_points": [
+            "Simple Past (Affirmative) - Regular Verbs",
+            "Simple Past (Affirmative) - Irregular Verbs"
+          ],
+          "key_structures": [
+            "help → helped",
+            "prepare → prepared",
+            "love → loved",
+            "buy → bought",
+            "write → wrote",
+            "do → did",
+            "have → had",
+            "be → was/were"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Happy New Year",
+          "objectives": [
+            "List New Year's party activities",
+            "Write about New Year's party"
+          ],
+          "vocabulary": [
+            "hug",
+            "snacks",
+            "crackers",
+            "blow up",
+            "put on",
+            "midnight",
+            "wait for"
+          ],
+          "grammar_points": [
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [
+            "blow up → blew up",
+            "drink → drank",
+            "eat → ate",
+            "wait → waited",
+            "put → put",
+            "wish → wished",
+            "make → made",
+            "say → said",
+            "ask → asked",
+            "laugh → laughed",
+            "talk → talked",
+            "count → counted",
+            "hug → hugged",
+            "want → wanted"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Teacher's Day",
+          "objectives": [
+            "Name items needed for a party",
+            "Talk about party preparations"
+          ],
+          "vocabulary": [
+            "kids",
+            "decorate",
+            "forget",
+            "don't worry",
+            "surprise"
+          ],
+          "grammar_points": [
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [
+            "Bake a cake",
+            "Draw a card",
+            "Write a message",
+            "Play music (violin)",
+            "Decorate classroom with flowers and balloons",
+            "Prepare a song",
+            "Buy drinks/juice"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "End of School Year Party",
+          "objectives": [
+            "Describe a party",
+            "Talk about a school party"
+          ],
+          "vocabulary": [
+            "toothache",
+            "clown",
+            "to miss",
+            "gift",
+            "wish",
+            "doughnut",
+            "show",
+            "magic"
+          ],
+          "grammar_points": [
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [
+            "Clown show",
+            "Magic tricks",
+            "Games",
+            "Eating doughnuts",
+            "Getting gifts",
+            "Dancing",
+            "Playing"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 6,
+      "module_name": "Going Shopping",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Shops in My Town",
+          "objectives": [
+            "Name different shops in town",
+            "Identify seven goods in shops",
+            "Locate shops on a map"
+          ],
+          "vocabulary": [
+            "cheap",
+            "offer",
+            "instrument",
+            "jewellery",
+            "shopping",
+            "ring",
+            "necklace",
+            "off",
+            "sale",
+            "gold",
+            "silver"
+          ],
+          "grammar_points": [
+            "Prepositions (review)",
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [
+            "Shoe shop - shoes, sneakers, boots",
+            "Music shop - instruments, CDs",
+            "Clothes shop - shirts, trousers, dresses, jackets",
+            "Coffee shop - coffee, tea, pastries",
+            "Jewellery shop - rings, necklaces, gold, silver",
+            "Toy shop - dolls, games, kites, balls",
+            "Prepositions: behind, on, next to, between, in front of"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "At the Market",
+          "objectives": [
+            "Identify words related to different shops in market",
+            "Ask and answer questions about price of goods",
+            "Enact a conversation in a shop"
+          ],
+          "vocabulary": [
+            "would like",
+            "croissant",
+            "meat",
+            "pound",
+            "customer",
+            "sell",
+            "buy"
+          ],
+          "grammar_points": [
+            "How much is it? / How much are they?",
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [
+            "How much is it? → It is…/It's… (10 Dinars)",
+            "At the Bakery: Bread, cookies, croissants, doughnuts",
+            "At the Butcher's: Meat",
+            "At the Grocery Shop: Tomatoes, potatoes, apples, carrots, pepper",
+            "Shopping conversation: Greeting → How can I help you? → I'd like… → Anything else? → How much is it/are they? → Payment → Thank you / Goodbye"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "At the Toy Shop",
+          "objectives": [
+            "Name six toys",
+            "Express preferences"
+          ],
+          "vocabulary": [
+            "prize",
+            "race",
+            "present",
+            "win",
+            "choose",
+            "fan",
+            "join",
+            "ball",
+            "jump rope",
+            "doll",
+            "dominoes",
+            "kite",
+            "teddy bear",
+            "puzzle",
+            "electronic game"
+          ],
+          "grammar_points": [
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "At the Clothes Shop",
+          "objectives": [
+            "Name clothes items",
+            "Enact shopping conversations"
+          ],
+          "vocabulary": [
+            "find",
+            "tie",
+            "present",
+            "blazer",
+            "vest",
+            "sweater",
+            "try on clothes",
+            "fitting room",
+            "hat",
+            "skirt",
+            "shoes",
+            "t-shirt",
+            "socks",
+            "shorts",
+            "shirt",
+            "dress",
+            "trousers"
+          ],
+          "grammar_points": [
+            "Simple past",
+            "Numbers (hundreds)"
+          ],
+          "key_structures": [
+            "100 = a/one hundred",
+            "200 = two hundred",
+            "300 = three hundred",
+            "468 = four hundred and sixty-eight",
+            "250 = two hundred and fifty",
+            "What size? (Small, medium, large)",
+            "Would you like to try them on?",
+            "Where is the fitting room?",
+            "It's in the corner",
+            "in the corner (inside) vs. on the corner (outside)"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "At the Mall",
+          "objectives": [
+            "Identify different shops in mall",
+            "Describe a shopping day"
+          ],
+          "vocabulary": [
+            "try on",
+            "fit",
+            "suit",
+            "mall",
+            "perfume"
+          ],
+          "grammar_points": [
+            "Simple past (consolidation)"
+          ],
+          "key_structures": [
+            "Toy shop",
+            "Shoe shop",
+            "Bookshop",
+            "Clothes shop",
+            "Perfume shop",
+            "Jewellery shop",
+            "Coffee shop",
+            "Music shop"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 7,
+      "module_name": "Around the World",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Let's Travel to…",
+          "objectives": [
+            "Identify the four cardinal directions",
+            "Express preferences",
+            "Write a descriptive paragraph about a town"
+          ],
+          "vocabulary": [
+            "world",
+            "country",
+            "travel",
+            "east",
+            "west",
+            "south",
+            "north"
+          ],
+          "grammar_points": [
+            "Making suggestions (review)"
+          ],
+          "key_structures": [
+            "Let's + verb",
+            "How about + verb + ing?",
+            "What about + verb + ing?",
+            "Asia: Mongolia, Japan, Singapore",
+            "Africa: Tunisia, Nigeria, Morocco, Sudan",
+            "America: USA, Mexico, Canada",
+            "Europe: France",
+            "Oceania: Australia"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Greetings Around the World",
+          "objectives": [
+            "Identify four ways of greeting",
+            "Describe people and their ways of greeting"
+          ],
+          "vocabulary": [
+            "greet",
+            "cheek",
+            "kiss",
+            "each other",
+            "shake hands",
+            "use",
+            "think",
+            "bow",
+            "touch"
+          ],
+          "grammar_points": [
+            "Articles: the (definite article), a + consonant, an + vowel"
+          ],
+          "key_structures": [
+            "a cape",
+            "an Indian",
+            "Handshake - Many countries",
+            "Bow - India, Cambodia, Japan",
+            "Touch noses - Qatar, Yemen, UAE (men)",
+            "Kiss on cheeks - France, Tunisia (varies by region and relationship)"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "Different cultures have different greeting customs - this teaches intercultural competence"
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "I Prefer to Travel by…",
+          "objectives": [
+            "Identify different means of transport",
+            "Express preferences",
+            "Write about a family trip"
+          ],
+          "vocabulary": [
+            "spend",
+            "surprise",
+            "fast",
+            "slow",
+            "prefer",
+            "plane",
+            "bus",
+            "bike",
+            "ship",
+            "train",
+            "car",
+            "taxi"
+          ],
+          "grammar_points": [
+            "Comparative (review)",
+            "Prefer + to + verb",
+            "Prefer + verb + ING",
+            "Travel + by + means of transport",
+            "Travel + to + place"
+          ],
+          "key_structures": [
+            "I prefer to travel by train",
+            "I prefer traveling by plane",
+            "by plane, by bus, by train",
+            "to Italy, to Djerba",
+            "Plane is faster than bus",
+            "Train is more comfortable than bus",
+            "Bike is slower than car"
+          ],
+          "pronunciation": "",
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Monuments in the World",
+          "objectives": [
+            "Identify five monuments in the World",
+            "Name and describe famous monuments"
+          ],
+          "vocabulary": [
+            "monument",
+            "amphitheatre",
+            "famous",
+            "build (built)",
+            "old ≠ new",
+            "start ≠ finish"
+          ],
+          "grammar_points": [
+            "Comparative (review)",
+            "The Superlative (review)"
+          ],
+          "key_structures": [
+            "The Pyramids - Egypt, Giza - Ancient",
+            "El Jem Amphitheatre - Tunisia, Mahdia - 238 AD",
+            "The Eiffel Tower - France, Paris - 1889",
+            "Big Ben - England, London - 1859",
+            "The Great Wall of China - China - Ancient",
+            "the longest (wall)",
+            "the highest (tower)",
+            "the oldest (pyramid)",
+            "the biggest (amphitheatre)"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "El Jem Amphitheatre is one of largest amphitheatres in the world"
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Customs and Habits",
+          "objectives": [
+            "Identify customs and habits in Spain",
+            "Write about customs and habits in own country"
+          ],
+          "vocabulary": [
+            "seafood",
+            "festival",
+            "cape",
+            "dancer",
+            "flag",
+            "pepper",
+            "bull",
+            "throw",
+            "fight"
+          ],
+          "grammar_points": [
+            "Articles: the, a, an (review)"
+          ],
+          "key_structures": [
+            "Spain - Capital: Madrid",
+            "Flag: Red and yellow",
+            "Language: Spanish",
+            "Food: Paella (rice with seafood, chicken, peppers)",
+            "Dance: Flamenco",
+            "Sport: Bullfighting (controversial)",
+            "Festival: La Tomatina (throwing tomatoes)"
+          ],
+          "pronunciation": "",
+          "common_errors": [],
+          "notes": "This lesson promotes intercultural understanding and appreciation of different customs"
+        }
+      ]
+    }
+  ],
+  "grammar_overview": [
+    "Because",
+    "Like/Enjoy/Hate + verb + ING",
+    "Adverbs of frequency (always, sometimes, usually, never)",
+    "Prepositions: on/in (time expressions)",
+    "Making suggestions (Let's, How about, What about)",
+    "Possessive adjectives (my, your, his, her, its, our, their)",
+    "Linkers (and, but)",
+    "Would you like + to + verb",
+    "Should/Shouldn't + verb",
+    "Must/Mustn't + verb",
+    "Can/Can't + verb (ability)",
+    "Have a + ailment",
+    "To be + adjective",
+    "How many + countable noun",
+    "How much + uncountable noun",
+    "Adjective formation: Noun + y = adjective",
+    "Future: will + verb",
+    "Future negative: won't + verb",
+    "Comparative: adjective + er + than",
+    "The Superlative: the + adjective + est",
+    "Noun formation: Verb + er = Noun",
+    "The Imperative (commands)",
+    "Prohibition: Don't + verb",
+    "Have/Has the right to + something",
+    "Simple past - Regular verbs (verb + ed)",
+    "Simple past - Irregular verbs",
+    "How much is it? / How much are they?",
+    "Numbers (hundreds)",
+    "Articles: the, a, an",
+    "Prefer + to + verb / Prefer + verb + ING",
+    "Travel + by + transport",
+    "Travel + to + place"
+  ],
+  "vocabulary_themes": [
+    "Leisure activities",
+    "Family",
+    "Food and nutrition",
+    "Health and fitness",
+    "Body parts and ailments",
+    "Seasons and weather",
+    "Months of the year",
+    "Seasonal clothing",
+    "Helping others and caring",
+    "Jobs and professions",
+    "Pets and animals",
+    "School and classroom",
+    "Celebrations and special days",
+    "Children's rights",
+    "Party activities and decorations",
+    "Shopping and goods",
+    "Types of shops",
+    "Clothes and accessories",
+    "Toys and games",
+    "Numbers (hundreds)",
+    "Money and prices",
+    "Countries and continents",
+    "Cardinal directions",
+    "Means of transport",
+    "Famous monuments",
+    "Customs and cultures",
+    "Greetings around the world"
+  ],
+  "writing_types": [
+    "Paragraph (descriptive)",
+    "Paragraph (narrative)",
+    "Email (informal)",
+    "Post",
+    "Message/Note",
+    "List (shopping, activities)",
+    "Poster (health, classroom rules)",
+    "Classroom charter",
+    "Thank you note"
+  ],
+  "reading_strategies": [
+    "Skimming for gist (main idea)",
+    "Scanning for specific information",
+    "Silent reading for comprehension",
+    "Reading for details",
+    "Predicting from pictures",
+    "Activating prior knowledge",
+    "Answering comprehension questions",
+    "True/False statements",
+    "Matching activities",
+    "Completing charts/tables",
+    "Finding synonyms",
+    "Reference questions (who/what does 'he/it/they' refer to?)",
+    "Personal response"
+  ],
+  "listening_strategies": [
+    "Looking at pictures for prediction",
+    "Predicting content",
+    "Activating vocabulary",
+    "Listening for gist (first listening)",
+    "Listening for specific information (second listening)",
+    "Note-taking (simple forms)",
+    "Answering comprehension questions",
+    "Completing tasks based on listening"
+  ],
+  "speaking_activities": [
+    "Role plays (shopping, doctor visits, party invitations)",
+    "Simulations (real-life scenarios)",
+    "Pair work (ask and answer, information exchange)",
+    "Group discussions (sharing opinions, making decisions)",
+    "Presentations (show and tell, projects)",
+    "Games (board games, memory games, guessing games)",
+    "Making suggestions",
+    "Giving advice",
+    "Describing people, places, things",
+    "Narrating events",
+    "Expressing preferences and opinions"
+  ],
+  "pronunciation_focus": [
+    "/s/ vs. /z/ sounds",
+    "/t/ vs. /d/ vs. /id/ (past tense endings)",
+    "/ʃ/ vs. /ʧ/ (ship vs. cheap)",
+    "/ð/ (the, weather, mother)",
+    "/Ʒ/ vs. /ʤ/ (garage vs. jump)",
+    "Silent 'h' (hour, school vs. house, happy)",
+    "Silent 'k' (knife, know, knee)",
+    "/w/ sound (winter, water, week)",
+    "/i/ vs. /i:/ (fit vs. feet)",
+    "/ai/ vs. /i/ (rice vs. fit)",
+    "/ei/ sound (day, say, play)",
+    "/ai/ sound (why, fly, my)",
+    "Minimal pairs",
+    "Tongue twisters",
+    "Word classification"
+  ],
+  "pedagogical_approaches": [
+    "Constructivism - Students construct their own learning",
+    "Socio-constructivism - Learning through social interaction",
+    "Cognitivism - Focus on mental processes",
+    "Action-oriented approach - Learning by doing",
+    "Discovery Learning - Students discover concepts themselves",
+    "Total Physical Response (TPR) - Physical movement in learning",
+    "Humanistic approaches - Student-centered, emotional engagement"
+  ],
+  "life_skills": [
+    "Effective speaking",
+    "Listening attentively and objectively",
+    "Expressing ideas",
+    "Responding appropriately",
+    "Describing feelings",
+    "Critical thinking",
+    "Creating ideas",
+    "Observing and discovering",
+    "Attending to detail",
+    "Decision-making",
+    "Problem-solving",
+    "Acceptance",
+    "Respect for differences",
+    "Empathy",
+    "Perspective-taking",
+    "Making connections",
+    "Collaboration",
+    "Turn taking",
+    "Active listening",
+    "Self-confidence",
+    "Adaptability",
+    "Coping with emotions",
+    "Stress management"
+  ],
+  "lesson_structure": [
+    "Let's Get Started (Warm-up)",
+    "Let's Listen / Let's Read (Input)",
+    "Let's Complete the Rule (Grammar Discovery)",
+    "Let's Practise (Controlled Practice)",
+    "Let's Speak (Production)",
+    "Let's Write (Written Production)",
+    "Let's Pronounce (Pronunciation)",
+    "Let's Play (Games/Consolidation)",
+    "Project Idea (Extended Tasks)"
+  ],
+  "assessment_types": [
+    "Formative assessment (ongoing observation, peer feedback, self-assessment)",
+    "Progress checks (end of unit tests)",
+    "Peer evaluation (using checklists and rubrics)",
+    "Self-evaluation (reflection on learning)",
+    "Reading comprehension tests",
+    "Grammar and vocabulary exercises",
+    "Writing assessments (sentences, paragraphs, emails)"
+  ],
+  "cultural_context": {
+    "country": "Tunisia",
+    "ministry": "Ministry of Education",
+    "publisher": "National Pedagogic Centre",
+    "language_background": "Students also learn French; Arabic is first language",
+    "childrens_day": "January 11",
+    "local_monuments": ["El Jem Amphitheatre"],
+    "local_places": ["Djerba", "Sousse", "Tunis", "Mahdia"],
+    "educational_level": "Basic Education",
+    "grade_context": "Students have had English since Grade 3"
+  },
+  "project_ideas": [
+    "Design posters about free time activities",
+    "Create a health poster / food pyramid",
+    "Make a seasons calendar with activities",
+    "Create a 'helping others' action plan poster",
+    "Plan and present a celebration",
+    "Set up a class shop simulation",
+    "Create country presentation with flag, customs, monuments"
+  ]
+}
