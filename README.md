@@ -27,11 +27,20 @@
 ### Objectives
 - **Primary Goal:** Create two distinct AI support chat systems accessible via `ai.smarthub.com.tn`
 - **Secondary Goal:** Integrate chats seamlessly into existing `smarthub.com.tn` website
-- **Success Metrics:** 
+- **Success Metrics:**
   - Chats respond within 2-3 seconds
   - 90%+ accurate information about SmartHub services
   - Professional appearance matching SmartHub brand
   - Zero downtime deployment
+  - Proper Arabic language support with correct BiDi text rendering
+
+### Language Support
+Both chat systems support **multilingual communication**:
+- **Standard Arabic (الفصحى)** - Primary language for Tunisian users
+- **French** - Common in Tunisian education context
+- **English** - International support
+
+**Arabic BiDi Text Support:** Special formatting ensures phone numbers and numeric sequences display correctly in Arabic RTL (Right-to-Left) context. See [ARABIC_BIDI_FIX.md](ARABIC_BIDI_FIX.md) for technical details.
 
 ### Deliverables
 1. **Teacher Support Chat** - Specialized for educator inquiries
@@ -861,7 +870,17 @@ ai.smarthub.com.tn/
 - ✅ Positive impact on bookings/consultations
 - ✅ System running with minimal maintenance (<2 hours/month)
 
-### Appendix G: Future Enhancement Ideas (Phase 6+)
+### Appendix G: Known Issues and Solutions
+
+**Issue 1: Arabic BiDi Text - Number Display Reversal (FIXED)**
+- **Status:** ✅ Fixed (November 6, 2025)
+- **Problem:** Phone numbers and numeric sequences displayed in reversed order in Arabic RTL text
+- **Solution:** Implemented Unicode LRM (Left-to-Right Mark) formatting in system prompts
+- **Documentation:** See [ARABIC_BIDI_FIX.md](ARABIC_BIDI_FIX.md) for complete technical details
+- **Affected Systems:** Parent Chat, Teacher Chat
+- **Files Modified:** parent-chat/config.php, teacher-chat/config.php
+
+### Appendix H: Future Enhancement Ideas (Phase 6+)
 
 *Not in current scope, but documented for future consideration:*
 
@@ -876,10 +895,11 @@ ai.smarthub.com.tn/
 - Useful for parents wanting to save recommendations
 - **Effort:** Low | **Value:** Medium
 
-**Enhancement 3: Multilingual Support**
-- Enhanced Arabic language support
-- Automatic language detection
-- **Effort:** Medium | **Value:** High (for Tunisian market)
+**Enhancement 3: Enhanced Multilingual Features**
+- ✅ Arabic language support with BiDi formatting (implemented)
+- Automatic language detection (future)
+- Language preference memory (future)
+- **Effort:** Low (remaining) | **Value:** High (for Tunisian market)
 
 **Enhancement 4: Booking Integration**
 - Direct chat-to-booking flow
