@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SmartHub English Learning Assistant - AI-powered help for students in Grades 6-9">
+    <title>SmartHub English Learning Assistant</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <h1>SmartHub English Assistant</h1>
+                    <p class="subtitle">Your friendly English learning helper</p>
+                </div>
+                <div class="grade-indicator" id="gradeIndicator">
+                    <span id="gradeDisplay">Detecting grade...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Chat Messages Area -->
+        <main class="chat-messages" id="chatMessages">
+            <!-- Welcome message will be inserted here by JavaScript -->
+        </main>
+
+        <!-- Typing Indicator -->
+        <div class="typing-indicator" id="typingIndicator" style="display: none;">
+            <div class="typing-dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <span class="typing-text">Assistant is typing...</span>
+        </div>
+
+        <!-- Input Area -->
+        <footer class="chat-input-container">
+            <div class="input-wrapper">
+                <textarea
+                    id="userInput"
+                    class="message-input"
+                    placeholder="Type your English question here..."
+                    rows="1"
+                    maxlength="1000"
+                ></textarea>
+                <button id="sendButton" class="send-button" title="Send message">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+            <div class="input-info">
+                <span id="charCount">0 / 1000</span>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Error Modal -->
+    <div class="error-modal" id="errorModal" style="display: none;">
+        <div class="error-content">
+            <div class="error-icon">⚠️</div>
+            <h3>Oops! Something went wrong</h3>
+            <p id="errorMessage">Please try again in a moment.</p>
+            <button class="error-close-btn" id="closeErrorBtn">Close</button>
+        </div>
+    </div>
+
+    <!-- Script -->
+    <script src="assets/js/chat.js"></script>
+</body>
+</html>
