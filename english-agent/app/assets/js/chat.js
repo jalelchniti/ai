@@ -178,29 +178,36 @@ class ChatInterface {
      * Send message to backend API
      */
     async sendToBackend(message) {
-        const response = await fetch('chat.php', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                message: message,
-                grade: this.studentGrade,
-                conversationHistory: this.conversationHistory
-            })
-        });
+        try {
+            const response = await fetch('chat.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    message: message,
+                    grade: this.studentGrade,
+                    conversationHistory: this.conversationHistory
+                })
+            });
 
-        if (!response.ok) {
-            throw new Error('Network response was not ok. Please check your connection.');
+            // Always try to parse the JSON response first
+            const data = await response.json();
+
+            // Check for errors in the response
+            if (!response.ok || data.error) {
+                throw new Error(data.error || 'Server returned an error. Please try again.');
+            }
+
+            return data;
+        } catch (error) {
+            // If it's already an Error object with a message, throw it as-is
+            if (error instanceof Error) {
+                throw error;
+            }
+            // Otherwise, throw a generic network error
+            throw new Error('Unable to connect to the server. Please check your connection.');
         }
-
-        const data = await response.json();
-
-        if (data.error) {
-            throw new Error(data.error);
-        }
-
-        return data;
     }
 
     /**
