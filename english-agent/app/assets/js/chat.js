@@ -29,14 +29,11 @@ class ChatInterface {
         // Event listeners
         this.sendButton.addEventListener('click', () => this.sendMessage());
         this.userInput.addEventListener('keydown', (e) => this.handleKeyPress(e));
-        this.userInput.addEventListener('input', () => this.updateCharCount());
+        this.userInput.addEventListener('input', () => {
+            this.updateCharCount();
+            this.autoResizeTextarea();
+        });
         this.closeErrorBtn.addEventListener('click', () => this.closeErrorModal());
-
-        // Auto-resize textarea
-        this.userInput.addEventListener('input', () => this.autoResizeTextarea());
-
-        // Display welcome message
-        this.displayWelcomeMessage();
 
         // Focus input
         this.userInput.focus();

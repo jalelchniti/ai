@@ -22,23 +22,6 @@
 
         <!-- Chat Messages Area -->
         <main class="chat-messages" id="chatMessages" role="log" aria-live="polite" aria-label="Chat messages">
-            <!-- Welcome message in Arabic -->
-            <div class="message ai-message">
-                <div class="message-content" dir="rtl">
-                    <p>مرحباً بك في دعم المعلمين من SmartHub! 👋</p>
-                    <p><strong>SmartHub</strong> هو مركز تأجير قاعات دراسية متطورة في وسط مدينة تونس، يوفر:</p>
-                    <ul>
-                        <li>قاعات دراسية مجهزة بأحدث التقنيات</li>
-                        <li>أسعار تنافسية للمعلمين المستقلين</li>
-                        <li>فرص شراكة للمعلمين</li>
-                        <li>دعم شامل للعملية التعليمية</li>
-                    </ul>
-                    <p><strong>اختر لغة المحادثة:</strong></p>
-                    <p>• اكتب <strong>1</strong> للاستمرار بالعربية<br>
-                    • اكتب <strong>0</strong> لاختيار لغة أخرى</p>
-                </div>
-                <span class="message-time" id="welcomeTime"></span>
-            </div>
         </main>
 
         <!-- Typing Indicator -->
@@ -64,7 +47,7 @@
                 <textarea
                     id="userInput"
                     class="chat-input"
-                    placeholder="Type your message here..."
+                    placeholder=""
                     rows="1"
                     aria-label="Message input"
                     maxlength="2000"
@@ -89,12 +72,6 @@
     <!-- JavaScript -->
     <script src="../assets/js/chat.js"></script>
     <script>
-        // Set welcome message timestamp
-        document.getElementById('welcomeTime').textContent = new Date().toLocaleTimeString('en-US', {
-            hour: '2-digit',
-            minute: '2-digit'
-        });
-
         // Initialize chat with teacher configuration (pass config directly)
         initializeChat({
             apiEndpoint: 'chat.php',
