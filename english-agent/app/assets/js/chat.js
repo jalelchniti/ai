@@ -35,6 +35,9 @@ class ChatInterface {
         });
         this.closeErrorBtn.addEventListener('click', () => this.closeErrorModal());
 
+        // Display welcome message
+        this.displayWelcomeMessage();
+
         // Focus input
         this.userInput.focus();
     }
