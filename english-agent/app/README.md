@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This is a complete AI-powered chat application designed to help Tunisian students (Grades 6-9) learn English. The assistant provides personalized help with grammar, vocabulary, reading comprehension, and writing guidance.
+This is a complete AI-powered chat application designed to help Tunisian students (all grades) learn English. The assistant provides personalized help with grammar, vocabulary, reading comprehension, and writing guidance.
 
 **Status:** Phase 3 Complete - Ready for Deployment Testing
 
@@ -97,7 +97,7 @@ chmod 755 logs
 - Adjusts language complexity automatically
 
 ### 2. **Personalized Learning**
-- Grade-specific curriculum knowledge (Grades 6-9)
+- Grade-specific curriculum knowledge (Grades 1-12)
 - Appropriate vocabulary and sentence complexity
 - Aligned with Tunisian English curriculum
 

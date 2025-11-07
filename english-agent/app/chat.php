@@ -90,43 +90,40 @@ try {
 
 /**
  * Detect student grade from message
+ * Simplified to accept direct numeric input (1-12)
  */
 function detectGrade($message, $conversationHistory) {
-    // Simple pattern matching for grade detection
+    $trimmed = trim($message);
+
+    // Check if message is just a number (e.g., "7" or "12")
+    if (is_numeric($trimmed)) {
+        $grade = (int)$trimmed;
+        if (isValidGrade($grade)) {
+            return $grade;
+        }
+    }
+
+    // Check for common grade patterns (more lenient)
     $patterns = [
-        '/\b(grade|year|class)\s*(\d)\b/i',
-        '/\b(\d)\s*(grade|year|class)\b/i',
-        '/\bI\'?m?\s+in\s+(\d)\b/i',
-        '/\bI\'?m?\s+(\d)\s*(grade|year)\b/i',
-        '/\b(\d)th\s+(grade|year)\b/i',
-        '/\bGrade\s*:?\s*(\d)\b/i',
-        '/^(\d)$/i'  // Just a single digit
+        '/\b(\d{1,2})\s*(grade|year|class)/i',  // "7 grade", "12 year"
+        '/\b(grade|year|class)\s*(\d{1,2})\b/i',  // "grade 7", "year 12"
+        '/\bI\'?m?\s+in\s+(\d{1,2})\b/i',  // "I'm in 7"
+        '/\bI\'?m?\s+(\d{1,2})\s*(grade|year)\b/i',  // "I'm 7 grade"
+        '/\b(\d{1,2})th\s+(grade|year)\b/i',  // "7th grade"
+        '/\bGrade\s*:?\s*(\d{1,2})\b/i'  // "Grade: 7"
     ];
 
     foreach ($patterns as $pattern) {
         if (preg_match($pattern, $message, $matches)) {
-            // Get the digit (might be in different capture groups)
-            $grade = null;
+            // Find the numeric capture group
             for ($i = 1; $i < count($matches); $i++) {
                 if (is_numeric($matches[$i])) {
                     $grade = (int)$matches[$i];
-                    break;
+                    if (isValidGrade($grade)) {
+                        return $grade;
+                    }
                 }
             }
-
-            if ($grade && isValidGrade($grade)) {
-                return $grade;
-            }
-        }
-    }
-
-    // Check if this is an early message asking about grade
-    $messageCount = count($conversationHistory);
-    if ($messageCount <= 3) {
-        // Look for standalone numbers
-        $trimmed = trim($message);
-        if (is_numeric($trimmed) && isValidGrade((int)$trimmed)) {
-            return (int)$trimmed;
         }
     }
 

@@ -51,7 +51,7 @@ define('LOG_FILE', BASE_DIR . '/logs/chat.log');
 define('MAX_CONVERSATION_HISTORY', 20);  // Max messages to keep in context
 
 // Grade Detection Settings
-define('VALID_GRADES', [6, 7, 8, 9]);
+define('VALID_GRADES', [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]);
 
 // Helper function to log messages
 function logMessage($message, $level = 'INFO') {
