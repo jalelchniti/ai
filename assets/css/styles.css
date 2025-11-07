@@ -97,7 +97,8 @@ body {
     margin-bottom: var(--spacing-xs);
 }
 
-.subtitle {
+.subtitle,
+.header-subtitle {
     font-size: 0.875rem;
     opacity: 0.9;
     font-weight: 400;
@@ -173,6 +174,28 @@ body {
 .message-content {
     font-size: 1rem;
     line-height: 1.5;
+    padding: var(--spacing-md) var(--spacing-lg);
+    border-radius: var(--radius-lg);
+    word-wrap: break-word;
+    max-width: 75%;
+}
+
+/* AI message content specific styling */
+.message.ai-message .message-content {
+    background: var(--ai-message-bg);
+    color: var(--ai-message-text);
+    border-bottom-left-radius: var(--radius-sm);
+    border-left: 3px solid var(--primary-color);
+    box-shadow: var(--shadow-sm);
+}
+
+/* User message content specific styling */
+.message.user-message .message-content {
+    background: var(--user-message-bg);
+    color: var(--user-message-text);
+    border-bottom-right-radius: var(--radius-sm);
+    box-shadow: var(--shadow-sm);
+    margin-left: auto;
 }
 
 /* Message formatting */
@@ -188,6 +211,7 @@ body {
 .message-content ol {
     margin-left: var(--spacing-lg);
     margin-bottom: var(--spacing-sm);
+    padding-left: 0;
 }
 
 .message-content li {
@@ -268,6 +292,71 @@ body {
 }
 
 /* ===========================
+   Error Message (inline banner style)
+   =========================== */
+.error-message {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    background: #fee2e2;
+    border: 1px solid #fca5a5;
+    border-radius: var(--radius-md);
+    padding: var(--spacing-md) var(--spacing-lg);
+    margin: var(--spacing-md) var(--spacing-xl);
+    color: #991b1b;
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.error-icon {
+    font-size: 1.5rem;
+    flex-shrink: 0;
+}
+
+.error-text {
+    flex: 1;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.error-close {
+    background: none;
+    border: none;
+    color: #991b1b;
+    font-size: 1.75rem;
+    cursor: pointer;
+    padding: 0 var(--spacing-sm);
+    line-height: 1;
+    transition: opacity var(--transition-fast);
+    flex-shrink: 0;
+}
+
+.error-close:hover {
+    opacity: 0.7;
+}
+
+/* ===========================
+   Message Time Stamp
+   =========================== */
+.message-time {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--text-light);
+    margin-top: var(--spacing-xs);
+    font-style: italic;
+}
+
+/* ===========================
    Input Area
    =========================== */
 .chat-input-container {
@@ -344,6 +433,17 @@ body {
     font-size: 0.875rem;
     color: var(--text-secondary);
     font-weight: 500;
+}
+
+.input-hint {
+    margin-top: var(--spacing-sm);
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--text-light);
+}
+
+.input-hint small {
+    font-size: inherit;
 }
 
 /* ===========================
@@ -471,8 +571,32 @@ body {
         max-width: 85%;
     }
 
+    /* Mobile adjustments for message content */
+    .message-content {
+        max-width: 85%;
+        padding: var(--spacing-sm) var(--spacing-md);
+        font-size: 0.95rem;
+    }
+
+    /* Reduce list margins on tablet */
+    .message-content ul,
+    .message-content ol {
+        margin-left: var(--spacing-md);
+    }
+
     .chat-input-container {
         padding: var(--spacing-md);
+    }
+
+    /* Adjust typing indicator for tablet */
+    .typing-indicator {
+        padding: var(--spacing-sm) var(--spacing-md);
+    }
+
+    /* Adjust error message for tablet */
+    .error-message {
+        margin: var(--spacing-md);
+        padding: var(--spacing-sm) var(--spacing-md);
     }
 }
 
@@ -481,7 +605,8 @@ body {
         font-size: 1.1rem;
     }
 
-    .subtitle {
+    .subtitle,
+    .header-subtitle {
         font-size: 0.75rem;
     }
 
@@ -490,15 +615,96 @@ body {
         font-size: 0.9rem;
     }
 
-    .message-input {
+    /* Mobile-specific message content adjustments */
+    .message-content {
+        max-width: 92%;
+        padding: var(--spacing-sm);
+        font-size: 0.875rem;
+        line-height: 1.4;
+    }
+
+    /* Smaller padding for AI messages on mobile */
+    .message.ai-message .message-content {
+        border-left-width: 2px;
+    }
+
+    /* Reduce list spacing on mobile */
+    .message-content ul,
+    .message-content ol {
+        margin-left: var(--spacing-sm);
+        margin-bottom: var(--spacing-xs);
+    }
+
+    .message-content li {
+        margin-bottom: 2px;
+    }
+
+    /* Reduce paragraph spacing on mobile */
+    .message-content p {
+        margin-bottom: var(--spacing-xs);
+    }
+
+    /* Adjust chat input for mobile */
+    .message-input,
+    .chat-input {
         font-size: 1rem;
         min-height: 60px;
         max-height: 180px;
+        padding: var(--spacing-sm);
     }
 
     .send-button {
-        min-width: 52px;
-        height: 52px;
+        min-width: 48px;
+        height: 48px;
+    }
+
+    .send-button svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    /* Make typing indicator more compact on mobile */
+    .typing-indicator {
+        padding: var(--spacing-xs) var(--spacing-md);
+    }
+
+    .typing-text {
+        font-size: 0.75rem;
+    }
+
+    .typing-dots span {
+        width: 6px;
+        height: 6px;
+    }
+
+    /* Make input hint smaller on mobile */
+    .input-hint {
+        font-size: 0.7rem;
+    }
+
+    .input-hint small {
+        font-size: 0.7rem;
+    }
+
+    /* Adjust error message for mobile */
+    .error-message {
+        margin: var(--spacing-sm);
+        padding: var(--spacing-xs) var(--spacing-sm);
+        font-size: 0.85rem;
+    }
+
+    .error-icon {
+        font-size: 1.2rem;
+    }
+
+    .error-close {
+        font-size: 1.5rem;
+        padding: 0 var(--spacing-xs);
+    }
+
+    /* Make message time stamps smaller */
+    .message-time {
+        font-size: 0.7rem;
     }
 }
 
