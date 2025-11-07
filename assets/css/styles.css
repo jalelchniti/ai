@@ -67,7 +67,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
     background: var(--surface);
     box-shadow: var(--shadow-lg);
@@ -285,16 +285,16 @@ body {
 
 .message-input {
     flex: 1;
-    min-height: 48px;
-    max-height: 150px;
-    padding: var(--spacing-md);
+    min-height: 70px;
+    max-height: 220px;
+    padding: var(--spacing-lg);
     border: 2px solid var(--border-color);
     border-radius: var(--radius-md);
-    font-size: 1rem;
+    font-size: 1.125rem;
     font-family: inherit;
     resize: none;
     transition: border-color var(--transition-fast);
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 .message-input:focus {
@@ -308,8 +308,8 @@ body {
 }
 
 .send-button {
-    min-width: 48px;
-    height: 48px;
+    min-width: 60px;
+    height: 60px;
     background: var(--primary-color);
     color: white;
     border: none;
@@ -341,8 +341,9 @@ body {
 .input-info {
     margin-top: var(--spacing-sm);
     text-align: right;
-    font-size: 0.75rem;
+    font-size: 0.875rem;
     color: var(--text-secondary);
+    font-weight: 500;
 }
 
 /* ===========================
@@ -490,7 +491,14 @@ body {
     }
 
     .message-input {
-        font-size: 0.9rem;
+        font-size: 1rem;
+        min-height: 60px;
+        max-height: 180px;
+    }
+
+    .send-button {
+        min-width: 52px;
+        height: 52px;
     }
 }
 
