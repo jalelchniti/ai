@@ -1,0 +1,250 @@
+{
+  "grade_6": {
+    "course_name": "Learn and Grow - Year 6 Basic Education",
+    "language_level": "Beginner to Elementary (A1-A2)",
+    "sentence_length": "8-10 words average",
+    "vocabulary_size": "500-700 words",
+    "key_grammar_topics": [
+      "Present Simple (affirmative, negative, questions)",
+      "Present Continuous (actions happening now)",
+      "Past Simple (regular and irregular verbs)",
+      "Future with 'going to' and 'will'",
+      "Imperatives (commands and instructions)",
+      "Modal verbs: can, must, should",
+      "Adverbs of frequency (always, sometimes, never)",
+      "Comparatives and superlatives",
+      "Prepositions of time (in, on, at)",
+      "Prepositions of place (in, on, at, under, next to)",
+      "Possessive adjectives (my, your, his, her)",
+      "Countable and uncountable nouns (some, any)",
+      "Conjunctions (and, but, because)"
+    ],
+    "main_modules": [
+      "Entertaining Myself - Leisure activities, making suggestions",
+      "Keeping Fit - Health, food, giving advice",
+      "Having Fun in the Seasons - Weather, seasons, comparatives",
+      "Caring - Helping others, jobs, superlatives",
+      "Celebrations - Past events, celebrations",
+      "Going Shopping - Shops, clothes, shopping dialogues",
+      "Around the World - Countries, transport, customs"
+    ],
+    "vocabulary_themes": [
+      "Leisure activities", "Food and drinks", "Health and body parts",
+      "Weather and seasons", "Jobs and occupations", "School subjects",
+      "Animals and pets", "Clothes and shopping", "Countries and nationalities",
+      "Transport", "Sports", "Celebrations"
+    ],
+    "writing_types": [
+      "Simple paragraph about self or family",
+      "Informal email to a friend",
+      "Social media post",
+      "Diary entry",
+      "Simple invitation",
+      "Description of a person/place/thing",
+      "Simple story or narrative"
+    ],
+    "common_errors": [
+      "Forgetting 's' in third person singular (he go → he goes)",
+      "Confusing 'to be' with other verbs (I am like → I like)",
+      "Missing auxiliary in questions (You like? → Do you like?)",
+      "Double negatives (I don't like nothing → I don't like anything)",
+      "Incorrect word order in questions",
+      "Confusing 'his' and 'her'",
+      "Using infinitive instead of gerund (I like play → I like playing)"
+    ],
+    "encouragement_style": "Very enthusiastic, use simple praise like 'Great job!', 'Well done!', 'You're doing great!'"
+  },
+  "grade_7": {
+    "course_name": "Let's Learn English - 7th Year Basic Education",
+    "language_level": "Elementary to Pre-Intermediate (A2)",
+    "sentence_length": "10-12 words average",
+    "vocabulary_size": "800-1000 words",
+    "key_grammar_topics": [
+      "Review: Present Simple and Continuous",
+      "Review: Past Simple",
+      "Past Continuous (was/were + -ing)",
+      "Present Perfect (have/has + past participle)",
+      "Present Perfect vs Past Simple",
+      "Future forms: will, going to, present continuous for future",
+      "Modal verbs: can, could, may, might, must, should, have to",
+      "First Conditional (If + present, will + verb)",
+      "Relative pronouns: who, which, that, where",
+      "Question tags (isn't it?, don't you?)",
+      "Passive voice - introduction (is/are + past participle)",
+      "Comparatives and superlatives (review and extension)",
+      "Too/enough",
+      "Used to (past habits)"
+    ],
+    "main_modules": [
+      "Tell Me About Yourself - Family, hobbies, routines",
+      "My Immediate Environment - Friends, food, preferences",
+      "My Home and City - House, market, celebrations",
+      "Health and Safety - Safety rules, health, weather",
+      "School Life - Facilities, teachers, responsibilities"
+    ],
+    "vocabulary_themes": [
+      "Family and relationships", "Hobbies and free time",
+      "Daily routines", "Food and eating habits", "House and home",
+      "City and neighborhood", "Shopping and markets",
+      "Health and illness", "Safety and rules", "School life",
+      "Weather", "Jobs and professions"
+    ],
+    "writing_types": [
+      "Paragraph about daily routine",
+      "Descriptive paragraph (person, place)",
+      "Email to a friend (informal)",
+      "Story narrative (past tense)",
+      "Instructions (how to do something)",
+      "Comparison paragraph",
+      "Opinion paragraph",
+      "Dialogue writing"
+    ],
+    "common_errors": [
+      "Confusing past simple and present perfect (I have seen him yesterday → I saw him yesterday)",
+      "Incorrect present perfect formation (I have go → I have gone)",
+      "Using past simple in present perfect context",
+      "Forgetting 'to be' in passive voice (The book write → The book is written)",
+      "Confusing 'for' and 'since' with present perfect",
+      "Incorrect question formation with modals",
+      "Misusing relative pronouns (The man which → The man who)"
+    ],
+    "encouragement_style": "Positive and supportive, acknowledge progress: 'You're making great progress!', 'I can see you're thinking about this!', 'Good effort!'"
+  },
+  "grade_8": {
+    "course_name": "Link Up - 8th Year Basic Education",
+    "language_level": "Pre-Intermediate to Intermediate (A2-B1)",
+    "sentence_length": "12-15 words average",
+    "vocabulary_size": "1200+ words",
+    "key_grammar_topics": [
+      "Present Perfect Continuous (have/has been + -ing)",
+      "Past Perfect (had + past participle)",
+      "Past Perfect Continuous (had been + -ing)",
+      "Passive Voice (all tenses)",
+      "Reported Speech (statements, questions, commands)",
+      "Reporting verbs (say, tell, ask, advise)",
+      "Second Conditional (If + past, would + verb)",
+      "Third Conditional (If + past perfect, would have + past participle)",
+      "Relative Clauses (defining and non-defining)",
+      "Modal verbs for deduction (must, might, can't, could)",
+      "Causative verbs (make, let, have)",
+      "Wish + past simple/past perfect",
+      "So/such...that",
+      "All question types (direct, indirect, embedded)"
+    ],
+    "main_modules": [
+      "Tell Me About Yourself and Your Plans",
+      "School and Education",
+      "Holidays and Leisure",
+      "Travel and Tourism",
+      "Relationships"
+    ],
+    "vocabulary_themes": [
+      "Personal identity and aspirations", "Education and learning",
+      "Jobs and careers", "Technology and media", "Holidays and leisure",
+      "Travel and tourism", "Relationships and emotions",
+      "Environmental issues", "Health and fitness",
+      "Entertainment and culture"
+    ],
+    "writing_types": [
+      "Formal letter/email",
+      "Article for magazine/newspaper",
+      "Report (school, event)",
+      "Review (book, film, restaurant)",
+      "Story with dialogue",
+      "Argumentative paragraph",
+      "Descriptive essay",
+      "Biography",
+      "Instructions and procedures",
+      "Comparison and contrast essay",
+      "Problem-solution essay"
+    ],
+    "common_errors": [
+      "Confusing present perfect and present perfect continuous",
+      "Incorrect sequence of tenses in reported speech",
+      "Forgetting to change time expressions in reported speech",
+      "Passive voice word order errors",
+      "Confusing second and third conditionals",
+      "Incorrect use of relative pronouns in non-defining clauses",
+      "Missing commas in non-defining relative clauses",
+      "Confusing 'say' and 'tell' in reported speech"
+    ],
+    "encouragement_style": "Professional yet warm, acknowledge complexity: 'This is challenging, but you're handling it well!', 'Excellent thinking!', 'You're developing strong skills!'"
+  },
+  "grade_9": {
+    "course_name": "Proceed with English - 9th Year Basic Education",
+    "language_level": "Intermediate (B1)",
+    "sentence_length": "15+ words, varied complexity",
+    "vocabulary_size": "1500+ words",
+    "key_grammar_topics": [
+      "All verb tenses (review and mastery)",
+      "Advanced passive constructions",
+      "Reported speech (all forms, mixed tenses)",
+      "All conditional forms (zero, first, second, third, mixed)",
+      "Wish/If only (present, past, future regrets)",
+      "Modal verbs (all forms and meanings)",
+      "Modal perfects (must have, should have, could have)",
+      "Relative clauses (advanced, reduced)",
+      "Participle clauses (present and past)",
+      "Gerunds and infinitives (advanced patterns)",
+      "Compound nouns and adjectives",
+      "Inversion for emphasis",
+      "Cleft sentences (What/It is...that)",
+      "Advanced linking words and discourse markers",
+      "Subjunctive mood (I suggest that he go)"
+    ],
+    "main_modules": [
+      "Family Life - Family relationships, responsibilities, conflict resolution",
+      "Education - Learning styles, study skills, educational systems",
+      "Health and Environment - Healthy lifestyle, environmental issues",
+      "Services - Public services, consumer rights, complaints",
+      "Entertainment - Media, arts, sports, leisure",
+      "Civility - Citizenship, rights and duties, volunteering"
+    ],
+    "vocabulary_themes": [
+      "Family dynamics and relationships",
+      "Education and academic life",
+      "Health and wellness",
+      "Environmental issues and solutions",
+      "Public and social services",
+      "Consumer affairs",
+      "Media and communication",
+      "Arts and culture",
+      "Sports and entertainment",
+      "Citizenship and civic responsibility",
+      "Rights and duties",
+      "Social issues",
+      "Technology and innovation",
+      "Global issues"
+    ],
+    "writing_types": [
+      "Formal letter (complaint, application, inquiry)",
+      "Essay (argumentative, opinion, for/against)",
+      "Article (informative, opinion)",
+      "Report (formal, structured)",
+      "Review (critical analysis)",
+      "Story (complex narrative)",
+      "Biography/Profile",
+      "Speech/Presentation",
+      "Summary writing",
+      "Letter to the editor",
+      "Proposal",
+      "Discursive essay",
+      "Problem-solution essay",
+      "Cause-effect essay",
+      "Descriptive essay (advanced)"
+    ],
+    "common_errors": [
+      "Mixing conditional types (If I would have...)",
+      "Incorrect modal perfect formation",
+      "Passive voice with incorrect agent",
+      "Confusing gerunds and infinitives (I avoided to go → I avoided going)",
+      "Incorrect participle clause construction",
+      "Overuse of passive voice",
+      "Comma splices in complex sentences",
+      "Incorrect inversion structures",
+      "Misplaced modifiers",
+      "Subject-verb agreement in complex sentences"
+    ],
+    "encouragement_style": "Mature and respectful, recognize sophistication: 'Your analysis shows deep understanding!', 'Excellent critical thinking!', 'You're ready for advanced work!'"
+  }
+}

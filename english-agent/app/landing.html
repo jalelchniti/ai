@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SmartHub English Learning Assistant - Free AI-powered English tutoring for Tunisian students (all grades)">
+    <title>SmartHub English Learning Assistant</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #2563eb;
+            --primary-dark: #1d4ed8;
+            --secondary-color: #10b981;
+            --accent-color: #f59e0b;
+            --background: #f8fafc;
+            --surface: #ffffff;
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .landing-container {
+            max-width: 800px;
+            width: 100%;
+            background: white;
+            border-radius: 1.5rem;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .hero-section {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        .hero-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .hero-subtitle {
+            font-size: 1.25rem;
+            opacity: 0.9;
+            margin-bottom: 1rem;
+        }
+
+        .hero-badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.5rem 1.5rem;
+            border-radius: 2rem;
+            font-size: 0.875rem;
+            font-weight: 600;
+            backdrop-filter: blur(10px);
+        }
+
+        .content-section {
+            padding: 2rem;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .feature-card {
+            padding: 1.5rem;
+            background: var(--background);
+            border-radius: 1rem;
+            border-left: 4px solid var(--primary-color);
+        }
+
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .feature-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .feature-description {
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .grades-section {
+            background: #f0f9ff;
+            border-radius: 1rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .grades-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .grades-list {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .grade-badge {
+            background: var(--primary-color);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            font-size: 1.125rem;
+        }
+
+        .cta-section {
+            text-align: center;
+            padding: 2rem;
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+            color: white;
+        }
+
+        .cta-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: var(--secondary-color);
+            padding: 1rem 3rem;
+            border-radius: 0.75rem;
+            font-size: 1.25rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.2s;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .footer-note {
+            text-align: center;
+            padding: 1.5rem;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            background: var(--background);
+        }
+
+        .footer-note a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .footer-note a:hover {
+            text-decoration: underline;
+        }
+
+        /* Enhanced CTA Styles */
+        .cta-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            padding: 2rem;
+            background: var(--background);
+        }
+
+        .cta-card {
+            background: white;
+            border-radius: 1rem;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .cta-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+            border-color: var(--primary-color);
+        }
+
+        .cta-card-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .cta-card-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 0.75rem;
+        }
+
+        .cta-card-description {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.5;
+        }
+
+        .cta-card-button {
+            display: inline-block;
+            padding: 0.875rem 2rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.2s;
+            font-size: 1rem;
+        }
+
+        .cta-primary {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .cta-primary:hover {
+            background: var(--primary-dark);
+        }
+
+        .cta-secondary {
+            background: var(--secondary-color);
+            color: white;
+        }
+
+        .cta-secondary:hover {
+            background: #059669;
+        }
+
+        .cta-accent {
+            background: var(--accent-color);
+            color: white;
+        }
+
+        .cta-accent:hover {
+            background: #d97706;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .section-subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1rem;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="landing-container">
+        <!-- Hero Section -->
+        <div class="hero-section">
+            <div class="hero-icon">🎓</div>
+            <h1 class="hero-title">English Learning Assistant</h1>
+            <p class="hero-subtitle">Your AI-powered English tutor, available 24/7</p>
+            <span class="hero-badge">Free for SmartHub Students</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="content-section">
+            <!-- Features Grid -->
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📚</div>
+                    <h3 class="feature-title">Grammar & Vocabulary</h3>
+                    <p class="feature-description">
+                        Get clear explanations of grammar rules with examples that match your grade level and curriculum.
+                    </p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">📖</div>
+                    <h3 class="feature-title">Reading Help</h3>
+                    <p class="feature-description">
+                        Understand difficult texts with step-by-step guidance and vocabulary support.
+                    </p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">✍️</div>
+                    <h3 class="feature-title">Writing Guidance</h3>
+                    <p class="feature-description">
+                        Learn to write better with guided practice. You write, we guide - building your skills step by step.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Grades Section -->
+            <div class="grades-section">
+                <h2 class="grades-title">Available for Grades</h2>
+                <div class="grades-list">
+                    <div class="grade-badge">Grade 6</div>
+                    <div class="grade-badge">Grade 7</div>
+                    <div class="grade-badge">Grade 8</div>
+                    <div class="grade-badge">Grade 9</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CTA Section -->
+        <div class="cta-section">
+            <h2 class="cta-title">Ready to improve your English?</h2>
+            <a href="index.html" class="cta-button">Start Learning Now →</a>
+        </div>
+
+        <!-- Additional CTAs Section -->
+        <div class="cta-grid">
+            <div class="cta-card">
+                <div class="cta-card-icon">🌐</div>
+                <h3 class="cta-card-title">Visit Our Website</h3>
+                <p class="cta-card-description">Discover all SmartHub services, programs, and learning opportunities</p>
+                <a href="https://www.smarthub.com.tn" target="_blank" class="cta-card-button cta-primary">
+                    Visit SmartHub.com.tn
+                </a>
+            </div>
+
+            <div class="cta-card">
+                <div class="cta-card-icon">📧</div>
+                <h3 class="cta-card-title">Stay Updated</h3>
+                <p class="cta-card-description">Subscribe to our mailing list for news, tips, and exclusive offers</p>
+                <a href="https://www.smarthub.com.tn/register/student" target="_blank" class="cta-card-button cta-secondary">
+                    Subscribe Now
+                </a>
+            </div>
+
+            <div class="cta-card">
+                <div class="cta-card-icon">⭐</div>
+                <h3 class="cta-card-title">Review Us</h3>
+                <p class="cta-card-description">Share your experience and help other students find SmartHub</p>
+                <a href="https://maps.app.goo.gl/fUbgjkKakakXiYss6" target="_blank" class="cta-card-button cta-accent">
+                    Leave a Review
+                </a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer-note">
+            <p>
+                Powered by SmartHub Educational Center<br>
+                <a href="https://smarthub.com.tn" target="_blank">smarthub.com.tn</a> | Tunis City Center
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1746 @@
+{
+  "grade": 8,
+  "course_name": "Let's Discover More English - 8th Year Basic Education",
+  "source": {
+    "textbook": "Let's Discover More English - 8th Year Basic Education Teacher's Book",
+    "publisher": "Republic of Tunisia, Ministry of Education, National Pedagogic Centre",
+    "document": "8_prim-en.pdf",
+    "pages": 54
+  },
+  "overview": {
+    "total_modules": 5,
+    "lessons_per_module": 5,
+    "total_lessons": 25,
+    "approach": "Story-driven with communicative language teaching methodology",
+    "components": [
+      "Student's Book",
+      "Activity Book",
+      "Teacher's Book",
+      "Audio CD/Cassette"
+    ],
+    "pedagogical_approach": [
+      "Learning as discovery: Students discover more about English and themselves",
+      "Learner-centered: Students at the core of the teaching-learning process",
+      "Skills integration: Reading, writing, listening, and speaking practiced together",
+      "Project-based learning: Incorporated as major component",
+      "Process-oriented: Focus on both product and learning processes",
+      "Self-evaluation: Built-in assessment at end of each module"
+    ],
+    "lesson_structure": [
+      "Let's Get Ready: Activate prior knowledge and set objectives",
+      "Let's Discover: Engage in discovering new content",
+      "Let's Communicate: Reinvest learning to produce oral/written texts"
+    ]
+  },
+  "modules": [
+    {
+      "module_number": 1,
+      "module_name": "Tell Me About Yourself and Your Plans",
+      "theme": "Personal introduction, family, planning trips",
+      "story_context": "Tunisian teenager Imene invited to London by English family (the Browns)",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Meet the Browns",
+          "skills": ["Reading", "Writing", "Speaking"],
+          "functions": [
+            "Introducing people",
+            "Providing personal information",
+            "Describing family relationships"
+          ],
+          "grammar_points": [
+            "Review: Present simple tense",
+            "Review: Yes/no questions and wh-questions",
+            "Review: Demonstratives"
+          ],
+          "vocabulary": [
+            "Family members and relationships",
+            "Personal information terms",
+            "Professions"
+          ],
+          "key_structures": [
+            "Present simple for general information",
+            "Question formation with wh-words",
+            "Demonstratives (this, that, these, those)"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Complete personal information cards",
+            "Write questions using wh-words",
+            "Introduce people using photos",
+            "Mime action verbs"
+          ],
+          "assessment": [
+            "Ability to read and understand explicitly stated information",
+            "Ability to write a few lines to introduce people in a photo"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "A letter from an English friend",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Reading informal letters",
+            "Identifying sender and receiver",
+            "Describing locations"
+          ],
+          "grammar_points": [
+            "NEW: Future with 'will' (will + base form)",
+            "Review: Simple present",
+            "Review: Present progressive",
+            "Review: Simple past"
+          ],
+          "vocabulary": [
+            "Letter features (greeting, opening, body, closing, signature)",
+            "Location descriptions (near, next to, opposite)",
+            "Time expressions (tomorrow, next week)"
+          ],
+          "key_structures": [
+            "will + base form for future",
+            "Informal letter layout",
+            "Locational prepositions"
+          ],
+          "pronunciation": "Stress patterns in multi-syllable words",
+          "key_activities": [
+            "Identify features of informal letter",
+            "Complete gapped text using context",
+            "Draw locations from descriptions",
+            "Use diary notes to write future sentences"
+          ],
+          "writing_focus": [
+            "Layout of informal letters",
+            "Using appropriate greetings and closings"
+          ],
+          "assessment": [
+            "Ability to read a letter for gist",
+            "Ability to recognize sender and receiver",
+            "Ability to identify features of an informal letter"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Can she go to London?",
+          "skills": ["Listening", "Reading", "Speaking", "Writing"],
+          "functions": [
+            "Following a conversation",
+            "Identifying speakers and topics",
+            "Expressing opinions with justifications"
+          ],
+          "grammar_points": [
+            "NEW: Expressing future ability (will be able to + base form)",
+            "Sequential adverbs (first, then, next, after that, finally)",
+            "Ordinal numbers (1st through 10th)"
+          ],
+          "vocabulary": [
+            "Arguments and justifications",
+            "Sequential markers",
+            "Opinion expressions"
+          ],
+          "key_structures": [
+            "will be able to + base form",
+            "Sequential adverbs for organizing text",
+            "Ordinal numbers"
+          ],
+          "pronunciation": "Ordinal numbers pronunciation",
+          "key_activities": [
+            "Listen to family conversation about permission",
+            "Identify sequential adverbs",
+            "Practice ordinal numbers",
+            "Write argumentative text with pros and cons"
+          ],
+          "writing_focus": [
+            "Short argumentative text structure",
+            "Using sequential adverbs",
+            "Presenting arguments with justifications"
+          ],
+          "assessment": [
+            "Ability to identify speakers",
+            "Ability to identify topic of conversation",
+            "Ability to recognize discourse markers",
+            "Ability to write a short argumentative text"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Preparing for the trip",
+          "skills": ["Listening", "Speaking", "Writing"],
+          "functions": [
+            "Telephone conversations",
+            "Expressing surprise",
+            "Making arrangements",
+            "Filling in gapped texts"
+          ],
+          "grammar_points": [
+            "Review: Present progressive for future arrangements",
+            "Review: Time expressions",
+            "Expressions of surprise (Really? You're kidding! Wow!)"
+          ],
+          "vocabulary": [
+            "Mail-related terms (parcel, postcard, stamp)",
+            "Time expressions",
+            "Telephone language"
+          ],
+          "key_structures": [
+            "Present progressive for planned future events",
+            "Surprise expressions",
+            "Telephone conversation patterns"
+          ],
+          "pronunciation": "Intonation in expressions of surprise",
+          "key_activities": [
+            "Complete telephone conversation",
+            "Express surprise in different contexts",
+            "Work in groups to solve sequencing problems",
+            "Fill in gapped text using strategy"
+          ],
+          "group_work": [
+            "Problem-solving in groups (max 4 per group)",
+            "Group leader organizes discussion",
+            "Reporter shares group decisions"
+          ],
+          "assessment": [
+            "Ability to identify speakers on phone",
+            "Ability to work efficiently in groups",
+            "Ability to produce telephone conversation",
+            "Ability to infer speaker's mood",
+            "Develop proper strategy to fill gapped text"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "London wonders",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Matching texts with visuals",
+            "Reading and presenting information differently",
+            "Writing diary entries",
+            "Saying dates"
+          ],
+          "grammar_points": [
+            "Review: Past simple tense",
+            "Review: Past progressive",
+            "Diary note features (telegraphic style, informal)"
+          ],
+          "vocabulary": [
+            "London sights and landmarks",
+            "Dates and time expressions",
+            "Descriptive adjectives"
+          ],
+          "key_structures": [
+            "Past simple for completed actions",
+            "Diary note conventions",
+            "Date expressions"
+          ],
+          "pronunciation": "Saying dates correctly",
+          "key_activities": [
+            "Match pictures of London sights with descriptions",
+            "Practice saying dates",
+            "Present information from notes in table format",
+            "Write diary entries from notes",
+            "Write informal letter using diary information"
+          ],
+          "writing_focus": [
+            "Diary note features (short, informal, personal)",
+            "Informal letter using information from different sources",
+            "Process writing strategy (draft, peer correction, edit, final)"
+          ],
+          "project_work": [
+            "Writing regular diary notes in English",
+            "Using diary templates"
+          ],
+          "assessment": [
+            "Ability to match texts with visuals",
+            "Ability to present information in different form",
+            "Ability to write diary entries from notes",
+            "Ability to produce informal letter using process writing"
+          ],
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 2,
+      "module_name": "School and Education",
+      "theme": "English school system, education, parent involvement",
+      "story_context": "Continued story - Imene learning about English schools",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "English secondary school (1)",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Describing school facilities",
+            "Talking about future plans",
+            "Inferring meaning from context"
+          ],
+          "grammar_points": [
+            "NEW: 'be going to + base form' (future plans)",
+            "Present simple for routines"
+          ],
+          "vocabulary": [
+            "School facilities (lab, library, gym, canteen, staff room)",
+            "School subjects",
+            "Educational terms"
+          ],
+          "key_structures": [
+            "be going to + base form for intentions",
+            "Present simple for routines"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Draw and label school plan",
+            "Read about English school system",
+            "Infer meaning of unfamiliar words from context",
+            "Write about future plans"
+          ],
+          "assessment": [
+            "Ability to infer meaning of unfamiliar words from context",
+            "Ability to write about future plans",
+            "Ability to identify strategies for collecting information"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "English secondary school (2)",
+          "skills": ["Reading", "Listening", "Writing"],
+          "functions": [
+            "Completing gapped text from timetable",
+            "Completing conversation from report",
+            "Understanding school schedules"
+          ],
+          "grammar_points": [
+            "NEW: Questions with 'How long...?'",
+            "Time expressions (duration)",
+            "Timetable reading"
+          ],
+          "vocabulary": [
+            "School subjects",
+            "Time durations",
+            "Timetable terms"
+          ],
+          "key_structures": [
+            "How long + auxiliary + subject + verb",
+            "Duration expressions"
+          ],
+          "pronunciation": "Word stress in multi-syllable words",
+          "key_activities": [
+            "Read timetable and complete sentences",
+            "Listen to conversation and complete report",
+            "Practice 'How long' questions",
+            "Write reports about own school"
+          ],
+          "assessment": [
+            "Ability to complete gapped text using timetable information",
+            "Ability to complete conversation using report information",
+            "Ability to complete report from conversation",
+            "Ability to write reports following models",
+            "Ability to identify strategies used in collecting information"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "English secondary school (3)",
+          "skills": ["Listening", "Reading", "Writing"],
+          "functions": [
+            "Completing weekly timetable",
+            "Completing paraphrased text",
+            "Collecting information strategies"
+          ],
+          "grammar_points": [
+            "Review: Present simple for schedules",
+            "Review: Time prepositions (on, at, in)"
+          ],
+          "vocabulary": [
+            "Weekly schedule terms",
+            "Paraphrasing vocabulary",
+            "Information sources"
+          ],
+          "key_structures": [
+            "Present simple for fixed schedules",
+            "Time prepositions"
+          ],
+          "pronunciation": "Key vocabulary pronunciation",
+          "key_activities": [
+            "Fill in personal weekly timetable",
+            "Complete sensitization activity on topic",
+            "Listen to identify information collection strategy",
+            "Complete paraphrase of text in groups"
+          ],
+          "group_work": [
+            "Groups of 4 with reporter",
+            "Paraphrase assigned texts",
+            "Present paraphrased versions"
+          ],
+          "ict_integration": [
+            "Access Edunet for information",
+            "Select information for school file"
+          ],
+          "assessment": [
+            "Ability to fill in weekly schedule",
+            "Ability to complete paraphrased form of text"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Do you like school?",
+          "skills": ["Reading", "Writing", "Speaking"],
+          "functions": [
+            "Reading and understanding views about school",
+            "Expressing personal attitudes",
+            "Writing emails"
+          ],
+          "grammar_points": [
+            "Review: Like/love/hate + -ing",
+            "Opinion expressions"
+          ],
+          "vocabulary": [
+            "Attitude expressions (positive/negative)",
+            "School-related opinions",
+            "Reasons and justifications"
+          ],
+          "key_structures": [
+            "Like/love/hate + gerund (-ing)",
+            "Opinion structures"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Match statements with pictures about school attitudes",
+            "Read texts identifying positive/negative views",
+            "Pool ideas about liking/hating school",
+            "Write email expressing attitude toward school"
+          ],
+          "group_work": [
+            "Express personal views in groups",
+            "Share and compare viewpoints"
+          ],
+          "assessment": [
+            "Ability to read and understand views about school",
+            "Ability to work efficiently in group",
+            "Ability to write email expressing attitude"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Parents and education",
+          "skills": ["Reading", "Listening", "Writing"],
+          "functions": [
+            "Reading and inferring meaning",
+            "Listening to identify speakers' attitudes",
+            "Writing about parents' role"
+          ],
+          "grammar_points": [
+            "NEW: 'should' for advice/recommendation",
+            "Review: Justification structures"
+          ],
+          "vocabulary": [
+            "'Pushy' parents",
+            "Educational involvement terms",
+            "Advice and recommendations"
+          ],
+          "key_structures": [
+            "should + base form for advice",
+            "Justification structures"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Read and infer meaning of 'should'",
+            "Listen to identify Mary's and John's attitudes",
+            "Identify statements expressing personal views",
+            "Match statements with justifications",
+            "Write paragraph about parents' role in education"
+          ],
+          "assessment": [
+            "Ability to read and infer meaning of new words",
+            "Ability to listen and identify speakers' attitudes",
+            "Ability to write about parents' role in children's education"
+          ],
+          "self_evaluation": [
+            "Mock test at module end",
+            "Self-check of abilities developed",
+            "Identify learning deficiencies"
+          ],
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 3,
+      "module_name": "Holidays and Leisure",
+      "theme": "Social events, dinner etiquette, sports, spare time activities",
+      "story_context": "New story - topics relevant to student life",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Review and introductory lesson",
+          "skills": ["Listening", "Writing", "Speaking"],
+          "functions": [
+            "Reviewing key functions from previous modules",
+            "Arranging to meet",
+            "Asking for/expressing opinions",
+            "Writing invitations and shopping lists"
+          ],
+          "grammar_points": [
+            "Review: Question forms",
+            "Review: Invitation structures",
+            "Review: Present tenses"
+          ],
+          "vocabulary": [
+            "Social arrangements",
+            "Opinion expressions",
+            "Party/event vocabulary"
+          ],
+          "key_structures": [
+            "Question formation",
+            "Invitation expressions",
+            "Present tenses review"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Match questions and replies",
+            "Listen to identify speakers",
+            "Write invitation card",
+            "Write shopping list",
+            "Write and enact telephone conversation"
+          ],
+          "assessment": [
+            "Ability to listen and identify speakers",
+            "Ability to listen selectively for details",
+            "Ability to write invitation card",
+            "Ability to write shopping list",
+            "Ability to write and enact telephone conversation"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "The party is on",
+          "skills": ["Reading", "Listening", "Speaking"],
+          "functions": [
+            "Reading and predicting",
+            "Enjoying music and songs",
+            "Expressing invitations"
+          ],
+          "grammar_points": [
+            "Review: Invitation structures",
+            "Review: Accepting/refusing invitations"
+          ],
+          "vocabulary": [
+            "Music and dance",
+            "Party atmosphere",
+            "Social interaction"
+          ],
+          "key_structures": [
+            "Invitation language",
+            "Accepting/refusing expressions"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Match pictures with statements about music/dance",
+            "Read party description and experience atmosphere",
+            "Listen and predict what happens next",
+            "Enjoy listening to song",
+            "Practice invitation expressions"
+          ],
+          "assessment": [
+            "Ability to read and predict what will happen next",
+            "Ability to listen to song and enjoy it"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Having dinner with the Smiths",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Predicting story developments",
+            "Describing people",
+            "Giving instructions",
+            "Writing story endings"
+          ],
+          "grammar_points": [
+            "Review: Imperative for instructions",
+            "Review: Descriptive adjectives",
+            "Review: Prepositions of place"
+          ],
+          "vocabulary": [
+            "Dinner table vocabulary",
+            "Table manners",
+            "Describing people",
+            "Instructions vocabulary"
+          ],
+          "key_structures": [
+            "Imperatives for instructions",
+            "Descriptive adjectives",
+            "Prepositions of place"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Discover new vocabulary through matching",
+            "Read and predict story developments",
+            "Describe people from text",
+            "Think of parental instructions",
+            "Draw dinner table setup from description",
+            "Write story ending"
+          ],
+          "assessment": [
+            "Ability to read and predict developments",
+            "Ability to write ending of story"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Sporting Activities",
+          "skills": ["Listening", "Speaking", "Writing"],
+          "functions": [
+            "Listening for gist and details",
+            "Giving presentations",
+            "Talking about sports benefits"
+          ],
+          "grammar_points": [
+            "NEW: Gerund (-ing form as noun)",
+            "NEW: Comparative for gradual change (getting better and better)"
+          ],
+          "vocabulary": [
+            "Sports and activities",
+            "Health benefits",
+            "Fitness terms"
+          ],
+          "key_structures": [
+            "Gerund (-ing) as noun subject/object",
+            "Double comparative for gradual change"
+          ],
+          "pronunciation": "Sibilant suffix 's' (three pronunciations: /s/, /z/, /ɪz/)",
+          "key_activities": [
+            "Match sports with descriptions",
+            "Listen to opinions about sports",
+            "Identify benefits of sporting activities",
+            "Give presentation on sports benefits"
+          ],
+          "group_work": [
+            "Groups of 4 discuss sports benefits",
+            "Reporter takes notes",
+            "Group writes presentation text",
+            "Reporter presents for group"
+          ],
+          "assessment": [
+            "Ability to listen for gist and details",
+            "Ability to give presentation on sports benefits"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "What do you do in your spare time?",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Reading and presenting information",
+            "Relating information to visuals",
+            "Writing about spare time"
+          ],
+          "grammar_points": [
+            "NEW: 'spend' (spend + time + -ing)",
+            "NEW: Past progressive tense"
+          ],
+          "vocabulary": [
+            "Spare time activities",
+            "Weather descriptions",
+            "Leisure vocabulary"
+          ],
+          "key_structures": [
+            "spend + time period + -ing",
+            "Past progressive (was/were + -ing)"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Complete weather-related text",
+            "Match spare time activities",
+            "Read and complete table from text",
+            "Discover use of 'spend'",
+            "Discover past progressive tense",
+            "Write about own spare time activities"
+          ],
+          "assessment": [
+            "Ability to read and present information in different format",
+            "Ability to relate information to visuals",
+            "Ability to write about spare time activities"
+          ],
+          "self_evaluation": [
+            "The Lighter Side (grammar through jokes, homophones)",
+            "Self-check activities",
+            "Mock test"
+          ],
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 4,
+      "module_name": "Travel and Tourism",
+      "theme": "Planning holidays, transport, accommodation, shopping",
+      "story_context": "Brown family planning Easter holidays to Edinburgh, Scotland",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Planning Easter Holidays",
+          "skills": ["Listening", "Reading", "Speaking"],
+          "functions": [
+            "Listening for gist and details",
+            "Identifying locations on map",
+            "Expressing agreement"
+          ],
+          "grammar_points": [
+            "NEW: Questions with 'How' (how far, how long, how often, etc.)",
+            "Review: Future tenses"
+          ],
+          "vocabulary": [
+            "Countries of UK (England, Scotland, Wales, Northern Ireland)",
+            "Holiday planning terms",
+            "Agreement expressions (That's right, Exactly, I agree)"
+          ],
+          "key_structures": [
+            "How + adjective/adverb questions",
+            "Agreement expressions"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Sensitize to holiday theme",
+            "Listen to identify planning topic",
+            "Identify places on UK map",
+            "Listen for details about holiday plans",
+            "Identify expressions of agreement",
+            "Collect information from map",
+            "Practice 'how' questions"
+          ],
+          "project_work": [
+            "Produce brochure about local area/holiday resort"
+          ],
+          "assessment": [
+            "Ability to listen for gist",
+            "Ability to listen for details",
+            "Ability to write invitation card",
+            "Ability to identify places on map",
+            "Ability to recognize agreement expressions"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Transport",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Skimming for gist",
+            "Scanning for details",
+            "Using data from tables",
+            "Comparing transport methods"
+          ],
+          "grammar_points": [
+            "NEW: Compound nouns (N + N)",
+            "Review: Comparatives and superlatives"
+          ],
+          "vocabulary": [
+            "Transport vocabulary (plane, train, coach, car, ferry)",
+            "Speed, cost, comfort terms",
+            "Travel-related expressions"
+          ],
+          "key_structures": [
+            "Compound nouns (noun + noun)",
+            "Comparative and superlative forms"
+          ],
+          "pronunciation": "Sibilant suffix 's' practice",
+          "key_activities": [
+            "Review transport vocabulary",
+            "Skim texts for gist",
+            "Scan for specific details",
+            "Transfer information to table",
+            "Discover meaning from context",
+            "Practice compound nouns",
+            "Use key vocabulary in context"
+          ],
+          "assessment": [
+            "Ability to skim text for gist",
+            "Ability to scan for details",
+            "Ability to use data from table to answer questions"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Accommodation",
+          "skills": ["Listening", "Speaking", "Writing"],
+          "functions": [
+            "Listening and taking notes",
+            "Telephone conversation (booking accommodation)",
+            "Using relative pronouns/adverbs"
+          ],
+          "grammar_points": [
+            "NEW: Relative pronouns and adverbs (who, which, where, when)",
+            "NEW: Compound adjectives (numeral + hyphen + singular noun) - Example: a two-day trip, a three-star hotel"
+          ],
+          "vocabulary": [
+            "Accommodation types (hotel, B&B, hostel, camping)",
+            "Booking terms",
+            "Hotel facilities"
+          ],
+          "key_structures": [
+            "Relative clauses with who, which, where, when",
+            "Compound adjectives (number-noun)"
+          ],
+          "pronunciation": "Stressed syllables in multi-syllable words",
+          "key_activities": [
+            "Read about accommodation types",
+            "Listen to conversation and complete booking form",
+            "Discover meaning of words from context",
+            "Discover use of who, which, where, when",
+            "Practice using relative pronouns",
+            "Practice compound adjectives",
+            "Take part in telephone booking conversation"
+          ],
+          "assessment": [
+            "Ability to listen and take notes",
+            "Ability to participate in telephone conversation (hotel receptionist and customer)"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Getting ready for the trip",
+          "skills": ["Listening", "Writing"],
+          "functions": [
+            "Completing gapped text using strategy",
+            "Identifying setting",
+            "Using information from tables",
+            "Writing reports"
+          ],
+          "grammar_points": [
+            "Review: Past simple tense",
+            "Money-related expressions"
+          ],
+          "vocabulary": [
+            "British currency (pound, pence)",
+            "Banking terms (exchange, rate, bureau de change)",
+            "Queuing vocabulary"
+          ],
+          "key_structures": [
+            "Past simple tense",
+            "Money expressions"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Review compound adjectives",
+            "Discover British currency",
+            "Practice asking about/giving prices",
+            "Discover queuing culture in Britain",
+            "Listen and complete gapped text",
+            "Identify conversation setting",
+            "Use table information to solve problems",
+            "Write report"
+          ],
+          "assessment": [
+            "Ability to use proper strategy for gapped text",
+            "Ability to listen and identify setting",
+            "Ability to use information from table to solve problem",
+            "Ability to write report"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Shopping in Edinburgh",
+          "skills": ["Listening", "Speaking"],
+          "functions": [
+            "Listening and completing conversation",
+            "Carrying out transaction in shop",
+            "Role-playing shopping scenarios"
+          ],
+          "grammar_points": [
+            "Review: Wh-questions (What size? What color? How much?)",
+            "NEW: Compound nouns (V-ing + N) - Example: shopping bag, waiting room"
+          ],
+          "vocabulary": [
+            "Garments (shoes, clothes, accessories)",
+            "Size, color, price",
+            "Shopping transaction language"
+          ],
+          "key_structures": [
+            "Wh-questions in shopping contexts",
+            "Compound nouns (verb-ing + noun)"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Ask about/give prices of garments",
+            "Discover vocabulary (size, color, price)",
+            "Practice asking questions to identify garment",
+            "Listen for details in shopping conversation",
+            "Complete gapped shopping conversation",
+            "Recognize wh-questions meanings",
+            "Understand compound nouns (V-ing + N)",
+            "Role-play shoe shop transaction"
+          ],
+          "project_work": [
+            "Complete and display brochure",
+            "Self-evaluate using evaluation grid"
+          ],
+          "assessment": [
+            "Ability to listen and complete conversation",
+            "Ability to carry out transaction in shoe shop"
+          ],
+          "self_evaluation": [
+            "Self-check abilities",
+            "Mock test",
+            "Remedial work session"
+          ],
+          "common_errors": []
+        }
+      ]
+    },
+    {
+      "module_number": 5,
+      "module_name": "Relationships",
+      "theme": "Human relationships - friends, family, environment, pets",
+      "story_context": "Various relational topics relevant to teenagers",
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Relationships",
+          "skills": ["Reading", "Speaking", "Writing"],
+          "functions": [
+            "Reading for gist",
+            "Answering questionnaires",
+            "Giving presentations"
+          ],
+          "grammar_points": [
+            "Review: Present simple for general truths",
+            "Opinion expressions"
+          ],
+          "vocabulary": [
+            "Relationship types",
+            "Quality of relationships",
+            "Social interaction terms"
+          ],
+          "key_structures": [
+            "Present simple for general statements",
+            "Opinion expressions"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Discover vocabulary about relationships",
+            "Use vocabulary to answer personal questions",
+            "Read six texts on relationships",
+            "Match expressions with definitions",
+            "Answer relationship questionnaire",
+            "Give 3-minute talk on importance of good relationships"
+          ],
+          "assessment": [
+            "Ability to read for gist",
+            "Ability to answer questionnaire",
+            "Ability to give presentation about relationships"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Friends",
+          "skills": ["Listening", "Writing", "Speaking"],
+          "functions": [
+            "Listening for details",
+            "Writing self-description",
+            "Writing friend description",
+            "Group work on friend qualities"
+          ],
+          "grammar_points": [
+            "Review: Descriptive adjectives",
+            "NEW: Expressions of addition (also, too, as well, moreover)",
+            "NEW: Expressions of opposition (but, however, on the other hand)",
+            "Intensifiers (very, quite, rather, a bit)"
+          ],
+          "vocabulary": [
+            "Physical appearance",
+            "Personality traits",
+            "Friend qualities"
+          ],
+          "key_structures": [
+            "Descriptive language",
+            "Addition connectors",
+            "Opposition connectors",
+            "Intensifiers"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Practice describing physical appearance",
+            "Give description of oneself",
+            "Practice using new vocabulary",
+            "Listen to identify character features",
+            "Enjoy listening to song",
+            "Work in groups to decide best friend quality",
+            "Write description of best friend"
+          ],
+          "assessment": [
+            "Ability to listen for details",
+            "Ability to write self-description",
+            "Ability to write friend description",
+            "Ability to work in group on decision-making"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Family relationship",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Reading for details",
+            "Writing informal letters",
+            "Expressing feelings"
+          ],
+          "grammar_points": [
+            "NEW: Reflexive pronouns (myself, yourself, himself, herself, etc.)"
+          ],
+          "vocabulary": [
+            "Feelings (angry, sad, happy, worried, frustrated)",
+            "Family relationship terms",
+            "Advice vocabulary"
+          ],
+          "key_structures": [
+            "Reflexive pronouns",
+            "Expressing feelings"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Answer questions about family relationships",
+            "Discover vocabulary describing feelings",
+            "Practice using feelings vocabulary in context",
+            "Read for details about Catherine's feelings",
+            "React to information in text",
+            "Discover reflexive pronouns",
+            "Practice using reflexive pronouns",
+            "Write informal letter giving advice"
+          ],
+          "assessment": [
+            "Ability to read for details",
+            "Ability to write informal letter"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Save our planet",
+          "skills": ["Reading", "Writing", "Speaking"],
+          "functions": [
+            "Reading and transferring information",
+            "Group work on environmental action",
+            "Writing posters"
+          ],
+          "grammar_points": [
+            "NEW: Possessive pronouns (mine, yours, his, hers, ours, theirs)",
+            "NEW: Questions with 'whose'"
+          ],
+          "vocabulary": [
+            "Environmental terms",
+            "Pollution types",
+            "Conservation actions"
+          ],
+          "key_structures": [
+            "Possessive pronouns",
+            "Whose questions"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Discover possessive pronouns",
+            "Discover questions with 'whose'",
+            "Read about environmental issues",
+            "Transfer information to table",
+            "React to environmental information",
+            "Design environmental poster",
+            "Write about environment",
+            "Collect pictures of pollution with comments"
+          ],
+          "project_work": [
+            "Collect pictures of pollution",
+            "Write comments on pictures",
+            "Display project"
+          ],
+          "assessment": [
+            "Ability to read and transfer information from sources",
+            "Ability to work in group to agree on environmental action",
+            "Ability to write poster about protecting environment"
+          ],
+          "common_errors": []
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Pets",
+          "skills": ["Reading", "Writing"],
+          "functions": [
+            "Guessing story topic from title/visuals",
+            "Reading narratives",
+            "Identifying story elements",
+            "Reading and reacting"
+          ],
+          "grammar_points": [
+            "NEW: 'could' for past ability",
+            "Review: Narrative tenses (past simple, past progressive)"
+          ],
+          "vocabulary": [
+            "Pets and animals",
+            "Pet care terms",
+            "Narrative vocabulary"
+          ],
+          "key_structures": [
+            "could for past ability",
+            "Narrative tenses",
+            "Story elements"
+          ],
+          "pronunciation": null,
+          "key_activities": [
+            "Activate prior knowledge about pets",
+            "Discover more about pets",
+            "Develop awareness of narrative features",
+            "Identify characters and relationships",
+            "Identify setting",
+            "Follow plot development",
+            "Identify climax and denouement",
+            "Discover meaning of 'could'",
+            "Practice producing sentences with 'could'",
+            "Write about pets"
+          ],
+          "narrative_elements": {
+            "characters": "People/animals in story",
+            "setting": "Time and place",
+            "plot": "Sequence of events",
+            "climax": "Highest point of tension",
+            "denouement": "Resolution/ending"
+          },
+          "assessment": [
+            "Ability to guess topic using title and visuals",
+            "Ability to identify characters and relationships",
+            "Ability to represent plot in diagram",
+            "Ability to identify climax and denouement",
+            "Ability to react to information",
+            "Ability to write about pets"
+          ],
+          "self_evaluation": [
+            "Self-check of module abilities",
+            "Mock test",
+            "Review and remedial work"
+          ],
+          "common_errors": []
+        }
+      ]
+    }
+  ],
+  "grammar_overview": {
+    "tenses": [
+      {
+        "name": "Present simple",
+        "status": "Review",
+        "uses": ["general truths", "routines", "schedules"]
+      },
+      {
+        "name": "Present progressive",
+        "status": "Review",
+        "uses": ["current actions", "future arrangements"]
+      },
+      {
+        "name": "Past simple",
+        "status": "Review",
+        "uses": ["completed past actions"]
+      },
+      {
+        "name": "Past progressive",
+        "status": "NEW - Module 3",
+        "form": "was/were + -ing",
+        "uses": ["actions in progress in the past"]
+      },
+      {
+        "name": "Future with 'will'",
+        "status": "NEW - Module 1",
+        "form": "will + base form",
+        "uses": ["predictions", "spontaneous decisions"]
+      },
+      {
+        "name": "Future with 'be going to'",
+        "status": "NEW - Module 2",
+        "form": "be going to + base form",
+        "uses": ["plans", "intentions"]
+      }
+    ],
+    "modals_and_expressions": [
+      {
+        "structure": "can",
+        "status": "Review",
+        "use": "present ability"
+      },
+      {
+        "structure": "will be able to",
+        "status": "NEW - Module 1",
+        "form": "will be able to + base form",
+        "use": "future ability"
+      },
+      {
+        "structure": "should",
+        "status": "NEW - Module 2",
+        "form": "should + base form",
+        "use": "advice/recommendation"
+      },
+      {
+        "structure": "could",
+        "status": "NEW - Module 5",
+        "use": "past ability"
+      }
+    ],
+    "question_forms": [
+      {
+        "type": "Yes/no questions",
+        "status": "Review"
+      },
+      {
+        "type": "Wh-questions",
+        "status": "Review"
+      },
+      {
+        "type": "How long...?",
+        "status": "NEW - Module 2",
+        "use": "asking about duration"
+      },
+      {
+        "type": "How far/how often/etc.",
+        "status": "NEW - Module 4",
+        "use": "various information questions"
+      },
+      {
+        "type": "Whose...?",
+        "status": "NEW - Module 5",
+        "use": "asking about possession"
+      }
+    ],
+    "pronouns": [
+      {
+        "type": "Personal pronouns",
+        "status": "Review"
+      },
+      {
+        "type": "Demonstratives",
+        "status": "Review",
+        "examples": ["this", "that", "these", "those"]
+      },
+      {
+        "type": "Relative pronouns and adverbs",
+        "status": "NEW - Module 4",
+        "examples": ["who", "which", "where", "when"]
+      },
+      {
+        "type": "Reflexive pronouns",
+        "status": "NEW - Module 5",
+        "examples": ["myself", "yourself", "himself", "herself", "itself", "ourselves", "yourselves", "themselves"]
+      },
+      {
+        "type": "Possessive pronouns",
+        "status": "NEW - Module 5",
+        "examples": ["mine", "yours", "his", "hers", "ours", "theirs"]
+      }
+    ],
+    "other_structures": [
+      {
+        "structure": "Gerund (-ing as noun)",
+        "status": "NEW - Module 3",
+        "use": "verbal noun as subject or object",
+        "examples": ["Swimming is fun", "I enjoy reading"]
+      },
+      {
+        "structure": "spend + time + -ing",
+        "status": "NEW - Module 3",
+        "example": "I spend two hours playing football"
+      },
+      {
+        "structure": "Comparative for gradual change",
+        "status": "NEW - Module 3",
+        "form": "getting better and better",
+        "use": "showing progressive improvement"
+      },
+      {
+        "structure": "Compound nouns (N+N)",
+        "status": "NEW - Module 4",
+        "examples": ["bus stop", "football match"]
+      },
+      {
+        "structure": "Compound nouns (V-ing+N)",
+        "status": "NEW - Module 4",
+        "examples": ["shopping bag", "waiting room"]
+      },
+      {
+        "structure": "Compound adjectives (numeral-noun)",
+        "status": "NEW - Module 4",
+        "examples": ["two-day trip", "three-star hotel"],
+        "note": "Noun is singular after hyphen"
+      },
+      {
+        "structure": "Sequential adverbs",
+        "status": "NEW - Module 1",
+        "examples": ["first", "then", "next", "after that", "finally"],
+        "use": "organizing text chronologically"
+      },
+      {
+        "structure": "Expressions of addition",
+        "status": "NEW - Module 5",
+        "examples": ["also", "too", "as well", "moreover"]
+      },
+      {
+        "structure": "Expressions of opposition",
+        "status": "NEW - Module 5",
+        "examples": ["but", "however", "on the other hand"]
+      },
+      {
+        "structure": "Like/love/hate + -ing",
+        "status": "Review - Module 2",
+        "use": "expressing preferences"
+      },
+      {
+        "structure": "Intensifiers",
+        "status": "Module 5",
+        "examples": ["very", "quite", "rather", "a bit"]
+      }
+    ]
+  },
+  "vocabulary_themes": [
+    {
+      "category": "Personal and Social",
+      "topics": [
+        "Family and relationships",
+        "Physical appearance",
+        "Personality traits",
+        "Feelings and emotions",
+        "Friends and friendship"
+      ]
+    },
+    {
+      "category": "Education",
+      "topics": [
+        "School facilities and subjects",
+        "School systems (British vs Tunisian)",
+        "Parents and education",
+        "Study and learning"
+      ]
+    },
+    {
+      "category": "Travel and Tourism",
+      "topics": [
+        "Countries and locations (UK focus)",
+        "Transport methods",
+        "Accommodation types",
+        "Shopping and transactions",
+        "British currency"
+      ]
+    },
+    {
+      "category": "Leisure and Entertainment",
+      "topics": [
+        "Parties and social events",
+        "Music and dance",
+        "Sports and fitness",
+        "Spare time activities",
+        "Hobbies"
+      ]
+    },
+    {
+      "category": "Environment and Animals",
+      "topics": [
+        "Environmental issues",
+        "Pollution and conservation",
+        "Pets and pet care",
+        "Nature"
+      ]
+    },
+    {
+      "category": "Communication",
+      "topics": [
+        "Letter writing",
+        "Telephone conversations",
+        "Email writing",
+        "Invitations"
+      ]
+    }
+  ],
+  "writing_types": [
+    {
+      "type": "Personal letters",
+      "category": "Informal Writing",
+      "features": [
+        "Greeting, opening, body, closing, signature",
+        "Informal language",
+        "Personal news and updates"
+      ]
+    },
+    {
+      "type": "Emails",
+      "category": "Informal Writing",
+      "features": [
+        "Subject line",
+        "Greeting",
+        "Message body",
+        "Closing"
+      ]
+    },
+    {
+      "type": "Diary entries",
+      "category": "Informal Writing",
+      "features": [
+        "Date",
+        "Telegraphic style",
+        "Personal reflections",
+        "Informal language"
+      ]
+    },
+    {
+      "type": "Invitations",
+      "category": "Functional Writing",
+      "features": [
+        "Purpose statement",
+        "Invitation expression",
+        "Details (date, time, place)"
+      ]
+    },
+    {
+      "type": "Shopping lists",
+      "category": "Functional Writing",
+      "features": [
+        "Items needed",
+        "Quantities",
+        "Categories"
+      ]
+    },
+    {
+      "type": "Reports",
+      "category": "Functional Writing",
+      "features": [
+        "Factual information",
+        "Organized structure",
+        "Clear language"
+      ]
+    },
+    {
+      "type": "Descriptions",
+      "category": "Creative Writing",
+      "subtypes": [
+        "People (physical and personality)",
+        "Places",
+        "Events"
+      ]
+    },
+    {
+      "type": "Narratives",
+      "category": "Creative Writing",
+      "subtypes": [
+        "Story endings",
+        "Personal experiences"
+      ]
+    },
+    {
+      "type": "Argumentative texts",
+      "category": "Creative Writing",
+      "features": [
+        "Statement of position",
+        "Arguments (pros and cons)",
+        "Justifications"
+      ]
+    },
+    {
+      "type": "Posters",
+      "category": "Visual Presentations",
+      "features": [
+        "Eye-catching design",
+        "Clear message",
+        "Visual elements"
+      ]
+    },
+    {
+      "type": "Brochures",
+      "category": "Visual Presentations",
+      "features": [
+        "Informative content",
+        "Organized sections",
+        "Attractive layout"
+      ]
+    }
+  ],
+  "reading_strategies": [
+    {
+      "strategy": "Skimming",
+      "description": "Reading quickly for gist",
+      "purposes": [
+        "Identifying main ideas",
+        "Getting overview of text"
+      ]
+    },
+    {
+      "strategy": "Scanning",
+      "description": "Looking for specific information",
+      "purposes": [
+        "Finding details quickly",
+        "Using text features (headings, bold text)"
+      ]
+    },
+    {
+      "strategy": "Intensive Reading",
+      "description": "Reading carefully for details",
+      "purposes": [
+        "Understanding relationships",
+        "Analyzing information"
+      ]
+    },
+    {
+      "strategy": "Predicting",
+      "description": "Anticipating content",
+      "purposes": [
+        "Using title and visuals",
+        "Guessing what comes next",
+        "Making inferences"
+      ]
+    },
+    {
+      "strategy": "Context Clues",
+      "description": "Using surrounding information",
+      "purposes": [
+        "Inferring meaning of unfamiliar words",
+        "Building vocabulary"
+      ]
+    }
+  ],
+  "listening_strategies": [
+    {
+      "strategy": "Listening for Gist",
+      "purposes": [
+        "Understanding main idea",
+        "Identifying topic",
+        "Getting overview"
+      ]
+    },
+    {
+      "strategy": "Listening for Details",
+      "purposes": [
+        "Finding specific information",
+        "Answering comprehension questions",
+        "Taking notes"
+      ]
+    },
+    {
+      "strategy": "Listening for Inference",
+      "purposes": [
+        "Identifying speakers",
+        "Understanding attitudes/moods",
+        "Recognizing relationships"
+      ]
+    },
+    {
+      "strategy": "Active Listening",
+      "purposes": [
+        "Predicting content",
+        "Confirming predictions",
+        "Adjusting understanding"
+      ]
+    }
+  ],
+  "speaking_activities": [
+    {
+      "type": "Dialogues and Conversations",
+      "examples": [
+        "Pair work conversations",
+        "Telephone conversations",
+        "Role-plays",
+        "Information gap activities"
+      ]
+    },
+    {
+      "type": "Presentations",
+      "examples": [
+        "Individual presentations (3 minutes)",
+        "Group presentations",
+        "Describing visuals",
+        "Reporting group decisions"
+      ]
+    },
+    {
+      "type": "Discussions",
+      "examples": [
+        "Group discussions",
+        "Expressing opinions",
+        "Agreeing/disagreeing",
+        "Justifying viewpoints"
+      ]
+    },
+    {
+      "type": "Interactive Tasks",
+      "examples": [
+        "Describing and guessing",
+        "Giving and following instructions",
+        "Asking and answering questions",
+        "Solving problems together"
+      ]
+    }
+  ],
+  "pronunciation_focus": [
+    {
+      "area": "Word Stress",
+      "topics": [
+        "Multi-syllable words",
+        "Compound nouns",
+        "Compound adjectives"
+      ]
+    },
+    {
+      "area": "Sounds and Patterns",
+      "topics": [
+        "Sibilant suffix 's' (three pronunciations: /s/, /z/, /ɪz/)",
+        "Ordinal numbers",
+        "Dates"
+      ]
+    },
+    {
+      "area": "Intonation",
+      "topics": [
+        "Questions (rising/falling)",
+        "Expressions of surprise",
+        "Agreement/disagreement"
+      ]
+    }
+  ],
+  "cultural_content": {
+    "british_culture_focus": [
+      "Geography: England, Scotland, Wales, Northern Ireland",
+      "Cities: London, Edinburgh",
+      "Landmarks: London sights, Edinburgh attractions",
+      "Education: British school system, secondary schools",
+      "Currency: British pounds and pence",
+      "Social customs: Queuing culture",
+      "Holidays: Easter holidays"
+    ],
+    "intercultural_comparisons": [
+      "Tunisian vs British school systems",
+      "Different approaches to education",
+      "Parent involvement in education",
+      "Social behaviors and customs"
+    ]
+  },
+  "project_based_learning": [
+    {
+      "module": 1,
+      "project_name": "Personal Diary",
+      "description": "Writing regular diary notes in English",
+      "activities": [
+        "Using diary templates",
+        "Reflecting on daily experiences"
+      ]
+    },
+    {
+      "module": 2,
+      "project_name": "School File",
+      "description": "Creating file about own school",
+      "activities": [
+        "Collecting information from various sources",
+        "Using ICT (accessing Edunet)",
+        "Organizing information effectively"
+      ]
+    },
+    {
+      "module": 4,
+      "project_name": "Travel Brochure",
+      "description": "Producing brochure about local area/holiday resort",
+      "activities": [
+        "Including: facilities, attractions, transport, accommodation",
+        "Designing attractive layout",
+        "Presenting information clearly"
+      ]
+    },
+    {
+      "module": 5,
+      "project_name": "Environmental Awareness",
+      "description": "Collecting pictures of pollution",
+      "activities": [
+        "Writing comments on environmental issues",
+        "Creating display",
+        "Raising awareness"
+      ]
+    }
+  ],
+  "assessment_approaches": {
+    "formative_assessment": [
+      "Ongoing observation",
+      "Activity completion",
+      "Peer feedback",
+      "Teacher feedback"
+    ],
+    "self_assessment": [
+      "End-of-module checklists",
+      "Identifying abilities developed",
+      "Recognizing learning deficiencies",
+      "Setting goals for improvement"
+    ],
+    "mock_tests": [
+      "Practice assessments",
+      "Identifying weaknesses",
+      "Building test-taking skills",
+      "Reducing anxiety"
+    ],
+    "project_evaluation": [
+      "Content quality",
+      "Design and presentation",
+      "Participation and cooperation",
+      "Language accuracy"
+    ],
+    "evaluation_criteria": [
+      "Accuracy (grammar, vocabulary)",
+      "Fluency (spoken production)",
+      "Comprehension (reading, listening)",
+      "Coherence (written production)",
+      "Participation and effort"
+    ]
+  },
+  "teaching_principles": [
+    "Learner-centered: Students at core of learning process",
+    "Discovery-based: Learning through exploration",
+    "Communicative: Focus on meaningful interaction",
+    "Integrated skills: All four skills practiced together",
+    "Process-oriented: Attention to learning processes",
+    "Formative assessment: Ongoing evaluation for improvement",
+    "Autonomy-building: Developing independent learners",
+    "Social development: Values like cooperation, tolerance, respect",
+    "Tension-free atmosphere: Supportive yet challenging environment",
+    "Success-oriented: Ensuring high chances of student success"
+  ],
+  "learning_strategies": {
+    "cognitive_strategies": [
+      "Using context for meaning",
+      "Inferring from clues",
+      "Organizing information",
+      "Taking notes",
+      "Summarizing"
+    ],
+    "metacognitive_strategies": [
+      "Planning learning",
+      "Monitoring comprehension",
+      "Self-evaluating progress",
+      "Identifying strategies used",
+      "Setting learning goals"
+    ],
+    "social_strategies": [
+      "Working cooperatively in groups",
+      "Asking for clarification",
+      "Peer feedback and correction",
+      "Sharing ideas",
+      "Respecting others' views"
+    ],
+    "affective_strategies": [
+      "Building confidence through success",
+      "Managing anxiety",
+      "Celebrating achievements",
+      "Maintaining motivation",
+      "Taking risks with language"
+    ]
+  }
+}
