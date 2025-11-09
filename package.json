@@ -1,0 +1,29 @@
+{
+  "name": "smarthub-ai-agents",
+  "version": "1.0.0",
+  "description": "SmartHub Educational AI Chat Agents - English Learning Assistant, Teacher Chat, and Parent Chat",
+  "scripts": {
+    "install": "echo 'No dependencies to install - ready to build!'",
+    "build": "node build.js",
+    "clean": "rm -rf dist",
+    "rebuild": "npm run clean && npm run build",
+    "deploy": "npm run build && echo 'Build complete! Upload the dist/ folder to your OVH hosting at ai.smarthub.com.tn'"
+  },
+  "keywords": [
+    "ai",
+    "education",
+    "chat",
+    "smarthub",
+    "groq",
+    "llama"
+  ],
+  "author": "Jalel Chniti - SmartHub ELMAOUIA ET.CO",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jalelchniti/ai.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
