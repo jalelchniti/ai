@@ -3,7 +3,7 @@ import { StarIcon } from '@heroicons/react/24/solid';
 const SocialCTAs = () => {
   // Social media URLs
   const GOOGLE_REVIEW_URL = 'https://maps.app.goo.gl/wvwiFxouk8SS9D8V8';
-  const FACEBOOK_URL = 'YOUR_FACEBOOK_PAGE_URL_HERE';  // TODO: Add Facebook URL
+  const FACEBOOK_URL = 'https://facebook.com/smarthub.com.tn/reviews';
   const INSTAGRAM_URL = 'YOUR_INSTAGRAM_PAGE_URL_HERE';  // TODO: Add Instagram URL
 
   const socialPlatforms = [
