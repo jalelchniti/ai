@@ -7,7 +7,7 @@ import ContentViewer from './pages/ContentViewer';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/cours/arabe/lettres/4">
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">
