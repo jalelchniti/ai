@@ -4,7 +4,7 @@ const SocialCTAs = () => {
   // Social media URLs
   const GOOGLE_REVIEW_URL = 'https://maps.app.goo.gl/wvwiFxouk8SS9D8V8';
   const FACEBOOK_URL = 'https://facebook.com/smarthub.com.tn/reviews';
-  const INSTAGRAM_URL = 'YOUR_INSTAGRAM_PAGE_URL_HERE';  // TODO: Add Instagram URL
+  const INSTAGRAM_URL = 'https://www.instagram.com/smarthub_tunis?igsh=am9pYW0wZXgzOHlv';
 
   const socialPlatforms = [
     {
