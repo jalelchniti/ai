@@ -1,10 +1,10 @@
 import { StarIcon } from '@heroicons/react/24/solid';
 
 const SocialCTAs = () => {
-  // PLACEHOLDERS: User will provide the actual URLs
-  const GOOGLE_REVIEW_URL = 'YOUR_GOOGLE_REVIEW_URL_HERE';
-  const FACEBOOK_URL = 'YOUR_FACEBOOK_PAGE_URL_HERE';
-  const INSTAGRAM_URL = 'YOUR_INSTAGRAM_PAGE_URL_HERE';
+  // Social media URLs
+  const GOOGLE_REVIEW_URL = 'https://maps.app.goo.gl/wvwiFxouk8SS9D8V8';
+  const FACEBOOK_URL = 'YOUR_FACEBOOK_PAGE_URL_HERE';  // TODO: Add Facebook URL
+  const INSTAGRAM_URL = 'YOUR_INSTAGRAM_PAGE_URL_HERE';  // TODO: Add Instagram URL
 
   const socialPlatforms = [
     {
