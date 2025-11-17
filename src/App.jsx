@@ -6,8 +6,11 @@ import ModulePage from './pages/ModulePage';
 import ContentViewer from './pages/ContentViewer';
 
 function App() {
+  // Use Vite's BASE_URL which automatically adjusts for dev vs production
+  const basename = import.meta.env.BASE_URL.replace(/\/$/, ''); // Remove trailing slash
+
   return (
-    <Router basename="/cours/arabe/lettres/4">
+    <Router basename={basename}>
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">

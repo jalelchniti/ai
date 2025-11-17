@@ -27,7 +27,9 @@ const ContentViewer = () => {
       try {
         // Construct the path to the markdown file
         const modulePath = moduleId === 'module-1' ? 'module 1' : 'module 2';
-        const filePath = `/resources/bac/lettres/${modulePath}/${contentItem.fileName}`;
+        // Use import.meta.env.BASE_URL to handle both dev and production paths
+        const basePath = import.meta.env.BASE_URL;
+        const filePath = `${basePath}resources/bac/lettres/${modulePath}/${contentItem.fileName}`;
 
         // Fetch the markdown file
         const response = await fetch(filePath);
