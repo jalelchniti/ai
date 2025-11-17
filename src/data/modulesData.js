@@ -3,7 +3,7 @@ export const module1Content = [
   {
     id: '01',
     title: 'نظرة عامة وأهداف',
-    fileName: '01-نظرة-عامة.md',
+    fileName: '01-apercu-general.md',
     description: 'نظرة شاملة على المحور الأول وأهدافه التعليمية',
     icon: '📚',
     difficulty: 'مبتدئ',
