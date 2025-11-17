@@ -18,19 +18,14 @@ All asset paths and routing will work correctly in the subdirectory.
 
 ## 📦 Build for Production
 
-1. **Navigate to the app directory:**
-   ```bash
-   cd bac-lettres-app
-   ```
-
-2. **Build the production version:**
+1. **Build the production version:**
    ```bash
    npm run build
    ```
 
-3. **Build output location:**
+2. **Build output location:**
    ```
-   bac-lettres-app/dist/
+   dist/
    ```
 
 ---
@@ -40,7 +35,7 @@ All asset paths and routing will work correctly in the subdirectory.
 ### Step 1: Locate the `dist` folder
 After running `npm run build`, you'll find the `dist` folder at:
 ```
-bac-lettres-app/dist/
+dist/
 ```
 
 ### Step 2: Connect to FTP
@@ -162,7 +157,7 @@ location /cours/arabe/lettres/4/ {
 
 When you make changes:
 
-1. **Update the code** in `bac-lettres-app/src/`
+1. **Update the code** in `src/`
 2. **Rebuild:**
    ```bash
    npm run build
