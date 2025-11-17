@@ -14,83 +14,71 @@ const TimetablePage = () => {
 
   const timeSlots = {
     monday: [
-      { time: '17:00-18:30', duration: '1.5h' }
+      { time: '17:00-19:00', duration: '2h' }
     ],
     tuesday: [
-      { time: '17:00-18:30', duration: '1.5h' }
+      { time: '17:00-19:00', duration: '2h' }
     ],
     wednesday: [
-      { time: '17:00-18:30', duration: '1.5h' }
+      { time: '17:00-19:00', duration: '2h' }
     ],
     thursday: [
-      { time: '17:00-18:30', duration: '1.5h' }
+      { time: '17:00-19:00', duration: '2h' }
     ],
     friday: [
-      { time: '14:00-15:30', duration: '1.5h' },
-      { time: '15:45-17:15', duration: '1.5h' },
-      { time: '17:30-19:00', duration: '1.5h' }
+      { time: '14:00-16:00', duration: '2h' },
+      { time: '16:15-18:15', duration: '2h' }
     ],
     saturday: [
-      { time: '14:00-15:30', duration: '1.5h' },
-      { time: '15:45-17:15', duration: '1.5h' },
-      { time: '17:30-19:00', duration: '1.5h' }
+      { time: '14:00-16:00', duration: '2h' },
+      { time: '16:15-18:15', duration: '2h' }
     ],
     sunday: [
-      { time: '09:00-10:30', duration: '1.5h' },
-      { time: '10:45-12:15', duration: '1.5h' }
+      { time: '09:00-11:00', duration: '2h' },
+      { time: '11:15-13:15', duration: '2h' }
     ]
   };
 
   const schedule = [
-    // MONDAY - Room 1, 2, 3
-    { day: 'monday', time: '17:00-18:30', room: 'Salle 1', group: '1ère A', subject: 'math', grade: '1ère' },
-    { day: 'monday', time: '17:00-18:30', room: 'Salle 2', group: '2ème A', subject: 'physics', grade: '2ème' },
-    { day: 'monday', time: '17:00-18:30', room: 'Salle 3', group: '3ème A', subject: 'english', grade: '3ème' },
+    // MONDAY - 2 Rooms only
+    { day: 'monday', time: '17:00-19:00', room: 'Salle 1', group: '1ère A', subject: 'math', grade: '1ère' },
+    { day: 'monday', time: '17:00-19:00', room: 'Salle 2', group: '2ème A', subject: 'physics', grade: '2ème' },
 
-    // TUESDAY - Room 1, 2, 3
-    { day: 'tuesday', time: '17:00-18:30', room: 'Salle 1', group: '1ère B', subject: 'french', grade: '1ère' },
-    { day: 'tuesday', time: '17:00-18:30', room: 'Salle 2', group: '2ème B', subject: 'math', grade: '2ème' },
-    { day: 'tuesday', time: '17:00-18:30', room: 'Salle 3', group: '3ème B', subject: 'physics', grade: '3ème' },
+    // TUESDAY - 2 Rooms only
+    { day: 'tuesday', time: '17:00-19:00', room: 'Salle 1', group: '1ère B', subject: 'french', grade: '1ère' },
+    { day: 'tuesday', time: '17:00-19:00', room: 'Salle 2', group: '3ème A', subject: 'english', grade: '3ème' },
 
-    // WEDNESDAY - Room 1, 2, 3
-    { day: 'wednesday', time: '17:00-18:30', room: 'Salle 1', group: '1ère A', subject: 'english', grade: '1ère' },
-    { day: 'wednesday', time: '17:00-18:30', room: 'Salle 2', group: '2ème A', subject: 'french', grade: '2ème' },
-    { day: 'wednesday', time: '17:00-18:30', room: 'Salle 3', group: '3ème A', subject: 'math', grade: '3ème' },
+    // WEDNESDAY - 2 Rooms only
+    { day: 'wednesday', time: '17:00-19:00', room: 'Salle 1', group: '2ème B', subject: 'math', grade: '2ème' },
+    { day: 'wednesday', time: '17:00-19:00', room: 'Salle 2', group: '1ère A', subject: 'english', grade: '1ère' },
 
-    // THURSDAY - Room 1, 2, 3
-    { day: 'thursday', time: '17:00-18:30', room: 'Salle 1', group: '1ère B', subject: 'physics', grade: '1ère' },
-    { day: 'thursday', time: '17:00-18:30', room: 'Salle 2', group: '2ème B', subject: 'english', grade: '2ème' },
-    { day: 'thursday', time: '17:00-18:30', room: 'Salle 3', group: '3ème B', subject: 'french', grade: '3ème' },
+    // THURSDAY - 2 Rooms only
+    { day: 'thursday', time: '17:00-19:00', room: 'Salle 1', group: '3ème B', subject: 'physics', grade: '3ème' },
+    { day: 'thursday', time: '17:00-19:00', room: 'Salle 2', group: '2ème A', subject: 'french', grade: '2ème' },
 
-    // FRIDAY - Session 1
-    { day: 'friday', time: '14:00-15:30', room: 'Salle 1', group: '1ère A', subject: 'physics', grade: '1ère' },
-    { day: 'friday', time: '14:00-15:30', room: 'Salle 2', group: '2ème A', subject: 'math', grade: '2ème' },
-    { day: 'friday', time: '14:00-15:30', room: 'Salle 3', group: '3ème A', subject: 'french', grade: '3ème' },
+    // FRIDAY - Session 1 (2 Rooms)
+    { day: 'friday', time: '14:00-16:00', room: 'Salle 1', group: '1ère B', subject: 'physics', grade: '1ère' },
+    { day: 'friday', time: '14:00-16:00', room: 'Salle 2', group: '2ème B', subject: 'english', grade: '2ème' },
 
-    // FRIDAY - Session 2
-    { day: 'friday', time: '15:45-17:15', room: 'Salle 1', group: '1ère B', subject: 'math', grade: '1ère' },
-    { day: 'friday', time: '15:45-17:15', room: 'Salle 2', group: '2ème B', subject: 'physics', grade: '2ème' },
-    { day: 'friday', time: '15:45-17:15', room: 'Salle 3', group: '3ème B', subject: 'math', grade: '3ème' },
+    // FRIDAY - Session 2 (2 Rooms)
+    { day: 'friday', time: '16:15-18:15', room: 'Salle 1', group: '3ème A', subject: 'math', grade: '3ème' },
+    { day: 'friday', time: '16:15-18:15', room: 'Salle 2', group: '1ère A', subject: 'physics', grade: '1ère' },
 
-    // FRIDAY - Session 3
-    { day: 'friday', time: '17:30-19:00', room: 'Salle 1', group: '1ère A', subject: 'french', grade: '1ère' },
-    { day: 'friday', time: '17:30-19:00', room: 'Salle 2', group: '2ème A', subject: 'english', grade: '2ème' },
-    { day: 'friday', time: '17:30-19:00', room: 'Salle 3', group: '3ème A', subject: 'physics', grade: '3ème' },
+    // SATURDAY - Session 1 (2 Rooms)
+    { day: 'saturday', time: '14:00-16:00', room: 'Salle 1', group: '2ème A', subject: 'math', grade: '2ème' },
+    { day: 'saturday', time: '14:00-16:00', room: 'Salle 2', group: '3ème B', subject: 'french', grade: '3ème' },
 
-    // SATURDAY - Session 1
-    { day: 'saturday', time: '14:00-15:30', room: 'Salle 1', group: '1ère B', subject: 'english', grade: '1ère' },
-    { day: 'saturday', time: '14:00-15:30', room: 'Salle 2', group: '2ème B', subject: 'french', grade: '2ème' },
-    { day: 'saturday', time: '14:00-15:30', room: 'Salle 3', group: '3ème B', subject: 'english', grade: '3ème' },
+    // SATURDAY - Session 2 (2 Rooms)
+    { day: 'saturday', time: '16:15-18:15', room: 'Salle 1', group: '1ère B', subject: 'english', grade: '1ère' },
+    { day: 'saturday', time: '16:15-18:15', room: 'Salle 2', group: '2ème B', subject: 'physics', grade: '2ème' },
 
-    // SUNDAY - Session 1
-    { day: 'sunday', time: '09:00-10:30', room: 'Salle 1', group: '2ème A', subject: 'physics', grade: '2ème' },
-    { day: 'sunday', time: '09:00-10:30', room: 'Salle 2', group: '2ème B', subject: 'math', grade: '2ème' },
-    { day: 'sunday', time: '09:00-10:30', room: 'Salle 3', group: '3ème B', subject: 'physics', grade: '3ème' },
+    // SUNDAY - Session 1 (2 Rooms)
+    { day: 'sunday', time: '09:00-11:00', room: 'Salle 1', group: '3ème A', subject: 'french', grade: '3ème' },
+    { day: 'sunday', time: '09:00-11:00', room: 'Salle 2', group: '1ère A', subject: 'french', grade: '1ère' },
 
-    // SUNDAY - Session 2
-    { day: 'sunday', time: '10:45-12:15', room: 'Salle 1', group: '1ère A', subject: 'math', grade: '1ère' },
-    { day: 'sunday', time: '10:45-12:15', room: 'Salle 2', group: '1ère B', subject: 'physics', grade: '1ère' },
-    { day: 'sunday', time: '10:45-12:15', room: 'Salle 3', group: '3ème A', subject: 'french', grade: '3ème' }
+    // SUNDAY - Session 2 (2 Rooms)
+    { day: 'sunday', time: '11:15-13:15', room: 'Salle 1', group: '3ème B', subject: 'english', grade: '3ème' },
+    { day: 'sunday', time: '11:15-13:15', room: 'Salle 2', group: '2ème B', subject: 'french', grade: '2ème' }
   ];
 
   const days = [
@@ -116,7 +104,7 @@ const TimetablePage = () => {
     );
   };
 
-  const rooms = ['Salle 1', 'Salle 2', 'Salle 3'];
+  const rooms = ['Salle 1', 'Salle 2'];
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-6">
@@ -132,9 +120,8 @@ const TimetablePage = () => {
           <div className="mt-4 flex flex-wrap gap-3">
             <div className="text-sm">
               <span className="font-semibold">6 Groupes</span> •
-              <span className="ml-2">30 Élèves</span> •
               <span className="ml-2">4 Matières</span> •
-              <span className="ml-2">3 Salles</span>
+              <span className="ml-2">8 heures par semaine</span>
             </div>
           </div>
         </div>
@@ -182,7 +169,6 @@ const TimetablePage = () => {
                 <option value="all">Toutes les salles</option>
                 <option value="Salle 1">Salle 1</option>
                 <option value="Salle 2">Salle 2</option>
-                <option value="Salle 3">Salle 3</option>
               </select>
             </div>
           </div>
