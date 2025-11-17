@@ -140,7 +140,7 @@ const TimetablePage = () => {
                 <option value="all">Tous les niveaux</option>
                 <option value="1ère">1ère Année</option>
                 <option value="2ème">2ème Année</option>
-                <option value="3ème">3ème Année (BAC)</option>
+                <option value="3ème">3ème Année</option>
               </select>
             </div>
 
