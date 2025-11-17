@@ -22,16 +22,16 @@ const ModulePage = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50" dir="rtl">
       {/* Module Header */}
       <div className={`bg-gradient-to-br ${module.color} text-white py-16 md:py-24`}>
         <div className="container-custom">
           <Link
             to="/"
-            className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-6 transition-colors"
+            className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-6 transition-colors flex-row-reverse"
           >
-            <ArrowLeftIcon className="h-5 w-5" />
             <span>العودة للرئيسية</span>
+            <ArrowLeftIcon className="h-5 w-5 rotate-180" />
           </Link>
 
           <div className="max-w-4xl fade-in">
@@ -39,7 +39,7 @@ const ModulePage = () => {
               <span className="text-sm font-semibold">المحور {module.number}</span>
             </div>
 
-            <div className="flex items-start gap-4 mb-6">
+            <div className="flex items-start gap-4 mb-6 flex-row-reverse">
               <div className="text-6xl md:text-7xl">{module.icon}</div>
               <div className="flex-1">
                 <h1 className="arabic-text text-3xl md:text-5xl font-bold mb-4 leading-tight">
@@ -113,11 +113,11 @@ const ModulePage = () => {
                 {item.description}
               </p>
 
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between flex-row-reverse">
+                <ArrowLeftIcon className="h-5 w-5 text-gold-600 group-hover:-translate-x-1 transition-transform rotate-180" />
                 <span className={`arabic-text text-xs font-semibold px-3 py-1 rounded-full ${getDifficultyColor(item.difficulty)}`}>
                   {item.difficulty}
                 </span>
-                <ArrowLeftIcon className="h-5 w-5 text-gold-600 group-hover:translate-x-1 transition-transform" />
               </div>
             </Link>
           ))}

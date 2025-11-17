@@ -5,18 +5,18 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white">
+    <footer className="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white" dir="rtl">
       <div className="container-custom py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <Link to="/" className="flex items-center gap-3 group w-fit">
-              <div className="bg-gradient-to-br from-gold-400 to-gold-600 p-2 rounded-xl shadow-lg group-hover:shadow-xl transition-all duration-300">
-                <BookOpenIcon className="h-8 w-8 text-white" />
-              </div>
+            <Link to="/" className="flex items-center gap-3 group w-fit flex-row-reverse">
               <span className="arabic-text text-xl font-bold text-white">
                 بكالوريا آداب عربية
               </span>
+              <div className="bg-gradient-to-br from-gold-400 to-gold-600 p-2 rounded-xl shadow-lg group-hover:shadow-xl transition-all duration-300">
+                <BookOpenIcon className="h-8 w-8 text-white" />
+              </div>
             </Link>
             <p className="arabic-text text-gray-300 leading-relaxed">
               منصة تعليمية شاملة لطلاب البكالوريا شعبة الآداب - المحاور الأدبية العربية
@@ -73,10 +73,10 @@ const Footer = () => {
             <div className="space-y-3">
               <a
                 href="mailto:info@baclettres.tn"
-                className="flex items-center gap-2 text-gray-300 hover:text-gold-400 transition-colors duration-300"
+                className="flex items-center gap-2 text-gray-300 hover:text-gold-400 transition-colors duration-300 flex-row-reverse justify-end"
               >
-                <EnvelopeIcon className="h-5 w-5" />
                 <span>info@baclettres.tn</span>
+                <EnvelopeIcon className="h-5 w-5" />
               </a>
               <p className="text-sm text-gray-400 leading-relaxed">
                 المستشار التربوي: الأستاذ جلال الشنيتي

@@ -31,7 +31,7 @@ const HomePage = () => {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-gold-400 via-gold-500 to-gold-600 text-white py-20 md:py-32">
+      <section className="bg-gradient-to-br from-gold-400 via-gold-500 to-gold-600 text-white py-20 md:py-32" dir="rtl">
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center fade-in">
             <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full mb-6">
@@ -51,8 +51,8 @@ const HomePage = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#modules" className="btn-secondary">
+                <ArrowRightIcon className="h-5 w-5 inline ml-2" />
                 استكشف المحاور
-                <ArrowRightIcon className="h-5 w-5 inline mr-2" />
               </a>
               <a href="#newsletter" className="bg-white/20 backdrop-blur-sm text-white px-6 py-3 rounded-lg font-semibold hover:bg-white/30 transition-all duration-300 border-2 border-white/30">
                 اشترك في النشرة
@@ -63,7 +63,7 @@ const HomePage = () => {
       </section>
 
       {/* Features Section */}
-      <section className="py-16 bg-white">
+      <section className="py-16 bg-white" dir="rtl">
         <div className="container-custom">
           <div className="text-center mb-12">
             <h2 className="arabic-text text-3xl md:text-4xl font-bold text-gray-900 mb-4">
@@ -97,7 +97,7 @@ const HomePage = () => {
       </section>
 
       {/* Modules Section */}
-      <section id="modules" className="py-16 bg-gray-50">
+      <section id="modules" className="py-16 bg-gray-50" dir="rtl">
         <div className="container-custom">
           <div className="text-center mb-12">
             <h2 className="arabic-text text-3xl md:text-4xl font-bold text-gray-900 mb-4">
@@ -117,7 +117,7 @@ const HomePage = () => {
               >
                 {/* Header with gradient */}
                 <div className={`bg-gradient-to-br ${module.color} p-8 text-white`}>
-                  <div className="flex items-start gap-4">
+                  <div className="flex items-start gap-4 flex-row-reverse">
                     <div className="text-6xl">{module.icon}</div>
                     <div className="flex-1">
                       <div className="inline-block bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-semibold mb-3">
@@ -159,10 +159,10 @@ const HomePage = () => {
 
                   <Link
                     to={module.path}
-                    className="btn-primary w-full flex items-center justify-center gap-2"
+                    className="btn-primary w-full flex items-center justify-center gap-2 flex-row-reverse"
                   >
-                    <span>ادخل إلى المحور</span>
                     <ArrowRightIcon className="h-5 w-5" />
+                    <span>ادخل إلى المحور</span>
                   </Link>
                 </div>
               </div>
@@ -172,7 +172,7 @@ const HomePage = () => {
       </section>
 
       {/* Stats Section */}
-      <section className="py-16 bg-white">
+      <section className="py-16 bg-white" dir="rtl">
         <div className="container-custom">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             {[
@@ -201,7 +201,7 @@ const HomePage = () => {
       <NewsletterCTA />
 
       {/* Final CTA */}
-      <section className="py-16 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white">
+      <section className="py-16 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white" dir="rtl">
         <div className="container-custom text-center">
           <h2 className="arabic-text text-3xl md:text-4xl font-bold mb-4">
             جاهز للبدء؟
@@ -210,8 +210,8 @@ const HomePage = () => {
             استكشف المحاور الأدبية وابدأ رحلتك نحو التفوق في امتحان البكالوريا
           </p>
           <a href="#modules" className="btn-primary">
+            <ArrowRightIcon className="h-5 w-5 inline ml-2" />
             ابدأ الآن
-            <ArrowRightIcon className="h-5 w-5 inline mr-2" />
           </a>
         </div>
       </section>

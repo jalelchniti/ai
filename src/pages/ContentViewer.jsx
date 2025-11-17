@@ -93,7 +93,7 @@ const ContentViewer = () => {
         {ttsEnabled && (
           <button
             onClick={() => speakText(String(children))}
-            className="mr-3 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity"
+            className="ml-3 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity"
             title="استمع"
           >
             🔊
@@ -107,7 +107,7 @@ const ContentViewer = () => {
         {ttsEnabled && (
           <button
             onClick={() => speakText(String(children))}
-            className="mr-3 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity"
+            className="ml-3 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity"
             title="استمع"
           >
             🔊
@@ -121,7 +121,7 @@ const ContentViewer = () => {
         {ttsEnabled && String(children).length > 20 && (
           <button
             onClick={() => speakText(String(children))}
-            className="mr-2 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity text-sm"
+            className="ml-2 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity text-sm"
             title="استمع"
           >
             🔊
@@ -135,7 +135,7 @@ const ContentViewer = () => {
         {ttsEnabled && (
           <button
             onClick={() => speakText(String(children))}
-            className="mr-3 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity"
+            className="ml-3 inline-flex items-center gap-1 text-gold-500 hover:text-gold-600 opacity-0 group-hover:opacity-100 transition-opacity"
             title="استمع"
           >
             🔊
@@ -172,7 +172,7 @@ const ContentViewer = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50" dir="rtl">
       {/* Header */}
       <div className={`bg-gradient-to-br ${module.color} text-white py-8 sticky top-0 z-40 shadow-lg`}>
         <div className="container-custom">
@@ -180,10 +180,10 @@ const ContentViewer = () => {
             <div>
               <Link
                 to={`/${moduleId}`}
-                className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-2 transition-colors"
+                className="inline-flex items-center gap-2 text-white/80 hover:text-white mb-2 transition-colors flex-row-reverse"
               >
-                <ArrowLeftIcon className="h-4 w-4" />
                 <span className="text-sm">العودة للمحور</span>
+                <ArrowLeftIcon className="h-4 w-4 rotate-180" />
               </Link>
               <h1 className="arabic-text text-2xl md:text-3xl font-bold">
                 {contentItem.title}
@@ -224,7 +224,7 @@ const ContentViewer = () => {
         <div className="max-w-5xl mx-auto">
           <div className="card p-8 md:p-12 fade-in">
             {ttsEnabled && (
-              <div className="mb-6 p-4 bg-gold-50 border-r-4 border-gold-500 rounded-lg">
+              <div className="mb-6 p-4 bg-gold-50 border-l-4 border-gold-500 rounded-lg">
                 <p className="arabic-text text-sm text-gray-700">
                   🔊 <strong>ميزة الاستماع مفعلة:</strong> مرر الفأرة فوق النصوص واضغط على الأيقونة 🔊 للاستماع
                 </p>
@@ -242,24 +242,24 @@ const ContentViewer = () => {
           </div>
 
           {/* Navigation */}
-          <div className="flex justify-between items-center mt-8">
-            <Link
-              to={`/${moduleId}`}
-              className="btn-secondary"
-            >
-              <ArrowLeftIcon className="h-5 w-5 inline ml-2" />
-              العودة للمحور
-            </Link>
-
+          <div className="flex justify-between items-center mt-8 flex-row-reverse">
             {contentItem.id !== '06' && (
               <Link
                 to={`/${moduleId}/content/${String(Number(contentItem.id) + 1).padStart(2, '0')}`}
-                className="btn-primary"
+                className="btn-primary flex items-center gap-2"
               >
-                الملف التالي
-                <ArrowLeftIcon className="h-5 w-5 inline mr-2 rotate-180" />
+                <ArrowLeftIcon className="h-5 w-5" />
+                <span>الملف التالي</span>
               </Link>
             )}
+
+            <Link
+              to={`/${moduleId}`}
+              className="btn-secondary flex items-center gap-2"
+            >
+              <ArrowLeftIcon className="h-5 w-5 rotate-180" />
+              <span>العودة للمحور</span>
+            </Link>
           </div>
         </div>
       </div>
