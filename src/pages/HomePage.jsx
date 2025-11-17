@@ -23,8 +23,8 @@ const HomePage = () => {
     },
     {
       icon: <CheckCircleIcon className="h-8 w-8" />,
-      title: 'ميزة TTS للاستماع',
-      description: 'استمع للنصوص العربية بصوت أدبي واضح',
+      title: 'موارد متكاملة',
+      description: 'محتوى غني ومتنوع يغطي جميع جوانب المنهج الدراسي',
     },
   ];
 
