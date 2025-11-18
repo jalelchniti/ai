@@ -207,7 +207,10 @@ Current build size:
 For deployment issues, contact:
 - **Technical Support:** Your hosting provider
 - **App Developer:** SmartHub Tunisia
-- **Email:** info@smarthub.com.tn
+- **Email:** contact@smarthub.com.tn
+- **WhatsApp:** 99 730 144
+- **Phone:** 99 456 059
+- **Website:** www.smarthub.com.tn
 
 ---
 

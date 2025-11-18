@@ -72,14 +72,20 @@ const Footer = () => {
             <h3 className="text-lg font-bold mb-4 text-gold-400">تواصل معنا</h3>
             <div className="space-y-3">
               <a
-                href="mailto:info@baclettres.tn"
+                href="mailto:contact@smarthub.com.tn"
                 className="flex items-center gap-2 text-gray-300 hover:text-gold-400 transition-colors duration-300 flex-row-reverse justify-end"
               >
-                <span>info@baclettres.tn</span>
+                <span>contact@smarthub.com.tn</span>
                 <EnvelopeIcon className="h-5 w-5" />
               </a>
-              <p className="text-sm text-gray-400 leading-relaxed">
-                المستشار التربوي: الأستاذ جلال الشنيتي
+              <p className="text-sm text-gray-300">
+                📱 WhatsApp: 99 730 144
+              </p>
+              <p className="text-sm text-gray-300">
+                ☎️ Téléphone: 99 456 059
+              </p>
+              <p className="text-sm text-gray-300">
+                🌐 www.smarthub.com.tn
               </p>
             </div>
           </div>

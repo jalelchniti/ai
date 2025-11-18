@@ -54,40 +54,7 @@ const HomePage = () => {
                 <ArrowRightIcon className="h-5 w-5 inline ml-2" />
                 استكشف المحاور
               </a>
-              <Link to="/offre-4-matieres" className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 border-2 border-red-500 shadow-lg hover:shadow-xl flex items-center justify-center gap-2">
-                <span className="animate-pulse">🎓</span>
-                Offre 4 matières pour 170 DT/mois SEULEMENT
-              </Link>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Special Offer Section */}
-      <section className="py-12 bg-gradient-to-r from-red-600 to-red-700 text-white">
-        <div className="container-custom">
-          <div className="max-w-5xl mx-auto text-center">
-            <div className="flex items-center justify-center gap-3 mb-4">
-              <span className="text-5xl animate-bounce">🎓</span>
-              <h2 className="text-3xl md:text-4xl font-bold">Offre Spéciale SmartHub</h2>
-              <span className="text-5xl animate-bounce">📚</span>
-            </div>
-            <p className="text-2xl md:text-3xl font-bold mb-4">
-              4 Matières pour 170 DT/mois SEULEMENT!
-            </p>
-            <p className="text-lg mb-6 opacity-90">
-              Mathématiques • Physique • Anglais • Français
-            </p>
-            <p className="text-base mb-6 opacity-80">
-              Programme complet pour 1ère, 2ème et 3ème Année Secondaire • 6 heures par semaine • Groupes limités
-            </p>
-            <Link
-              to="/offre-4-matieres"
-              className="inline-flex items-center gap-3 bg-white text-red-600 px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105"
-            >
-              <span>Voir le Planning Complet</span>
-              <ArrowRightIcon className="h-6 w-6" />
-            </Link>
           </div>
         </div>
       </section>

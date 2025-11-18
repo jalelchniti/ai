@@ -274,7 +274,8 @@ const TimetablePage = () => {
           <p className="font-semibold text-gray-800 mb-2">SmartHub - ELMAOUIA ET.CO</p>
           <p>📍 Place Barcelone, Tunis Centre Ville</p>
           <p className="mt-1">📧 contact@smarthub.com.tn</p>
-          <p className="mt-1">📱 WhatsApp: 99 730 144 - 99 456 059</p>
+          <p className="mt-1">📱 WhatsApp: 99 730 144</p>
+          <p className="mt-1">☎️ Téléphone: 99 456 059</p>
           <p className="mt-1">🌐 www.smarthub.com.tn</p>
         </div>
       </div>
